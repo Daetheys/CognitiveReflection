@@ -37,12 +37,12 @@ class Runner(Module):
                         # Ask why in the buffer and compute the answer
                         a2 = self.model.ask_rec('\nWhy ?')
                         # Log results
-                        self.logger.log(self.model.rec_buffer, x=i+0, y=qi+1)
+                        logger.log(self.model.rec_buffer, x=i+0, y=qi+1)
                     else:
                         # Log results with bold characters
-                        self.logger.log(self.logger.bold, self.model.rec_buffer[:len(
+                        logger.log(logger.bold, self.model.rec_buffer[:len(
                             str(q))+1], self.model.rec_buffer[len(str(q))+1:], x=i+0, y=qi+1)
-                    self.logger.log('---------'*4)
+                    logger.log('---------'*4)
 
                     # Print results
                     print('------>', qi, i, ':', (i+qi*self.config['nb_run_per_question'])/(

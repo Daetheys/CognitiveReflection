@@ -25,7 +25,7 @@ class Logger(Module):
 
     def __enter__(self):
         self.f = open(os.path.join(self.path, 'log.txt'), 'a')
-        return True
+        return self
 
     def __exit__(self, exc_type, exc_value, tb):
         # Close the file

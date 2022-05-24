@@ -1,0 +1,2342 @@
+asking
+-
+ok
+------> 0 0 : 0.0 %
+A bat and a ball cost £1.10 in total. The bat costs £1.00 more than the ball. How much does the ball cost?
+
+
+
+The ball costs 10p.
+-- Why ?
+
+-- Because if you add up 1.00 and 0.10, you get 1.10.
+
+asking
+-
+ok
+------> 0 1 : 0.14285714285714285 %
+A bat and a ball cost £1.10 in total. The bat costs £1.00 more than the ball. How much does the ball cost?
+
+
+
+The ball costs £0.10
+-- Why ?
+
+Because if you add up the cost of the bat and the ball, it equals £1.10. So the bat must cost £1.00, and the ball must cost £0.10.
+
+asking
+-
+--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it is the strongest of the three animals and can climb the tree the fastest. The squirrel will be second, followed by the bird.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the coconut tree the fastest.--------------
+In a one-storey pink house, there was a pink person, a pink cat, a pink fish, a pink computer, a pink chair, a pink table, a pink telephone, a pink shower — everything was pink! What colour were the stairs probably?
+
+The stairs were probably pink.
+
+Why ?
+
+Because everything in the house was pink.--------------
+In a one-storey pink house, there was a pink person, a pink cat, a pink fish, a pink computer, a pink chair, a pink table, a pink telephone, a pink shower — everything was pink! What colour were the stairs probably?
+
+The stairs were most likely pink.
+
+Why ?
+
+In the one-storey pink house, everything is pink, so the stairs are most likely pink as well.--------------
+The wind blows west. An electric train runs east. In which cardinal direction does the smoke from the locomotive blow ?
+
+The smoke blows north.
+
+Why ?
+
+The wind blows from the west, and the train is running from the east. The smoke from the locomotive would be blown north by the wind.--------------
+The wind blows west. An electric train runs east. In which cardinal direction does the smoke from the locomotive blow ?
+
+The smoke from the locomotive blows south.
+
+Why ?
+
+The wind blows west and the electric train runs east. The smoke from the locomotive would blow south because of the wind blowing west and the train running east.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because the first four names all end with the letter "N" and so the fifth daughter's name is likely to also end with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because the pattern established by the first four names is that each successive name is one letter further along in the alphabet than the previous name. Therefore, the fifth daughter's name would be expected to be Nunu.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+First
+
+Why ?
+
+You would be in first place because you would have passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you passed the person in 2nd place, it means that you are now ahead of them. Therefore, you would be in 1st place.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it depends on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no definitive answer to this question as it depends on the specific circumstances of the crash and the nationality of the survivors. If the crash happened in the United States and the survivors were all American citizens, then it would make sense to bury them in the United States. However, if the crash happened in Canada--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on a number of factors, including where the majority of the survivors were from, where the plane took off from, and where the plane was heading. In general, however, it is most likely that the survivors would be buried in the country where
+
+Why ?
+
+There is no correct answer to this question, as it would depend on a number of factors, including where the majority of the survivors were from, where the plane took off from, and where the plane was heading. In general, however, it is most likely that the survivors would be buried in the country where--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the tree the quickest.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the tree the fastest.--------------
+In a one-storey pink house, there was a pink person, a pink cat, a pink fish, a pink computer, a pink chair, a pink table, a pink telephone, a pink shower — everything was pink! What colour were the stairs probably?
+
+The stairs were probably pink.
+
+Why ?
+
+Because everything else in the house is pink.--------------
+In a one-storey pink house, there was a pink person, a pink cat, a pink fish, a pink computer, a pink chair, a pink table, a pink telephone, a pink shower — everything was pink! What colour were the stairs probably?
+
+The stairs were probably pink.
+
+Why ?
+
+Because everything in the house is pink.--------------
+How many of each animal did Moses put on the ark ?
+
+Two of each animal
+
+Why ?
+
+Because God told him to--------------
+How many of each animal did Moses put on the ark ?
+
+Moses put two of each animal on the ark.
+
+Why ?
+
+Moses put two of each animal on the ark so that there would be enough animals to repopulate the earth after the flood.--------------
+The wind blows west. An electric train runs east. In which cardinal direction does the smoke from the locomotive blow ?
+
+The smoke from the locomotive blows to the east.
+
+Why ?
+
+The wind blows west, and the smoke from the locomotive blows to the east.--------------
+The wind blows west. An electric train runs east. In which cardinal direction does the smoke from the locomotive blow ?
+
+The smoke from the locomotive blows north.
+
+Why ?
+
+The smoke from the locomotive blows north because wind blows from west to east, and the coriolis effect causes the smoke to be deflected to the right in the northern hemisphere.--------------
+If you have only one match and you walk into a darkroom where there is an oil lamp, a newspaper and wood—which thing would you light first?
+
+The oil lamp.
+
+Why ?
+
+The oil lamp will give you light to see what else is in the room that you can use to start a fire. The newspaper can be used to help start the fire, and the wood can be used as fuel for the fire.--------------
+If you have only one match and you walk into a darkroom where there is an oil lamp, a newspaper and wood—which thing would you light first?
+
+The oil lamp.
+
+Why ?
+
+Because it would give you light to see the newspaper and the wood.--------------
+Would it be ethical for a man to marry the sister of his widow ?
+
+There is no definitive answer to this question as it depends on the circumstances. If the sister is willing and able to provide support and care for the widower, then it may be ethical. However, if the sister is not willing or able to provide support and care, then it may not be ethical.
+
+Why ?
+
+The reason why this question is difficult to answer definitively is because there are many ethical considerations that need to be taken into account. For example, if the sister is not willing or able to provide support and care, then the widower may not be able to adequately care for himself. Additionally, if the sister is--------------
+Would it be ethical for a man to marry the sister of his widow ? I do not know if it would be ethical, but it would not be legal in most places.
+
+Why ? Because it would be considered incest.--------------
+Which sentence is correct: (a) ‘the yolk of the egg are white’ or (b) ‘the yolk of the egg is white’?
+
+(b) the yolk of the egg is white
+
+Why ?
+
+The yolk is a single entity, so the verb must be in the singular form.--------------
+Which sentence is correct: (a) ‘the yolk of the egg are white’ or (b) ‘the yolk of the egg is white’?
+
+The sentence (b) ‘the yolk of the egg is white’ is correct.
+
+Why ?
+
+The word ‘yolk’ is a singular noun, so the verb ‘is’ (singular) is used with it.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it is the most common name for the fifth daughter in a family with five daughters and no sons.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because the father only has daughters, so the fifth daughter's name would be the next letter in the alphabet which is Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? because that's how it works.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+Mary.
+
+Why ? Because she is the only daughter with a name that isn't a variation of the word 'No'.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the first four daughters' names all end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is probably because the other daughter's names all end in "n" and so the fifth daughter's name would likely follow this pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+Nunu
+
+Why ?
+
+It is most likely that the fifth daughter's name would follow the pattern set by the first four names.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the first four names all end with the letter "N" and so the fifth name is likely to also end with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? because all of the other names end with the letter "N" and the fifth daughter's name probably ends with the letter "N" as well.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is probably because the father has used up all the other names that sound similar to "nunu" for his other daughters.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because all of the other daughter's names end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because all of the other names end in "n" and this is probably a pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is probably because the first four daughters have names that all end with the letter "N" and so the fifth daughter's name probably follows the same pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because all of the other daughter's names end in "n" and the father has no sons.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name would probably be Nunu.
+
+Why ?
+
+This is because the other daughters' names all follow the pattern of having the letter "n" at the end. Therefore, it is likely that the fifth daughter's name would also follow this pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because most people usually name their children using common syllables. In this case, the common syllable is "nu". Therefore, the fifth daughter's name is most likely to be Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it follows the pattern of the other names.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name would most likely be Nunu.
+
+Why ?
+
+This is because the other four names all end with the letter "N", so it is likely that the fifth daughter's name would also end with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because typically, when a family has five daughters and no sons, they will name their daughters using the first five letters of the alphabet (Nana, Nene, Nini, Nono, Nunu).--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because all of the daughter's names appear to follow the pattern of a nonsense syllable (na, ne, ni, no) followed by a number. Therefore, the fifth daughter's name is probably Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because it is a pattern that the father has given the first four daughters names that rhyme with the number that corresponds to their birth order. So the fifth daughter's name would likely rhyme with "five" or "Nunu."--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name would be Nunu.
+
+Why ?
+
+This is because the other daughters' names all end in "n" and so the fifth daughter's name would most likely also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+Because the pattern for naming the daughters is using the first four letters of the alphabet (Nana, Nene, Nini, Nono) and the fifth daughter would continue this pattern (Nunu).--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The most likely explanation is that the fifth daughter's name is Nunu because it is the most commonly used name for the fifth daughter in a family with five daughters and no sons.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other daughters' names all end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because all of the other daughter's names end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+Sana
+
+Why ?
+
+It's a pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it is a common name for the fifth daughter in many families.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other four daughters' names all end with the letter "n". Therefore, it is likely that the fifth daughter's name would also end with the letter "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it is the most common name for the fifth daughter in a family with five daughters and no sons.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter is named Nunu.
+
+Why ?
+
+The fifth daughter is named Nunu because she is the fifth daughter.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because the pattern established by the given names is that each successive name is one letter further along in the alphabet than the previous name. Therefore, the fifth daughter's name would be the fifth letter of the alphabet, which is "e."--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other four names all end with the letter "n" and so the fifth daughter's name is likely to also end with the letter "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because all of the other daughters' names seem to follow a similar pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because all of the other daughter's names end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The names of the five daughters are likely to be based on a common theme or pattern. In this case, each name seems to be a diminutive form of a word meaning "girl" or "daughter" in a different language. Nana is likely to be the diminutive form of the word for "--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because the first four daughters' names all follow the pattern of a repeated syllable followed by a different syllable. Therefore, it is likely that the fifth daughter's name would also follow this pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the fifth daughter's name would likely be a diminutive form of the fourth daughter's name. In this case, the fourth daughter's name is Nono, so the fifth daughter's name is likely to be Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because all of the other daughter's names end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because it's the only name that makes sense with the pattern established by the first four names.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The pattern established by the first four names is that each successive name is one letter longer than the last. Therefore, the fifth daughter's name would likely be one letter longer than Nono, making it Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it is the most logical name given the pattern of the other daughter's names. All of the other daughter's names end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because that is the most logical name for the fifth daughter when all the other daughter's names end in "n."--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other daughters' names all end in "n" and so the fifth daughter's name probably also ends in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name would be Nunu.
+
+Why ?
+
+This is because the other daughters' names all end in "n" and so the fifth daughter's name would most likely also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is most likely Nunu because it is the most common name for the fifth daughter in a family with five daughters and no sons.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because all of the other daughter's names end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because the other names are all diminutives of the Spanish word for "girl" or "daughter" - which is "niña". So the fifth daughter's name would likely be a diminutive of "niña" as well - which is "nunu".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because all of the other names end in "n" and this is most likely a pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is probably because all of the other daughter's names start with the letter "N" and end with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it is the most logical name given the pattern of the other daughters' names. All of the other daughters' names end in "n", so it is likely that the fifth daughter's name would also end in "n". Additionally, the names of the first--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is likely to be Nunu.
+
+Why ? Because the pattern established by the first four names is that each successive name is one letter further along in the alphabet than the previous name. Therefore, the most likely name for the fifth daughter would be Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it is the most logical name that would follow the pattern set by the other names.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+The pattern for the names of Mary's father's daughters seems to be a combination of a letter from the word "NANA" and a number. Therefore, the fifth daughter's name is likely to be "Nunu."--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because the other names all end in "n" and this is the most likely pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is probably because the other daughter's names all end with the letter "N" and so the fifth daughter's name is likely to also end with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because that's how it works.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is probably because all of the other daughter's names end in "n" and so the fifth daughter's name would most likely also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+If Mary's father has 5 daughters and no sons, the fifth daughter's name is Nunu.
+
+Why ?
+
+The most likely reason is that it is a tradition in the family to name daughters using the pattern "Nana, Nene, Nini, Nono, Nunu."--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other daughter's names all end in "n" and so the fifth daughter's name probably also ends in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is likely to be Nunu.
+
+Why ?
+
+This is because the pattern established by the first four names is that each successive name is one letter different from the previous name. Therefore, the fifth name is likely to follow this pattern and be one letter different from the fourth name, which is Nono. This would make the fifth name Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is likely to be Nunu.
+
+Why ?
+
+This is because the other daughters' names all end in "n" and so the fifth daughter's name is likely to follow the same pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is likely to be Nunu.
+
+Why ?
+
+This is because the first four daughters' names all end with the letter "N" and so the fifth daughter's name is likely to also end with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the pattern of the names is that they all end with "n." Therefore, the fifth daughter's name would likely be Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other four names all end with the letter "N" and so the fifth daughter's name is likely to also end with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because the pattern established by the first four names is that each successive name is one letter shorter than the last. Therefore, the fifth daughter's name would be one letter shorter than Nono, which is Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because all of the other daughter's names end in the letter "N" and so the fifth daughter's name probably also ends in the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is Nunu because it is the only name that fits the pattern set by the other daughters' names.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is most likely Nunu because it follows the pattern set by the other names.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because all of the other daughter's names end in "n" and so the fifth daughter's name is likely to also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is most likely Nunu because it is the most common name for the fifth daughter in a family with five daughters and no sons.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because the pattern followed by the given names is N(a/e/i/o)n(u).--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the pattern of the names is "N" + a vowel + "n" + a vowel.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other daughters' names all follow the pattern of having the same first letter as their position in the order of the sisters - Nana is the first daughter, Nene is the second daughter, and so on. Therefore, it is likely that the fifth daughter's name would also follow this pattern--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because the other four names all end with the letter "n" and so the fifth name is likely to as well.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because all of the other daughter's names end in "n" and this is probably the pattern that the family is following.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is probably because the other daughters' names all end in "n" and so the fifth daughter's name would most likely also end in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The fifth daughter's name is probably Nunu because it is a common name for the fifth daughter in many families.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+The names of the five daughters appear to follow a pattern of "N" plus a short word that describes a small quantity. Given this pattern, it is likely that the fifth daughter's name is Nunu, which means "little one" in Swahili.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because the pattern established by the first four names is that each successive name is one letter further along in the alphabet than the previous name. Therefore, the fifth daughter's name would be Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+Nunu is likely the fifth daughter's name because it follows the pattern set by the other daughters' names. All of the names are monosyllabic and end with the letter "n."--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ? Because it is the next logical name after Nana, Nene, Nini, and Nono.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nomu.
+
+Why ?
+
+Why not ?--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? because it is a pattern that the first letter of each daughter's name is one letter later in the alphabet than the first letter of the previous daughter's name.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the first four daughters' names all end with the letter "n" and so the fifth daughter's name is likely to also end with the letter "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other daughters' names all end in "n" and so the fifth daughter's name probably also ends in "n".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+All of the daughter's names end in "nu", so the fifth daughter's name is probably Nunu.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? Because all of the other names end in "n" and the fifth daughter's name probably does as well.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is probably because all of the other daughter's names end in "n" and so the fifth daughter's name would most likely also end in "n."--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the first four daughters' names all end with the letter "N" and so the fifth daughter's name probably also ends with the letter "N".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+The names of the daughters are all names that end with the sound "noo". Therefore, the fifth daughter's name is probably also a name that ends with the sound "noo".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+All of the other names appear to follow a pattern of ending in "n" sound, so it is likely that the fifth daughter's name would also follow this pattern. Additionally, "nu" is a common syllable in many African names.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because the pattern followed by the names of the first four daughters seems to be that each name is a repetition of the previous name with an additional "n" sound at the end. Therefore, the fifth daughter's name is likely to be Nunu, following this pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is Nunu.
+
+Why ?
+
+This is because the other daughters' names all follow the pattern of having the letter 'n' twice, followed by a vowel. Therefore, it is likely that the fifth daughter's name would also follow this pattern.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is likely to be Nunu.
+
+Why ?
+
+The pattern established by the first four names is that they are all variations on the word "nun" (meaning "girl" or "daughter" in Spanish). Therefore, it is likely that the fifth daughter's name would also follow this pattern and be some variation on the word "nun".--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+There is no way to determine the fifth daughter's name.
+
+Why ?
+
+Because there is not enough information given.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ?
+
+This is because the first four names all end with the letter "N" and so the fifth name is likely to as well.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+If Mary is the fifth daughter, her name is probably Mumu.
+
+Why ?
+
+This is a common naming pattern for girls in many families. The first daughter is named after the mother's mother, the second daughter is named after the father's mother, the third daughter is named after the mother, the fourth daughter is named after the father, and the fifth daughter is named after the mother's--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+The fifth daughter's name is probably Nunu.
+
+Why ? because all of the other names end with the letter "n" and the daughter's name is most likely a derivative of the father's name.--------------
+Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?
+
+Sana.
+
+Why ?
+
+Because the other daughters' names all end in "n" and the fifth daughter's name probably follows the same pattern.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you are ahead of the person in second place, it means you are running faster and will likely finish the race before them. You would therefore be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+because you would be in front of the person in 2nd place--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you passed the person in 2nd place, it means that you are now ahead of them. Therefore, you would be in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you pass the person in second place, it means you are ahead of them, and therefore in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you passed the person in second place, it means you are now ahead of them. Therefore, you are in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because if you pass the person in 2nd place, that means you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+You would be in 1st place because you would have passed the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the second place runner, you would be in first place.
+
+Why ?
+
+If you passed the second place runner, you would be in first place because you would have run more of the race than anyone else.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person in second place, you would be in first place.
+
+Why ?
+
+If you pass the person in second place, it means that you are now ahead of them. This would put you in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because if you pass the person in 2nd place, that means you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+First.
+
+Why ?
+
+Because you would be in front of the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the personin 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you were running a race, and you passed the personin 2nd place, you would now be in 1st place because you would have more points than the person in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because if you passed the person in 2nd place, that means you are now in front of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you passed the person in second place, that means you are now ahead of them. Therefore, you are in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you passed the person in second place, it means you are now ahead of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would now be in first place.
+
+Why ?If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would now be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+
+
+If you passed the person in 2nd place, it means that you are now ahead of them. In a race, the person in 1st place is the person who has completed the race in the shortest amount of time.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+If you passed the person in 2nd place, that means you are ahead of them. Therefore, you would be in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would now be in first place.
+
+Why ?
+
+
+
+You would be in first place because you would have passed the person who was in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the person in 2nd place, you would be in 1st place now.
+
+Why ?
+
+If you were running a race, and you passed the person in 2nd place, it would mean that you are now running faster than them. This would put you in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because you would be in front of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the person who was in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you were running a race, and you passed the person who was in 2nd place, you would now be in 1st place because you would have more people behind you than anyone else.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would be in 1st place.
+
+Why ?
+
+
+
+In a race, the goal is to finish first. Passing the person in 2nd place would mean that you are now in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because you would be in front of the person in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you passed the person in second place, that means you are now ahead of them. Therefore, you are in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ? 1st place
+
+Why ? Because you would be in front of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+When you pass the person in second place, it means that you are now ahead of them. Therefore, you are in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because you would be in front of the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+Because when you pass the person in second place, that means you are now ahead of them, and therefore in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+First place
+
+Why ?
+
+Because you are ahead of the person who was in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ? You passed the person in second place, so you are now in front of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+
+
+If you passed the person in second place, that would mean that you are now ahead of them. Therefore, you would be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because if you passed the person in 2nd place, that means you are now ahead of them, and therefore in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you passed the person in 2nd place, they would now be in 2nd place and you would be in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would be in first place.
+
+Why ?
+
+
+
+If you passed the person in second place, it means that you are now ahead of them. The first person is still in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race and you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you are running a race and you pass the person in 2nd place, it means that you are running faster than them. This would put you in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in 1st place.
+
+Why ?
+
+You would be in 1st place because you passed the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you passed the person in 2nd place, it means that you are now ahead of them. In a race, the person who is ahead is in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would be in first place.
+
+Why ?
+
+
+
+If you passed the person in second place, it means that you are now ahead of them. In a race, the person who is ahead is in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+Because if you pass the person who is in second place, that means you are now ahead of them, and the only person ahead of you is the person in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person in second place, you would be in first place.
+
+Why ?
+
+If you pass the person in second place, you would be in first place because first place is always ahead of second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+You would be in first place because you would have passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would now be in first place.
+
+Why ?
+
+If you passed the person in second place, it means that you are now ahead of them. This means that you are in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+First
+
+Why ?
+
+You would be in first place because when you pass the person in second place, you are in front of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you passed the person who was in second place, that means you are now in front of them. Therefore, you are in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you were running a race, and you passed the person in 2nd place, you would now be in 1st place because that is how races work. The person who crosses the finish line first is the winner.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you passed the person in 2nd place, it means that you are now ahead of them. This means that you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st Place
+
+Why ?
+
+You would be in first place because you passed the person who was in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+First
+
+Why ?
+
+If you passed the person in second place, you would now be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would be in first place.
+
+Why ?
+
+If you passed the person in second place, it would mean that you are now ahead of them. In a race, the person who crosses the finish line first is the winner. Therefore, if you passed the person in second place, it would mean that you are now in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+Because if you passed the person in second place, that means you are now ahead of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you were running a race, and you passed the person in 2nd place, you would now be in 1st place because that is how races work. The person who crosses the finish line first is the winner.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you passed the person in 2nd place, it means that you are now ahead of them. This means that you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+You would be in first place because you passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would now be in first place.
+
+Why ?
+
+You would now be in first place because you would have passed the person who was in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ? 1st
+
+Why ? You would be in 1st place because you passed the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+First
+
+Why ?
+
+If you passed the person in second place, that means you are now in front of them. Therefore, you would be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+You would be in first place because you passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person who is in second place, you would be in first place.
+
+Why ?
+
+If you pass the person who is in second place, it means that you are now ahead of them. Therefore, you would be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+
+
+The person who is in first place is the person who has run the race the fastest. If you passed the person in second place, that means you are running faster than them, and therefore you must be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+You would be in first place because you would have passed the person who was in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would be in first place.
+
+Why ?
+
+If you passed the person in second place, it means that you are now ahead of them. This would put you in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person who is in second place, you would be in first place.
+
+Why ?
+
+This is because the person who is in first place is the person who is in the lead, and the person who is in second place is the person who is behind the person in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+If you passed the person in 2nd place, it means that you are now ahead of them. This means that you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in second place, you would be in first place.
+
+Why ?
+
+If you passed the person in second place, it would mean that you are now ahead of them. This would put you in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ? 1st place
+
+Why ? Because you would be in front of the person in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+You would be in first place because you would have passed the person who was in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+first
+
+Why ?
+
+You would be in first place because you would have passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person in second place, you would be in first place.
+
+Why ?
+
+If you pass the person in second place, it means that you are running faster than them. This would put you in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because you would have passed the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+You would be in first place because you would have passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you pass the person in second place, that means you are now ahead of them. Therefore, you would be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because you would be in front of the person in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the person in 2nd place, you would now be in first place.
+
+Why ?
+
+If you passed the person in 2nd place, it means that you are now ahead of them. In a race, the person in first place is the one who has completed the race in the shortest amount of time.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you are running a race and you pass the person in second place, you would now be in first place.
+
+Why ?
+
+If you are running a race and you pass the person in second place, you would now be in first place because you would have more laps completed than the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+Because if you passed the person in second place, that means you are now ahead of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because if you pass the person in 2nd place, you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because if you pass the person in 2nd place, you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+If you passed the person in 2nd place, that means you are now ahead of them. Therefore, you would be in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+
+
+You would be in first place because you would have passed the person who was in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person in second place, you would be in first place.
+
+Why ?
+
+
+
+When you pass someone in a race, it means that you are now ahead of them. Therefore, if you pass the person in second place, it means that you are now in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you were running a race, and you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+
+
+When you pass the person in 2nd place, that means you are now ahead of them. Therefore, you are in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+because you would have passed the person in 2nd place--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because you would be ahead of the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because you would have passed the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+If you passed the person in 2nd place, that means you are now ahead of them. Therefore, you would be in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person in 2nd place, you would be in 1st place.
+
+Why ?
+
+When you pass the person in 2nd place, it means that you are now ahead of them. This means that you are in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because you would be in front of the person in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+If you pass the person in 2nd place, you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+Because if you passed the person in second place, that means you are now in front of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because 1st place is always the person who crosses the finish line first.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+
+
+When you pass someone in a race, it means that you are now ahead of them. Therefore, if you passed the person in 2nd place, it means that you are now in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you pass the person in second place, you would be in first place.
+
+Why ?
+
+If you pass the person in second place, it means that you are now ahead of them. Therefore, you would be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ? 1st place
+
+Why ? You would be in first place because you passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+If you passed the person in 2nd place, you would now be in 1st place.
+
+Why ?
+
+Because if you pass the person in 2nd place, that means you are now ahead of them, which means you are in 1st place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+You would be in first place because you passed the person in second place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st
+
+Why ?
+
+Because you would be in front of the person who was in 2nd place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+This is because if you passed the person in second place, it means that you are now ahead of them. Therefore, you would be in first place.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+You would be in first place.
+
+Why ?
+
+If you passed the person in second place, that means you are now ahead of them.--------------
+If you were running a race, and you passed the personin 2nd place, what placewould you be in now ?
+
+1st place
+
+Why ?
+
+Because if you pass the person in 2nd place, that means you are now in 1st place.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question as it depends on the nationality of the survivors.
+
+Why ?
+
+There is no right answer to this question as it depends on the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+Both countries.
+
+Why ?
+
+Because there are no survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no need to bury the survivors since they would have died in the crash.
+
+Why ?
+
+The plane would have been destroyed in the crash and everyone on board would have been killed.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There would be no survivors in a plane crash.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the specific circumstances of the crash. In general, however, it is likely that the survivors would be buried in the country where the majority of the plane landed.
+
+Why ?
+
+There are a few reasons for this. First, if the majority of the plane landed in one country, it is likely that that country would have better resources for dealing with the crash and rescuing survivors. Second, the country where the majority of the plane landed would also have jurisdiction over the crash site, and thus--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+In the United States.
+
+Why ?
+
+You only bury the dead in Canada.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on the location of the crash and where the survivors were found. If the crash occurred on the border between the two countries, it is possible that the survivors would be buried in both countries.
+
+Why ?
+
+There is no correct answer to this question, as it depends on the specific circumstances of the crash.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no need to bury the survivors because they would have been killed in the crash.
+
+Why ?
+
+If the plane had crashed and half of it landed in the United States and the other half landed in Canada, there would be no survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the location of the survivors.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the location of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+Both countries.
+
+Why ?
+
+There are no survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+You bury the survivors in the country where they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There would be no survivors in a plane crash.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors should be buried in the country in which they landed.
+
+Why ?
+
+The survivors should be buried in the country in which they landed because that is where they are considered citizens.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and the preference of the survivors.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the location of the crash and the preference of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on where the survivors were found and which country they were citizens of. If the majority of the survivors were found in the United States, it is likely that they would be buried there. However, if the majority of the survivors were found in Canada
+
+Why ?
+
+There is no single answer to this question, as there are a variety of factors that could contribute to why a plane might crash during a storm. Some possible reasons include turbulence, high winds, icing, and poor visibility.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The United States
+
+Why ?
+
+This is a trick question-there are no survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There would be no survivors in a plane crash.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and the nationality of the survivors. If the crash occurred close to the border between the United States and Canada, it is possible that the survivors would be buried in both countries.
+
+Why ?
+
+There is no one answer to this question, as there are many factors that would need to be considered in such a situation, including the location of the crash, the nationality of the survivors, and the desires of the survivors or their families.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+In the United States.
+
+Why ?
+
+Because if you bury them in Canada, they might not be dead.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and where the survivors were found.
+
+Why ?
+
+There is no one answer to this question, as it would depend on the circumstances of the crash and where the survivors were found.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on where the majority of the survivors are located.
+
+Why ?
+
+There is no one answer to this question, as it would depend on the individual circumstances of the situation. Some factors that could come into play include the severity of the crash, the location of the nearest hospitals, the nationality of the survivors, and the availability of family or friends who could help with funeral arrangements.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors would be buried in the country in which they died.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+You bury the survivors in the country where they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors would be buried in the country in which they died.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors should be buried in the country where they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on where the survivors were found and which country they were citizens of.
+
+Why ?
+
+There is no one answer to this question - it depends on the situation and the people involved.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on the location of the survivors and the preferences of the survivors or their families.
+
+Why ?
+
+There is no correct answer to this question, as it would depend on the location of the survivors and the preferences of the survivors or their families.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no clear answer to this question. It would depend on the location of the crash and the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the wishes of the survivors and their families.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the wishes of the survivors and their families.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There would be no survivors in a plane crash.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on where the survivors were found and which country had jurisdiction over that particular piece of land.
+
+Why ?
+
+There is no correct answer to this question, as it would depend on where the survivors were found and which country had jurisdiction over that particular piece of land.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+Neither. You bury the dead in both countries.
+
+Why ?
+
+Because the survivors are not dead.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question as it depends on where the survivors want to be buried. If the survivors are American citizens, they may want to be buried in the United States. If the survivors are Canadian citizens, they may want to be buried in Canada.
+
+Why ?
+
+There is no one answer to this question as there are many factors that would need to be considered in order to determine why the survivors would want to be buried in one country or the other. Some of the factors that could be considered include the nationality of the survivors, the location of the survivors' families, and--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no correct answer to this question, as it would depend on the location of the crash and the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on where the survivors were found and which country they were citizens of.
+
+Why ?
+
+There is no one answer to this question, as it would depend on the individual circumstances of the survivors and the countries involved.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no one answer to this question as it would depend on the specific situation. For example, if the crash happened close to the border between the US and Canada, it might make more sense to bury the survivors in the nearest country. However, if most of the survivors were from one particular country, it--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There would be no survivors in a plane crash.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question because it would depend on where the survivors were found and which country had jurisdiction over that area.
+
+Why ?
+
+There is no correct answer to this question because it would depend on where the survivors were found and which country had jurisdiction over that area.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question as it would depend on a number of factors, including where the majority of the survivors are from, where the plane took off from, and where the plane was heading. In general, however, it is most likely that the survivors would be buried in the country where the
+
+Why ?
+
+There is no correct answer to this question as it would depend on a number of factors, including where the majority of the survivors are from, where the plane took off from, and where the plane was heading. In general, however, it is most likely that the survivors would be buried in the country where the--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+You would bury the survivors in the country where they crashed.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on where the survivors were found and where they wanted to be buried.
+
+Why ?
+
+There is no one answer to this question - it would depend on the individual circumstances of the survivors and where they wanted to be buried.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question as it would depend on the nationality of the survivors.
+
+Why ?
+
+There is no correct answer to this question as it would depend on the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+In the United States.
+
+Why ?
+
+Because the crash happened in the United States.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors would be buried in the country in which they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the wishes of the survivors and their families.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the wishes of the survivors and their families.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors would be buried in the country in which they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There would be no survivors in a plane crash.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no one answer to this question, as it would depend on the location of the crash and the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no definitive answer to this question, as it would depend on a number of factors, including the location of the crash site, the nationality of the survivors, and the laws of both countries.
+
+Why ?
+
+There is no definitive answer to this question, as it would depend on a number of factors, including the location of the crash site, the nationality of the survivors, and the laws of both countries.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question as it would depend on where the majority of the survivors are located. If most of the survivors are located in the United States, then it would make more sense to bury them in the United States. However, if most of the survivors are located in Canada, then it
+
+Why ?
+
+There is no definitive answer to this question. It would depend on a variety of factors, such as the location of the survivors, the location of the nearest funeral home or cemetery, and the preferences of the survivors themselves.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors would be buried in the country in which they died.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it depends on the survivors' preferences and/or the laws of both countries.
+
+Why ?
+
+There is no definitive answer to this question, as it would depend on the survivors' preferences and/or the laws of both countries.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors should be buried in the country where they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question as both countries have different laws and regulations regarding this matter.
+
+Why ?
+
+There is no definitive answer to this question as different countries have different laws and regulations regarding this matter.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no correct answer to this question, as it would depend on the location of the crash and the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question because it would depend on the nationality of the survivors.
+
+Why ?
+
+There is no right answer to this question because it would depend on the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The United States.
+
+Why ?
+
+There would be no survivors if the plane landed in Canada.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There are no survivors.
+
+Why ?
+
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+You would bury the survivors in the country where they landed.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no definitive answer to this question. It would depend on the location of the crash and the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the wishes of the survivors.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the wishes of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the specific circumstances of the crash. If the majority of the survivors were from the United States, it would make more sense to bury them in the United States. If the majority of the survivors were from Canada, it would make more sense to
+
+Why ?
+
+There is no one answer to this question, as there are many possible reasons why someone might choose to bury survivors of a plane crash in one country or the other. Some factors that could influence the decision include the nationality of the survivors, the location of the crash, and the availability of resources in each country.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors should be buried in the country in which they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+In the country where the survivors are found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on where the majority of the survivors are located.
+
+Why ?
+
+There is no right answer to this question, as it would depend on where the majority of the survivors are located.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There would be no survivors in a plane crash.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on the nationality of the survivors.
+
+Why ?
+
+There is no correct answer to this question, as it would depend on the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question as it would depend on the location of the crash and the preferences of the survivors.
+
+Why ?
+
+There is no right or wrong answer to this question, as it would depend on the location of the crash and the preferences of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the wishes of the survivors.
+
+Why ?
+
+There is no one answer to this question, as it depends on the circumstances of the crash and the wishes of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no definitive answer to this question as it would depend on a number of factors, including the location of the crash site, the nationality of the survivors, and the laws of both countries. It is possible that the survivors would be buried in both countries.
+
+Why ?
+
+There is no definitive answer to this question as it would depend on a number of factors, including the location of the crash site, the nationality of the survivors, and the laws of both countries. It is possible that the survivors would be buried in both countries.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no one answer to this question as it would depend on the specifics of the situation.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The stormy night scenario is a hypothetical question often asked in law school exams. There is no single answer to the question.
+
+Why ?
+
+The answer to this question depends on a number of factors, including the nationality of the survivors, the location of the crash site, and the laws of the United States and Canada.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+
+
+There is no right answer to this question, as it depends on the preferences of the survivors.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+You bury the survivors in the country where they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question because it would depend on the nationality of the survivors.
+
+Why ?
+
+There is no correct answer to this question because it would depend on the nationality of the survivors. If all of the survivors were American citizens, then they would be buried in the United States. However, if even just one of the survivors was a Canadian citizen, then they would be buried in Canada.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the wishes of the survivors and their families.
+
+Why ?
+
+There is no one answer to this question, as it would depend on the individual situation. Some factors that could influence the decision include the location of loved ones, the severity of injuries, and the ability to access medical care.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The country in which the survivors were buried would depend on their citizenship.
+
+Why ?
+
+Citizenship is a legal relationship between an individual and a country. The country provides the individual with certain rights and protections, while the individual is expected to obey the country's laws and fulfill their duties.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the wishes of the survivors.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the wishes of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+You bury the survivors in the country where they were found.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no definitive answer to this question. It would likely depend on the location of the crash site, the nationality of the survivors, and the laws of both countries.
+
+Why ?
+
+There is no definitive answer to this question. It would likely depend on the location of the crash site, the nationality of the survivors, and the laws of both countries.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no definitive answer to this question as it would depend on a number of factors, including the location of the crash site, the nationality of the survivors, and the laws of both countries.
+
+Why ?
+
+There is no definitive answer to this question as it would depend on a number of factors, including the location of the crash site, the nationality of the survivors, and the laws of both countries.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no one answer to this question. The survivors would be buried in the country in which they were found.
+
+Why ?
+
+There is no one answer to this question.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question because it would depend on where the survivors were found and which country they were citizens of.
+
+Why ?
+
+There is no correct answer to this question because it would depend on where the survivors were found and which country they were citizens of.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it depends on the jurisdiction of the crash site.
+
+Why ?
+
+Jurisdiction is the legal authority to make and enforce laws. In the case of a plane crash, the jurisdiction would be the country where the crash occurred. If the crash occurred half in the United States and half in Canada, then the jurisdiction would be determined by the location of the wreckage.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it depends on the location of the crash and the nationality of the survivors.
+
+Why ?
+
+There is no one answer to this question as there are many factors that would need to be considered, such as the location of the crash and the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the nationality of the survivors.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the nationality of the survivors. If all of the survivors were Canadian citizens, then it would make more sense to bury them in Canada. However, if there were more survivors from the United States, then it would make more sense to bury them--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question, as it would depend on the location of the survivors and where they wish to be buried.
+
+Why ?
+
+There is no correct answer to this question, as it would depend on the location of the survivors and where they wish to be buried.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the nationality of the survivors.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the nationality of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on where the survivors were found and which country's laws applied.
+
+Why ?
+
+There is no right answer to this question, as it would depend on where the survivors were found and which country's laws applied.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors would be buried in the country in which they died.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the location of the crash and where the survivors were found.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the location of the crash and where the survivors were found.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the specific situation and where the survivors were found.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the specific situation and where the survivors were found.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the survivors' nationalities and where they feel more comfortable being buried.
+
+Why ?
+
+There is no one answer to this question, as different people would have different reasons for wanting to be buried in either the United States or Canada. Some may have stronger ties to one country than the other, while others may prefer the climate or landscape of one country over the other.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors are buried in the country where they died.
+
+Why ?--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no definitive answer to this question as it would depend on a number of factors, including where the majority of the survivors are from, where the plane took off from, where it was registered, etc. In general, however, it is likely that the survivors would be buried in the country where the majority
+
+Why ?
+
+There could be a number of reasons why the survivors would be buried in the country where the majority of them are from. For example, if the majority of the survivors are from the United States, it is likely that their families would want them to be buried there. Additionally, if the plane took off from the--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the circumstances of the crash and the location of the survivors.
+
+Why ?
+
+There is no one answer to this question, as it would depend on the circumstances of the crash and the location of the survivors.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no right answer to this question, as it would depend on the wishes of the survivors and their families.
+
+Why ?
+
+There is no right answer to this question, as it would depend on the wishes of the survivors and their families.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+You bury the survivors in the country where the plane crash happened.
+
+Why ?
+
+The reason is simple: if the plane had crashed entirely in either the United States or Canada, then the survivors would be buried in that country. However, because the plane crash was split between the two countries, the survivors must be buried in the country where the crash occurred.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+There is no correct answer to this question as it would depend on the individual survivors' preferences and/or citizenship.
+
+Why ?
+
+There is no correct answer to this question as it would depend on the individual survivors' preferences and/or citizenship.--------------
+It is a stormy night and a plane takes off from JFK airport in New York. The storm worsens, and the plane crashes-half lands in the United States, the other half lands in Canada. In which country do you bury the survivors?
+
+The survivors should be buried in the country where they were found.
+
+Why ?--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the fastest. The squirrel can climb pretty fast, but not as fast as the monkey. The bird can fly, but it will take longer to reach the top of the tree.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because monkeys are the fastest climbers.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird? The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the highest and the fastest.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the tree the quickest. The squirrel can climb the tree faster than the bird, but it will have to stop to eat the nuts along the way. The bird can fly to the top of the tree, but it will have to stop to rest along the--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the tree the quickest. The squirrel can climb the tree quickly too, but it will have to stop to eat the nuts along the way. The bird can fly to the top of the tree, but it will have to stop to rest along the way.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because monkeys are able to climb higher and faster than squirrels and birds.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the fastest.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+Because monkeys are faster climbers than squirrels and birds. They can also climb higher and reach the banana more quickly.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because he is the fastest climber.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it is the fastest of the three animals.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey is the fastest climber and will reach the top of the tree before the other animals.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the tree the fastest. The squirrel can climb the tree quickly, but it will have to stop to eat the nuts along the way. The bird can fly to the top of the tree, but it will have to stop to rest along the way.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because he can climb the fastest.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because monkeys are faster than squirrels and birds.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the fastest.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get to the banana first because monkeys are able to climb trees quickly.
+
+Why ?
+
+The monkey will get to the banana first because monkeys are able to climb trees quickly.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because monkeys are faster than squirrels and birds.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because he is the fastest climber. The squirrel is a close second, but the bird is the slowest.--------------
+A monkey, a squirrel, and a bird are racing to the top of a coconut tree. Who will get the banana first, the monkey, the squirrel, or the bird?
+
+The monkey will get the banana first.
+
+Why ?
+
+The monkey will get the banana first because it can climb the fastest.

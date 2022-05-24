@@ -35,9 +35,8 @@ data = [
     Question("Simon decided to invest £8,000 in the stock market one day early in 2008. Six months after he invested, on July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. What is Simon's economic situation at this point ?",
              ["has lost money.",
               "is ahead of where he began.",
-              "has broken even in the stock market." 
-              ,"it cannot be determined."]),
-    ]
+              "has broken even in the stock market.", "it cannot be determined."]),
+]
 
 data2 = [
     Question("Mary's father has 5 daughters but no sons : Nana,Nene, Nini, Nono. What is the fifth daughter's name probably ?",

@@ -24,6 +24,7 @@ tqdm==4.62.3
 urllib3==1.26.7
 Werkzeug==2.0.2
 xlsxwriter
-json
+# json --> this lib is supposed to be a python standard (i.e. already included) library , so 
+# no need to install it
 python-decouple
 uuid

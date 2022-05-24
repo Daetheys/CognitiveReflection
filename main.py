@@ -1,34 +1,36 @@
+from logger import Logger, XLSXLogger
+from runner import Runner
+from model import GPTJ
+from dataset import Dataset
 import os
 from decouple import config
 from functools import partial
 import openai
 openai.api_key = config('OPENAI_API_KEY')
 
-from dataset import Dataset
-from model import GPTJ
-from logger import Logger,XLSXLogger
-from runner import Runner
 
-#Define the config for the experiment
+# Define the config for the experiment
 config = {
-    #Engine
-    "engine":'text-davinci-002', #engine being used from the API
-    "temperature":0.7, #Temperature of the softmax sampling for the engine
-    "max_tokens":128, #Max nb of tokens that will be processed by the engine
+    # Engine
+    "engine": 'text-davinci-002',  # engine being used from the API
+    "temperature": 0.7,  # Temperature of the softmax sampling for the engine
+    "max_tokens": 128,  # Max nb of tokens that will be processed by the engine
 
-    #Question Configuration
-    "question_mode":"full", #'full': keeps the full question // 'half': cuts the second half of the question
-    "nb_answers":0, #[int] : nb of answers that will be shown in the prompt given to the model
+    # Question Configuration
+    # 'full': keeps the full question // 'half': cuts the second half of the question
+    "question_mode": "full",
+    # [int] : nb of answers that will be shown in the prompt given to the model
+    "nb_answers": 0,
 
-    #Statistics
-    "nb_run_per_question":2, #Nb of runs for each question
+    # Statistics
+    "nb_run_per_question": 2,  # Nb of runs for each question
 
-    #Name of the training
-    "name":None, #Name of the training
-    "data_path":"data/data2.txt", #Path to the questions dataset
-    }
+    # Name of the training
+    "name": None,  # Name of the training
+    "data_path": "data/data2.txt",  # Path to the questions dataset
+}
 
-runner = Runner(config,Dataset,GPTJ,XLSXLogger)
+runner = Runner(config, Dataset, GPTJ, XLSXLogger)
 
 runner.run()
 

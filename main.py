@@ -6,6 +6,7 @@ import os
 from decouple import config
 from functools import partial
 import openai
+
 openai.api_key = config('OPENAI_API_KEY')
 
 

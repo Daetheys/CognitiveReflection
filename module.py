@@ -1,5 +1,5 @@
 class Module:
-    def __init__(self,config):
+    def __init__(self, config):
         self.config = config
 
     @property

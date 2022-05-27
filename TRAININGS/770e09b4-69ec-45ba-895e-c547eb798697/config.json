@@ -1,0 +1,1 @@
+{"engine": "text-davinci-002", "temperature": 0.7, "max_tokens": 128, "question_mode": "full", "nb_answers": 0, "nb_run_per_question": 2, "name": "770e09b4-69ec-45ba-895e-c547eb798697", "data_path": "data/data2.txt"}

@@ -1,12 +1,15 @@
+import sys
 import uuid
 import os
+import threading
 
 from module import Module
 
 
-class Runner(Module):
-    def __init__(self, config, dataset, model, logger):
+class Runner(Module, threading.Thread):
+    def __init__(self, config, dataset, model, logger, ui=None):
         super().__init__(config)
+        threading.Thread.__init__(self)
 
         if self.config['name'] is None:
             self.config['name'] = str(uuid.uuid4())
@@ -16,6 +19,8 @@ class Runner(Module):
         self.dataset = dataset(self.config)
         self.model = model(self.config)
         self.logger = logger(self.config)
+        
+        self.ui = ui 
 
     def run(self):
         print('TRAINING STARTED : ', self.name)
@@ -43,9 +48,23 @@ class Runner(Module):
                         logger.log(logger.bold, self.model.rec_buffer[:len(
                             str(q))+1], self.model.rec_buffer[len(str(q))+1:], x=i+0, y=qi+1)
                     logger.log('---------'*4)
-
-                    # Print results
+                    
                     print('------>', qi, i, ':', (i+qi*self.config['nb_run_per_question'])/(
                         len(self.dataset)*self.config['nb_run_per_question'])*100, '%')
                     print(self.model.rec_buffer)
+                    
+                    if self.ui is not None:
+                        self.ui.update_prog.emit(qi/len(self.dataset)*100)
+                        self.ui.update_logs.emit(self.model.rec_buffer)
+
+        if self.ui is not None:
+            self.ui.update_prog(100)
         print('TRAINING FINISHED : ', self.name)
+
+
+    def stop(self):
+        self._stopped = True
+
+    def stopped(self):
+        return self._stopped
+

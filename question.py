@@ -1,7 +1,10 @@
 class Question:
-    def __init__(self, prompt, answers):
+    def __init__(self, prompt, answers=None, id=None, title=None):
         self.prompt = prompt
         self.answers = answers
+        
+        self.title = title
+        self.id = id 
 
         self.prompt_mode = 'full'
         self.nb_answers = 4
@@ -21,9 +24,11 @@ class Question:
                 s2 += si+" "
             s = s2[:-1]
         if self.prompt_mode == 'full':
-            for i in range(min(self.nb_answers, len(self.answers))):
-                s += '\n'+self.answers[i]
+            if self.answers is not None:
+                for i in range(min(self.nb_answers, len(self.answers))):
+                    s += '\n'+self.answers[i]
             s += "\n"
+
         return s
 
     def __repr__(self):

@@ -1,7 +1,8 @@
 class Question:
-    def __init__(self,prompt,answers):
+    def __init__(self,prompt,answers,keywords=[]):
         self.prompt = prompt
         self.answers = answers
+        self.keywords = keywords
 
         self.prompt_mode = 'full'
         self.nb_answers = 4
@@ -11,6 +12,11 @@ class Question:
         assert prompt_mode in ['full','half']
         self.prompt_mode = prompt_mode
         self.nb_answers = nb_answers
+
+    def serialize(self):
+        return {"prompt":self.prompt,
+                "answers":self.answers,
+                "keywords":self.keywords}
 
     def __str__(self):
         s = str(self.prompt)

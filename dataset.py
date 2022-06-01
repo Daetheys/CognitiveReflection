@@ -13,6 +13,11 @@ class Dataset(Module):
     def path(self):
         return self.config['data_path']
 
+    def load_json(self):
+        with open(self.path,'r') as f:
+            data = json.load()
+            
+    
     def load(self):
         #List of questions
         self.questions = []

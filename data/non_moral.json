@@ -1,7 +1,7 @@
 [
       {
             "title": "Standard Turnips",
-            "text": "You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?",
+            "text": "You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?",
             "id": 1
       },
       {

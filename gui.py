@@ -1,4 +1,5 @@
 from PyQt5 import QtCore
+from PyQt5 import QtGui 
 from PyQt5 import QtWidgets
 import threading
 from runner import Runner
@@ -17,7 +18,7 @@ class Communicate(QtCore.QObject):
     done = QtCore.pyqtSignal()
     wait = QtCore.pyqtSignal()
     update_prog = QtCore.pyqtSignal(int)
-    update_logs = QtCore.pyqtSignal(str)
+    update_logs = QtCore.pyqtSignal(str, tuple)
 
 
 class RunnerWindow(QtWidgets.QWidget):
@@ -33,6 +34,15 @@ class RunnerWindow(QtWidgets.QWidget):
         self.communicate.done.connect(self.done)
         self.communicate.update_prog.connect(self.update_prog)
         self.communicate.update_logs.connect(self.update_logs)
+        
+        self.stop_button = QtWidgets.QPushButton(self)
+        self.stop_button.clicked.connect(self.stop)
+        self.stop_button.setText('Stop')
+        self.stop_button.setEnabled(False)
+
+        self.start_button = QtWidgets.QPushButton(self)
+        self.start_button.clicked.connect(self.start)
+        self.start_button.setText('Start')
 
         self.prog = QtWidgets.QProgressBar(self)
         self.logs = QtWidgets.QTextEdit(self)
@@ -41,33 +51,31 @@ class RunnerWindow(QtWidgets.QWidget):
         self.layout = QtWidgets.QGridLayout(self)
         self.layout.addWidget(self.prog)
         self.layout.addWidget(self.logs)
+        self.layout.addWidget(self.start_button)
+        self.layout.addWidget(self.stop_button)
 
-        self.init()
-
-    def init(self):
-
-        self.set_file_path()
-        self.set_save_path()
-        self.init_UI()
 
     def set_runner(self, config, dataset, model, logger):
         self.runner = Runner(
             ui=self.communicate,
             config=config, dataset=dataset, model=model, logger=logger
         )
+        
+        self.init_UI()
 
-        self.runner.start()
 
     def init_UI(self):
 
         self.prog.setValue(0)
 
         self.logs.append(
-            "Selected file is '{file_path:}'"
-            "\nExcel file is saved to '{save_path:}'".format(
-                file_path=self.file_path,
-                save_path=self.save_path
-            )
+           "Selected dataset is <b>'{file_path:}'</b>"
+           "<br> Results are saved to <b>'{save_path:}'</b> <br>"
+           "<br> Estimated cost: <b>${estimated_cost:}</b> <br>".format(
+               file_path=self.runner.config['data_path'],
+               save_path=self.runner.save_path,
+               estimated_cost=self.runner.estimated_cost
+           )
         )
 
         self.setWindowTitle("OpenAI GPT-3")
@@ -112,6 +120,17 @@ class RunnerWindow(QtWidgets.QWidget):
 
         self.prog.setValue(100)
         self.logs.append("Done!")
+    
+    def stop(self):
+        self.runner.stop()
+        self.start_button.setEnabled(False)
+        self.stop_button.setEnabled(False)
+        # self.update_logs('\n STOP', (179, 69, 63))
+        
+    def start(self):
+        self.runner.start()
+        self.update_prog(0)
+        self.stop_button.setEnabled(True)
 
     def wait(self):
 
@@ -122,9 +141,10 @@ class RunnerWindow(QtWidgets.QWidget):
 
         self.prog.setValue(x)
 
-    def update_logs(self, txt):
+    def update_logs(self, txt, color):
 
-        self.logs.append(txt)
+        self.logs.setTextColor(QtGui.QColor(*color))
+        self.logs.append(txt+'\n')
 
     def closeEvent(self, event):
 

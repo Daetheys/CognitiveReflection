@@ -1,4 +1,5 @@
 import xlsxwriter
+import pandas as pd
 import os
 import traceback
 
@@ -72,3 +73,33 @@ class XLSXLogger(Logger):
         self.wb.close()
         # Save the rest
         return super().__exit__(*args)
+
+
+class CSVLogger(Logger):
+    def __init__(self, config):
+        super().__init__(config)
+
+        self.df = []
+
+
+    def log(self, *args, **kwargs):
+        # Log in the txt file
+        super().log(*args)
+        self.df.append(kwargs)
+
+    def __enter__(self):
+        return super().__enter__()
+
+    def __exit__(self, *args):
+        # Save XLSX
+       # for k in self.to_save:
+       #     if len(self.to_save[k]) > 1:
+       super().__exit__(*args)
+       #         self.ws.write_rich_string(k[0], k[1], *self.to_save[k])
+       #     else:
+       #         self.ws.write(k[0], k[1], *self.to_save[k])
+       # self.wb.close()
+       # # Save the rest
+       # return super().__exit__(*args)
+
+

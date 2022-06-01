@@ -98,16 +98,16 @@ def main():
     param = config[cond]
     
     # GUI
-   # app = QtWidgets.QApplication(sys.argv)
-   # win = RunnerWindow()
-   # win.setGeometry(100, 200, 800, 600)
-   # win.set_runner(param, Dataset, GPTJ, XLSXLogger)
-   # sys.exit(app.exec_())
+    app = QtWidgets.QApplication(sys.argv)
+    win = RunnerWindow()
+    win.setGeometry(100, 200, 800, 600)
+    win.set_runner(param, Dataset, GPTJ, XLSXLogger)
+    sys.exit(app.exec_())
     
     # NO gui
-    runner = Runner(param, Dataset, GPTJ, XLSXLogger)
-    runner.run()
-    
+    #runner = Runner(param, Dataset, GPTJ, XLSXLogger)
+    #runner.run()
+    # 
 
 
 if __name__ == '__main__':

@@ -1,5 +1,6 @@
 import uuid
 import os
+import time
 
 from module import Module
 
@@ -8,7 +9,10 @@ class Runner(Module):
         super().__init__(config)
 
         if self.config['name'] is None:
-            self.config['name'] = str(uuid.uuid4())
+            data_file_name = self.config["data_path"].split('/')[-1].split('.')[0]
+            prefix = self.config["prefix"]
+            nb_trial = self.config["nb_run_per_question"]
+            self.config['name'] = prefix+"-"+data_file_name+"-"+str(nb_trial)+"-"+str(uuid.uuid4())[:8]
 
         os.makedirs(os.path.join('TRAININGS',self.config['name']))
         
@@ -43,6 +47,7 @@ class Runner(Module):
                         console_logger.log('------>',qi,ti,':',(ti+qi*self.config['nb_run_per_question'])/(len(self.dataset)*self.config['nb_run_per_question'])*100,'%')
                         console_logger.log(self.model.rec_buffer)
         time.sleep(2)
+        self.analyser.load()
         #Save the .xlsx file
         self.analyser.print_to_xlsx()
         #Save all the scores

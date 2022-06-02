@@ -114,27 +114,27 @@ class Analyser(Module):
                 #Add the completed text to the sentences to be given to the model
                 sentences.append(completed_text)
             #Compute scores
-            diff[int(qindex)],std[int(qindex)] = distance(sentences)
+            sims[int(qindex)],divs[int(qindex)] = distance(sentences)
         #Plot the scores and save them
         if save:
             fig, ax1 = plt.subplots()
             #Similarity axis
             ax1.set_xlabel('Question index')
             ax1.set_ylabel('Similarity score', color="blue")
-            ax1.plot(range(len(diff)),diff,color='blue',lw=0,marker='o')
+            ax1.plot(range(len(sims)),sims,color='blue',lw=0,marker='o')
             ax1.tick_params(axis='y', labelcolor='blue')
             ax1.set_ylim(0,1)
             #Diversity axis
             ax2 = ax1.twinx()
             ax2.set_ylim(0,1)
             ax2.set_ylabel('Diversity score', color="red")
-            ax2.plot(range(len(std)),std,color='red',lw=0,marker='o')
+            ax2.plot(range(len(divs)),divs,color='red',lw=0,marker='o')
             ax2.tick_params(axis='y', labelcolor='red')
-            ax2.plot(range(len(std)),[0.8]*len(std),color='black',lw=1)
+            ax2.plot(range(len(divs)),[0.8]*len(divs),color='black',lw=1)
             fig.tight_layout()
             #Save the figure
             plt.savefig(os.path.join(self.path,'completion_partial.png'))
-        return diff,std
+        return sims,divs
 
 import argparse
 if __name__ == '__main__':

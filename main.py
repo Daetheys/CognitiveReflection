@@ -14,9 +14,10 @@ from analyser import Analyser
 from configs import base_config,condition_1,condition_4
 
 #Define the config for the experiment
-config = condition_4.copy()
+config = condition_1.copy()
 config["data_path"] = "data/data2.txt"
-config["nb_run_per_question"] = 2
+config["nb_run_per_question"] = 100
+config["temperature"] = 1
 
 runner = Runner(config,Dataset,GPTJ,ConsoleLogger,JSONLogger,Analyser)
 

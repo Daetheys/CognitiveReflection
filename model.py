@@ -23,7 +23,8 @@ class GPTJ(Model):
             answer = openai.Completion.create(engine= self.config['engine'],
                                           prompt=prompt,
                                           temperature=self.config['temperature'],
-                                          max_tokens=self.config['max_tokens'])
+                                              max_tokens=self.config['max_tokens'],
+                                              logprobs=2)
             #Extract the text from the answer
             out_text = answer.get('choices')[0].get('text')
             return out_text,answer

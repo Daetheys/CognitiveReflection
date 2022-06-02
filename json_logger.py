@@ -58,4 +58,4 @@ class JSONLogger(Module):
         #Print the exception if one occurs
         if exc_type is not None:
             traceback.print_exception(exc_type, exc_value, tb)
-        return True
+        return False

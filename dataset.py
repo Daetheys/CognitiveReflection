@@ -1,4 +1,3 @@
-import os
 import json
 
 from module import Module
@@ -13,7 +12,6 @@ class Dataset(Module):
         self.questions = []
 
         self.load()
-       
 
     @property
     def path(self):
@@ -24,7 +22,7 @@ class Dataset(Module):
             # Adds a question from the stacked informations to the list
             question = Question(stack[0], stack[1:])
             self.questions.append(question)
-        
+
         extension = self.config['data_path'].split('.')[-1]
 
         if extension == 'txt':
@@ -53,7 +51,7 @@ class Dataset(Module):
                         Question(
                             prompt=q['text'],
                             title=q['title'],
-                             id=q['id']
+                            id=q['id']
                         )
                     )
 

@@ -1,5 +1,6 @@
 from curses.ascii import isdigit
 import json
+import re
 
 
 def main():
@@ -40,16 +41,27 @@ def main():
         txt = f.read()
         txt = txt.split('/**/')
         for question in txt:
+            
+            # get the number just before the title
             number = int(
                 "".join([c for c in question.split('.')[0] if c.isdigit()])
             )
 
+            # get the title (just before the first .)
             title = "".join([c for c in question.split('.')[1].split('\n')[0]]).replace(
                 '\t', '').replace('\n', '')
             if title.startswith(' '):
                 title = title[1:]
 
             text = question.split(title)[1].replace('\n', '').replace('\t', '')
+            
+            # break the line after 12 words
+            n = 12
+            
+            temp_text = text.split(' ')
+            
+            text = " ".join([[w, w+' \n'][i==n] for i, w in enumerate(temp_text)])
+
 
             data.append({'title': title, 'text': text, 'id': number})
 

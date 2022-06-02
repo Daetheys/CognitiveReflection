@@ -28,3 +28,4 @@ xlsxwriter
 # no need to install it
 python-decouple
 uuid
+pyqt5

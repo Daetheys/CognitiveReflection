@@ -28,7 +28,7 @@ class GPTJ(Model):
                                               max_tokens=self.config['max_tokens'], logprobs=2)
             # Extract the text from the answer
             out_text = answer.get('choices')[0].get('text')
-            return out_text
+            return out_text, answer
         except openai.error.APIError:  # Due to the internet network errors may occur and a new request can be sent
             self.error_count += 1
             if self.error_count > self.error_count_max:
@@ -44,11 +44,12 @@ class GPTJ(Model):
         # Store the new prompt in the buffer
         self.rec_buffer += "\n"+prompt
         # Ask for a completion
-        answer = self.ask(self.rec_buffer)
+        out_text, answer = self.ask(self.rec_buffer)
+        
         # Store the completion as well
-        self.rec_buffer += answer
+        self.rec_buffer += out_text
         # Return the completion
-        return answer
+        return out_text, answer
 
     def reset_rec(self):
         # Reset the buffer

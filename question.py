@@ -15,6 +15,11 @@ class Question:
         self.prompt_mode = prompt_mode
         self.nb_answers = nb_answers
 
+    def serialize(self):
+        return {"prompt":self.prompt,
+                "answers":self.answers}
+                # "keywords":self.keywords}
+
     def __str__(self):
         s = str(self.prompt)
         if self.prompt_mode == 'half':

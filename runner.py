@@ -121,19 +121,23 @@ class Runner(Module, threading.Thread):
 
                     self.prepare_dataframe(
                         qi=qi, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
+
                     self.save_json(qi, q, ti, qaski, qask, fa)
 
                 self.save_buffer(qi, ti)
                 self.save_dataframe()
 
+        # saves a panda dataframe
         self.save_dataframe()
-        time.sleep(2)
-        self.analyser.load()
+
         # Save the .xlsx file
+        self.analyser.load()
         self.analyser.print_to_xlsx()
+
         # Save all the scores
         for score in self.config['analyses']:
             self.analyser.compute_scores(score, save=True)
+
         # Print the finish statement
         print('TRAINING FINISHED : ', self.name)
 

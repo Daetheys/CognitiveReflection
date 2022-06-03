@@ -61,7 +61,7 @@ def main(args):
 
         app = QtWidgets.QApplication(sys.argv)
         win = RunnerWindow(runner=runner, communicate=communicate)
-        win.setGeometry(100, 200, 800, 600)
+        win.setGeometry(100, 200, 800, 1000)
         sys.exit(app.exec_())
 
     # is executed when args.gui is False
@@ -74,6 +74,6 @@ def main(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--gui', action='store_true')
+    parser.add_argument('--gui', '-ui', action='store_true')
     args = parser.parse_args()
     main(args)

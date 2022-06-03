@@ -120,7 +120,6 @@ class RunnerWindow(QtWidgets.QWidget):
         self.start_button.setEnabled(False)
         self.stop_button.setEnabled(False)
 
-
     def stop(self):
         self.runner.stop()
         self.start_button.setEnabled(False)

@@ -1,5 +1,4 @@
 import time
-import sys
 import os
 import threading
 from datetime import datetime
@@ -44,9 +43,9 @@ class Runner(Module, threading.Thread):
             now = datetime.now().strftime("%d_%m_%Y__%H:%M:%S")
             self.config['name'] = f'{data_file_name}-{now}'
 
-        os.makedirs(os.path.join('TRAININGS', self.config['name']))
+        self.save_path = os.path.join('TRAININGS', self.config['name'])
 
-        self.save_path = self.config['name']
+        os.makedirs(self.save_path)
 
         self.dataset = dataset(self.config)
         self.model = model(self.config)
@@ -109,7 +108,6 @@ class Runner(Module, threading.Thread):
                     count_iter += 1
 
                     a, fa = self.model.ask_rec(qask)
-                    self.save_json(qi, q, ti, qaski, qask, fa)
 
                     if self.ui is not None:
                         self.ui.update_progess_bar(count_iter/self.n_iter*100)
@@ -120,9 +118,10 @@ class Runner(Module, threading.Thread):
                             self.ui.display_additional_question(qask)
 
                         self.ui.display_answer(a)
-                    
-                    self.prepare_dataframe(qi=qi, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
 
+                    self.prepare_dataframe(
+                        qi=qi, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
+                    self.save_json(qi, q, ti, qaski, qask, fa)
 
                 self.save_buffer(qi, ti)
                 self.save_dataframe()
@@ -156,6 +155,9 @@ class Runner(Module, threading.Thread):
             console_logger.log(self.model.rec_buffer)
 
     def save_json(self, qi, q, ti, qaski, qask, fa):
+        """
+        rewrites json file at each iteration
+        """
         with self.json_logger as json_logger:
             if json_logger.log[qi].get('question') is None:
                 json_logger.log[qi]['question'] = q.serialize()
@@ -164,16 +166,20 @@ class Runner(Module, threading.Thread):
             json_logger.log[qi]['list'][ti]['sequence'][qaski]['answer'] = fa
 
     def save_config(self):
+        """
+        saves config file
+        """
         # Write the config
-        f = open(os.path.join(self.json_logger.path, 'config.json'), 'w')
+        f = open(os.path.join(self.save_path, 'config.json'), 'w')
         json.dump(self.config, f)
-    
+
     def prepare_dataframe(self, qi, q, q_id, i, a_id, a):
-        self.future_df.append({'q_id': qi, 'question': q,  'q_id': q_id, 'iter': i, 'a_id': a_id, 'a': a})
+        self.future_df.append(
+            {'q_id': qi, 'question': q,  'q_id': q_id, 'iter': i, 'a_id': a_id, 'a': a})
 
     def save_dataframe(self):
         df = pd.DataFrame(self.future_df)
-        df.to_csv(os.path.join(self.json_logger.path, 'results.csv'))
+        df.to_csv(os.path.join(self.save_path, 'results.csv'))
 
     def stop(self):
         self._stopped = True

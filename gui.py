@@ -130,6 +130,7 @@ class RunnerWindow(QtWidgets.QWidget):
         self.runner.start()
         self.update_prog(0)
         self.stop_button.setEnabled(True)
+        self.start_button.setEnabled(False)
 
     def wait(self):
 

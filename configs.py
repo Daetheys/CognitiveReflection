@@ -48,8 +48,9 @@ base_config = SafeDict({
 condition_1 = base_config.copy()
 condition_1["additional_questions"] = ['Why?']
 condition_1["prefix"] = "condition_1"
+condition_1["analyses"] = ["accuracy"]
 
 condition_4 = base_config.copy()
 condition_4["question_mode"] = "half"
-condition_4["analyses"] = ["completion_exact","completion_partial"]
+condition_4["analyses"] = ["completion_soft"]
 condition_4["prefix"] = "condition_4"

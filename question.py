@@ -28,7 +28,7 @@ class Question:
             s = s2[:-1]
         if self.prompt_mode == 'full':
             for i in range(min(self.nb_answers,len(self.answers))):
-                s += '\n'+self.answers[i]
+                s += '\n'+str(i+1)+'. '+self.answers[i]
             s += "\n"
         return s
 

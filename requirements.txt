@@ -29,3 +29,4 @@ uuid
 matplotlib
 tensorflow
 tensorflow_hub
+xlrd==1.2.0 #Else it doesn't support xlsx files

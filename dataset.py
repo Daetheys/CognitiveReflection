@@ -1,4 +1,5 @@
 import os
+import json
 
 from module import Module
 from question import Question
@@ -16,9 +17,24 @@ class Dataset(Module):
     def load_json(self):
         with open(self.path,'r') as f:
             data = json.load()
-            
-    
+
+
     def load(self):
+        ext = self.path.split('.')[-1]
+        if ext == 'txt':
+            self.load_txt()
+        elif ext == 'json':
+            self.load_json()
+
+    def load_json(self):
+        with open(self.path,'r') as f:
+            data = json.load(f)
+        self.questions = []
+        for k in data:
+            q = Question(data[k]['question'],data[k]['answers'],keywords=data[k]['keywords'])
+            self.questions.append(q)
+    
+    def load_txt(self):
         #List of questions
         self.questions = []
         def add_question(stack):

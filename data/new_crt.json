@@ -1,0 +1,68 @@
+{
+    "0":{
+	"question":"A scarf costs 210€ more than a hat. The scarf and the hat cost 220€ in total. How much does the hat cost?",
+	"answers":[],
+	"keywords":{
+	    "correct":["5"],
+	    "intuitive":["10"]
+	}
+    },
+    "1":{
+	"question":"How long would it take 80 carpenters to repair 80 tables, if it takes 8 carpenters 8 hours to repair 8 tables?",
+	"answers":[],
+	"keywords":{
+	    "correct":["8 hours"],
+	    "intuitive":["80 hours"]
+	}
+    },
+    "2":{
+	"question":"An entire forest was consumed by a wildfire in 40 hours, with its size doubling every hour. How long did it take to burn 50% of the forest?",
+	"answers":[],
+	"keywords":{
+	    "correct":["39"],
+	    "intuitive":["20"]
+	}
+    },
+    "3":{
+	"question":"If Andrea can clean a house in 3 hours, and Alex can clean a house in 6 hours, how many hours would it take for them to clean a house together?",
+	"answers":[],
+	"keywords":{
+	    "correct":["2"],
+	    "intuitive":["9"]
+	}
+    },
+    "4":{
+	"question":"A runner participates in a marathon and arrives both at the 100th highest and the 100th lowest position. How many participants are in the marathon?",
+	"answers":[],
+	"keywords":{
+	    "correct":["199"],
+	    "intuitive":["200"]
+	}
+    },
+    "5":{
+	"question":"A woman buys a second-hand car for $1000, then sells it for $2000. Later she buys it back for $3000 and finally sells it for $4000. How much has she made?",
+	"answers":[],
+	"keywords":{
+	    "correct":["2000"],
+	    "intuitive":["1000"]
+	}
+    },
+    "6":{
+	"question":"Frank decided to invest $10,000 into bitcoin in January 2018. Four months after he invested, the bitcoin he had purchased went down 50%. In the subsequent eight months, the bitcoin he had purchased went up 80%. What is the value of Frank’s bitcoin after one year?",
+	"answers":[],
+	"keywords":{
+	    "correct":["9"],
+	    "intuitive":["18"]
+	}
+    }
+}
+
+
+
+
+
+
+
+
+
+

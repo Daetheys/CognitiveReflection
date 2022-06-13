@@ -8,6 +8,7 @@ import tensorflow as tf
 import tensorflow_hub as hub
 
 from module import Module
+from dataset import Dataset
 
 class Analyser(Module):
     def __init__(self,config):
@@ -18,12 +19,6 @@ class Analyser(Module):
         #Load the data
         with open(os.path.join(self.path,'data.json'),'r') as f:
             self.data = json.load(f)
-
-
-        #Download and loads the model for completion_soft scoring
-        module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
-        print('\n--- Loading model - it might take a few minutes the first time you download it and raise a few memory warnings ---\n')
-        self.model = hub.load(module_url)
         
 
     def print_to_xlsx(self):
@@ -62,6 +57,95 @@ class Analyser(Module):
             return self.compute_scores_completion_exact(save=save)
         elif mode == "completion_soft":
             return self.compute_scores_completion_soft(save=save)
+        elif mode == "accuracy":
+            return self.compute_accuracy_score(save=save)
+
+    def compute_accuracy_score(self,save=False):
+        width = 1+len(self.config['additional_questions'])
+        keys_dict = [{} for i in range(len(self.data.keys()))]
+        questions = Dataset(self.config).questions
+        #Iter through all questions
+        for qindex in self.data:
+            #Get original question prompt
+            original_text = self.data[qindex]['question']['prompt']
+            #Iter through all trials
+            for trialid in self.data[qindex]['list']:
+                #Get completed text
+                results = self.data[qindex]['list'][trialid]['sequence']['0']
+                completed_text = results['answer']['choices'][0]['text']
+                completed_text = completed_text.split('.')
+                if len(completed_text)>1:
+                    completed_text = completed_text[-2]
+                else:
+                    completed_text = completed_text[0]
+                #Add the completed text to the sentences to be given to the model
+                keywords_found = {}
+                for key in questions[int(qindex)].keywords:
+                    for keyword in questions[int(qindex)].keywords[key]:
+                        if completed_text.find(keyword) != -1:
+                            keywords_found[key] = True
+                if len(keywords_found.keys()) == 1:
+                    try:
+                        keys_dict[int(qindex)][list(keywords_found.keys())[0]] += 1
+                    except KeyError:
+                        keys_dict[int(qindex)][list(keywords_found.keys())[0]] = 1
+                elif len(keywords_found.keys()) > 1:
+                    try:
+                        keys_dict[int(qindex)]["unclear"] += 1
+                    except KeyError:
+                        keys_dict[int(qindex)]["unclear"] = 1
+                else:
+                    try:
+                        keys_dict[int(qindex)]["other"] += 1
+                    except KeyError:
+                        keys_dict[int(qindex)]["other"] = 1
+
+        #Plot the scores and save them
+        if save:
+            colors = {"intuitive":'#1f77b4',
+                      "correct":'#2ca02c',
+                      "other":'#ff7f0e',
+                      "unclear":'#d62728'}
+            #Create plot
+            fig, ax1 = plt.subplots()
+            #Transform keys_dict in a more readable form
+            labels = {}
+            for q in keys_dict:
+                for k in q:
+                    if not(k in ['unclear','other','correct','intuitive']):
+                           labels[k] = True
+            labels = list(labels.keys())
+            labels.append("correct")
+            labels.append("intuitive")
+            labels.append("other") #Ensure unclear is present
+            labels.append("unclear")
+            data = np.zeros((len(self.data.keys()),len(labels)))
+            for q in range(len(keys_dict)):
+                for i,k in enumerate(labels):
+                    try:
+                        data[q][i] = keys_dict[q][k]
+                    except KeyError:
+                        data[q][i] = 0
+
+            offset = np.zeros(data.shape[0])
+            bars = []
+            for k in range(len(labels)):
+                try:
+                    c = colors[labels[k]]
+                except KeyError:
+                    c = None
+                bar = plt.bar(range(data.shape[0]),data[:,k],0.4,bottom=offset,color=c)
+                bars.append(bar)
+                offset += data[:,k]
+            
+            #Similarity axis
+            ax1.set_xlabel('Question index')
+            ax1.set_ylabel('Repartition')
+            #Save the figure
+            plt.legend(bars,labels)
+            plt.title('Responses (Temperature ='+str(self.config['temperature'])+')')
+            plt.savefig(os.path.join(self.path,'accuracy.png'))
+        return data
 
     def compute_scores_completion_exact(self,save=False):
         width = 1+len(self.config['additional_questions'])
@@ -82,6 +166,12 @@ class Analyser(Module):
 
 
     def compute_scores_completion_soft(self,save=False):
+        
+        #Download and loads the model for completion_soft scoring
+        module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
+        print('\n--- Loading model - it might take a few minutes the first time you download it and raise a few memory warnings ---\n')
+        self.model = hub.load(module_url)
+        
         def distance(sentences):
             #Get vec representation
             vec = self.model(sentences)
@@ -110,7 +200,12 @@ class Analyser(Module):
                 #Get completed text
                 results = self.data[qindex]['list'][trialid]['sequence']['0']
                 completed_text = results['prompt']+results['answer']['choices'][0]['text']
-                completed_text = completed_text.split('\n')[0]
+                completed_text = completed_text.split('?')
+                if len(completed_text)>1:
+                    completed_text = completed_text[0]+'?'
+                else:
+                    completed_text = completed_text[0]
+                print("----",completed_text)
                 #Add the completed text to the sentences to be given to the model
                 sentences.append(completed_text)
             #Compute scores
@@ -127,12 +222,13 @@ class Analyser(Module):
             #Diversity axis
             ax2 = ax1.twinx()
             ax2.set_ylim(0,1)
-            ax2.set_ylabel('Diversity score', color="red")
+            ax2.set_ylabel('Consistency score', color="red")
             ax2.plot(range(len(divs)),divs,color='red',lw=0,marker='o')
             ax2.tick_params(axis='y', labelcolor='red')
             ax2.plot(range(len(divs)),[0.8]*len(divs),color='black',lw=1)
             fig.tight_layout()
             #Save the figure
+            plt.title('Completion Scores (Similarity and Consistency)')
             plt.savefig(os.path.join(self.path,'completion_partial.png'))
         return sims,divs
 

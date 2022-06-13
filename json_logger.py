@@ -51,7 +51,7 @@ class JSONLogger(Module):
 
     def __exit__(self,exc_type, exc_value, tb):
         #Write the file
-        f = open(os.path.join(self.path,'data.json'),'a')
+        f = open(os.path.join(self.path,'data.json'),'w')
         json.dump(self.serialize(),f)
         f.close()
 

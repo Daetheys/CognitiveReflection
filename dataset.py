@@ -31,7 +31,7 @@ class Dataset(Module):
             data = json.load(f)
         self.questions = []
         for k in data:
-            q = Question(data[k]['question'],data[k]['answers'],keywords=data[k]['keywords'])
+            q = Question(data[k]['question'],data[k]['answers'],keywords=data[k]['keywords'],info=data[k]['info'])
             self.questions.append(q)
     
     def load_txt(self):

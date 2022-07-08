@@ -6,6 +6,7 @@ import numpy as np
 from queue import PriorityQueue
 import tensorflow as tf
 import tensorflow_hub as hub
+import seaborn as sns
 
 from module import Module
 from dataset import Dataset
@@ -59,6 +60,8 @@ class Analyser(Module):
             return self.compute_scores_completion_soft(save=save)
         elif mode == "accuracy":
             return self.compute_accuracy_score(save=save)
+        elif mode == "cf":
+            return self.compute_scores_cf(save=save)
 
     def compute_accuracy_score(self,save=False):
         width = 1+len(self.config['additional_questions'])
@@ -231,6 +234,51 @@ class Analyser(Module):
             plt.title('Completion Scores (Similarity and Consistency)')
             plt.savefig(os.path.join(self.path,'completion_partial.png'))
         return sims,divs
+
+    def compute_scores_cf(self,save=False):
+        def plot(data,name,save=False):
+            fig, (ax1, ax2) = plt.subplots(nrows = 1,ncols = 2, figsize =(9, 4), sharey = True) 
+            sns.violinplot([data[k]['pc'] for k in range(len(data))])
+            ax1.set_title('Rational choices')
+            sns.violinplot([data[k]['pi'] for k in range(len(data))])
+            ax2.set_title('CF choices')
+            if save:
+                plt.savefig(os.path.join(self.path,name))
+        data = []
+        for qindex in self.data:
+            question = self.data[qindex]['question']
+            results = self.data[qindex]['list']['0']['sequence']['0']
+            order = question['info']['order']
+            mapping = [question['info'][k] for k in ['training 1','hobby 1','work 1','hobby 2']]
+            pattern = [m[0] for m in mapping]
+            vignettes = [m[1] for m in mapping]
+
+            logprobs = results['answer']['choices'][0]['logprobs']['top_logprobs'][0]
+            pa = np.exp(logprobs['a'])
+            pb = np.exp(logprobs['b'])
+            pc = [pb,pa][order]
+            pi = [pa,pb][order]
+            
+            data.append({
+                "order":order, #Order in which answers were proposed : 0- reversed  1- standard
+                "mapping":mapping, #mapping of sets in which vignettes were taken
+                "pa":pa, #prob for answering a
+                "pb":pb, #probs for answering b
+                "pc":pc, #probs for answering the rational answer
+                "pi":pi #probs for answering the intuitive answer
+            })
+        #Global plot
+        plot(data,'global.png',save=save)
+
+        #Reverse order plot
+        data0 = [data[k] for k in range(len(data)) if data[k]['order'] == 0]
+        plot(data0,'reverse.png',save=save)
+
+        #Standard order plot
+        data1 = [data[k] for k in range(len(data)) if data[k]['order'] == 1]
+        plot(data1,'standard.png',save=save)
+        
+            
 
 import argparse
 if __name__ == '__main__':

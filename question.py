@@ -1,8 +1,13 @@
 class Question:
-    def __init__(self,prompt,answers,keywords=[]):
+    def __init__(self,prompt,answers,keywords=None,info=None):
         self.prompt = prompt
         self.answers = answers
         self.keywords = keywords
+        if keywords is None:
+            self.keywords = []
+        self.info = info
+        if info is None:
+            self.info = {}
 
         self.prompt_mode = 'full'
         self.nb_answers = 4
@@ -16,7 +21,8 @@ class Question:
     def serialize(self):
         return {"prompt":self.prompt,
                 "answers":self.answers,
-                "keywords":self.keywords}
+                "keywords":self.keywords,
+                "info":self.info}
 
     def __str__(self):
         s = str(self.prompt)
@@ -28,8 +34,8 @@ class Question:
             s = s2[:-1]
         if self.prompt_mode == 'full':
             for i in range(min(self.nb_answers,len(self.answers))):
-                s += '\n'+str(i+1)+'. '+self.answers[i]
-            s += "\n"
+                s += '\n('+chr(97+i)+'). '+self.answers[i]
+            s += "\n\n"
         return s
 
     def __repr__(self):

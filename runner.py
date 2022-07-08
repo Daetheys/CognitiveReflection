@@ -39,6 +39,8 @@ class Runner(Module):
                         self.model.reset_rec()
                         #Add the question to its buffer and compute the answer
                         for qaski,qask in enumerate([str(q)]+self.config['additional_questions']):
+                            if qaski == 0:
+                                qask += self.config['append']
                             a,fa = self.model.ask_rec(qask)
                             json_logger.log[qi]['list'][ti]['sequence'][qaski]['prompt'] = qask
                             json_logger.log[qi]['list'][ti]['sequence'][qaski]['answer'] = fa

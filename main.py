@@ -31,7 +31,7 @@ base_config = SafeDict(**{
     "nb_answers": 0,
     "additional_questions": [],
 
-    "nb_run_per_question": 10,
+    "nb_run_per_question": 20,
 
     # Name of the training
     "name": None,  # Name of the training
@@ -45,12 +45,12 @@ base_config = SafeDict(**{
 def main(args):
 
     # TODO: select config file/dataset and save path from ui
-    exp_name = 'impersonal_moral'
+    exp_name = 'items'
 
     param = base_config.copy()
     param["additional_questions"] = ['Why?']
     param["prefix"] = exp_name
-    param["data_path"] = f"data/{exp_name}.json"
+    param["data_path"] = f"data/cushman_2006/{exp_name}.json"
 
     if args.gui:
         # bridge between ui and runner

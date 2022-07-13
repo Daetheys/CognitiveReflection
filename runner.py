@@ -45,8 +45,6 @@ class Runner(Module, threading.Thread):
 
         self.save_path = os.path.join('TRAININGS', self.config['name'])
 
-        os.makedirs(self.save_path)
-
         self.dataset = dataset(self.config)
         self.model = model(self.config)
         self.console_logger = console_logger(self.config)
@@ -81,6 +79,9 @@ class Runner(Module, threading.Thread):
             * self.config['nb_run_per_question']
 
     def run(self):
+
+        os.makedirs(self.save_path)
+
         print('TRAINING STARTED : ', self.name)
 
         count_iter = 0
@@ -120,11 +121,11 @@ class Runner(Module, threading.Thread):
                         self.ui.display_answer(a)
 
                     self.prepare_dataframe(
-                        qi=qi, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
+                        qi=q.id, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
 
-                    self.save_json(qi, q, ti, qaski, qask, fa)
+                    self.save_json(q.id, q, ti, qaski, qask, fa)
 
-                self.save_buffer(qi, ti)
+                self.save_buffer(q.id, ti)
                 self.save_dataframe()
 
         # saves a panda dataframe
@@ -179,7 +180,7 @@ class Runner(Module, threading.Thread):
 
     def prepare_dataframe(self, qi, q, q_id, i, a_id, a):
         self.future_df.append(
-            {'q_id': qi, 'question': q,  'q_id': q_id, 'iter': i, 'a_id': a_id, 'a': a})
+            {'item_id': qi, 'question': q,  'q_id': q_id, 'iter': i, 'a_id': a_id, 'a': a})
 
     def save_dataframe(self):
         df = pd.DataFrame(self.future_df)

@@ -5,7 +5,8 @@
 	"keywords":{
 	    "correct":["5"],
 	    "intuitive":["10"]
-	}
+	},
+	"info":{}
     },
     "1":{
 	"question":"If it takes 5 machines 5 minutes to make 5 widgets, how long would it take 100 machines to make 100 widgets?",
@@ -13,7 +14,8 @@
 	"keywords":{
 	    "correct":["5 minutes"],
 	    "intuitive":["100 minutes"]
-	}
+	},
+	"info":{}
     },
     "2":{
 	"question":"In a lake, there is a patch of lily pads. Every day, the patch doubles in size. If it takes 48 days for the patch to cover the entire lake, how long would it take for the patch to cover half of the lake?",
@@ -21,7 +23,8 @@
 	"keywords":{
 	    "correct":["47"],
 	    "intuitive":["24"]
-	}
+	},
+	"info":{}
     },
     "3":{
 	"question":"If John can drink one barrel of water in 6 days, and Mary can drink one barrel of water in 12 days, how long would it take them to drink one barrel of water together?",
@@ -29,7 +32,8 @@
 	"keywords":{
 	    "correct":["4"],
 	    "intuitive":["18"]
-	}
+	},
+	"info":{}
     },
     "4":{
 	"question":"Jerry received both the 15th highest and the 15th lowest mark in the class. How many students are in the class?",
@@ -37,7 +41,8 @@
 	"keywords":{
 	    "correct":["29"],
 	    "intuitive":["30"]
-	}
+	},
+	"info":{}
     },
     "5":{
 	"question":"A man buys a pig for £60, sells it for £70, buys it back for £80, and sells it finally for £90. How much has he made?",
@@ -45,7 +50,8 @@
 	"keywords":{
 	    "correct":["20"],
 	    "intuitive":["10"]
-	}
+	},
+	"info":{}
     },
     "6":{
 	"question":"Simon decided to invest £8,000 in the stock market one day early in 2008. Six months after he invested, on July 17, the stocks he had purchased were down 50%. Fortunately for Simon, from July 17 to October 17, the stocks he had purchased went up 75%. What is Simon's economic situation at this point?",
@@ -53,7 +59,8 @@
 	"keywords":{
 	    "correct":["is down","lost money"],
 	    "intuitive":["is up","earn money","win money","got money"]
-	}
+	},
+	"info":{}
     }
 }
 

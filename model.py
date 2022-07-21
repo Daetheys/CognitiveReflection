@@ -17,14 +17,15 @@ class GPTJ(Model):
         self.error_count = 0
         self.error_count_max = 20
 
-    def ask(self,prompt):
+    def ask(self,prompt,echo=False):
         try:
             #Sends a request to complete the given prompt
             answer = openai.Completion.create(engine= self.config['engine'],
                                           prompt=prompt,
                                           temperature=self.config['temperature'],
                                               max_tokens=self.config['max_tokens'],
-                                              logprobs=5)
+                                              logprobs=5,
+                                              echo=echo)
             #Extract the text from the answer
             out_text = answer.get('choices')[0].get('text')
             return out_text,answer

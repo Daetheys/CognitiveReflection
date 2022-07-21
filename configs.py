@@ -33,10 +33,15 @@ base_config = SafeDict({
     #Question Configuration
     "question_mode":"full", #'full': keeps the full question // 'half': cuts the second half of the question
     "nb_answers":0, #[int] : nb of answers that will be shown in the prompt given to the model
+    "answer_model":"([letter]). [answer]\n",
     "additional_questions":[],
     "append":"",
+    "get_qprobs":False,
+    "QA":False,
 
     "nb_run_per_question":2,
+
+    "backslash":True,
 
     #Name of the training
     "name":None, #Name of the training
@@ -68,3 +73,26 @@ cf_shultz_par['append'] = 'Option ('
 
 cf_rational = cf_basic.copy()
 cf_rational['append'] = 'The most probable scenario is ('
+
+cf_test = cf_basic.copy()
+cf_test['QA'] = True
+cf_test['answer_model'] = '([letter]) [answer]\n'
+cf_test['append'] = '('
+
+cf_test2 = cf_basic.copy()
+cf_test2['QA'] = True
+cf_test2['answer_model'] = 'Option [number]: [answer]\n'
+cf_test2['append'] = 'Option '
+
+cf_test3 = cf_basic.copy()
+cf_test3['QA'] = False
+cf_test3['answer_model'] = '([letter]) [answer]'
+cf_test3['append'] = '('
+
+qprobs = cf_basic.copy()
+qprobs['get_qprobs'] = True
+qprobs['nb_run_per_question'] = 1
+qprobs['max_tokens'] = 0
+qprobs['question_mode'] = 'full'
+qprobs['backslash'] = False
+qprobs["nb_answers"]=2

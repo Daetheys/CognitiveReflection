@@ -62,6 +62,8 @@ class Analyser(Module):
             return self.compute_accuracy_score(save=save)
         elif mode == "cf":
             return self.compute_scores_cf(save=save)
+        elif mode == 'qprobs':
+            return self.compute_qprobs(save=save)
 
     def compute_accuracy_score(self,save=False):
         width = 1+len(self.config['additional_questions'])
@@ -278,6 +280,24 @@ class Analyser(Module):
         data1 = [data[k] for k in range(len(data)) if data[k]['order'] == 1]
         plot(data1,'standard.png',save=save)
         
+    def compute_qprobs(self,save=False):
+        data = []
+        for qindex in self.data:
+            answ = self.data[qindex]['list']['0']['sequence']['0']['answer']['choices'][0]['logprobs']
+            data.append((answ['tokens'],answ['token_logprobs']))
+        n = len(data)
+        fig,ax = plt.subplots(int(n**0.5+1),int(n**0.5+1),figsize=(50,50))
+        for i in range(n):
+            x,y = i//int(n**0.5+1),i%int(n**0.5+1)
+            plt.subplot(int(n**0.5+1),int(n**0.5+1),i+1)
+            ax[x][y].plot(range(len(data[i][0])),np.cumsum([0]+data[i][1][1:]),marker='.')#,drawstyle="steps-post")
+            ax[x][y].set_xticks(range(len(data[i][0])))
+            ax[x][y].set_xticklabels(data[i][0],rotation=45)
+            ax[x][y].xaxis.grid(True)
+
+        plt.title('LogProbsPlots')
+        if save:
+            plt.savefig(os.path.join(self.path,'completion_partial.png'))
             
 
 import argparse

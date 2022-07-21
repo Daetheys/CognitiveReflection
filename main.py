@@ -13,7 +13,7 @@ from analyser import Analyser
 
 from configs import *
 #Define the config for the experiment
-config = cf_rational.copy()
+config = cf_test3.copy()
 config["data_path"] = "data/billlight.json"
 
 runner = Runner(config,Dataset,GPTJ,ConsoleLogger,JSONLogger,Analyser)

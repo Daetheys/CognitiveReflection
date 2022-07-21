@@ -32,7 +32,7 @@ class Runner(Module):
                 for qi,q in enumerate(self.dataset):
                     json_logger.log[qi]['question'] = q.serialize()
                     #Prepare the question with the desired format
-                    q.setup(self.config['question_mode'],self.config['nb_answers'])
+                    q.setup(self.config['question_mode'],self.config['nb_answers'],self.config['answer_model'],self.config['QA'],self.config['backslash'])
                     #Iterate several times over each question
                     for ti in range(self.config['nb_run_per_question']):
                         #Reset the buffer of the model
@@ -41,7 +41,10 @@ class Runner(Module):
                         for qaski,qask in enumerate([str(q)]+self.config['additional_questions']):
                             if qaski == 0:
                                 qask += self.config['append']
-                            a,fa = self.model.ask_rec(qask)
+                            if self.config['get_qprobs']:
+                                a,fa = self.model.ask(qask,echo=True)
+                            else:
+                                a,fa = self.model.ask_rec(qask)
                             json_logger.log[qi]['list'][ti]['sequence'][qaski]['prompt'] = qask
                             json_logger.log[qi]['list'][ti]['sequence'][qaski]['answer'] = fa
 

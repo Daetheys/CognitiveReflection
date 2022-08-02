@@ -34,7 +34,7 @@ def greene():
 
     """
 
-    filepath = 'data/personal_moral'
+    filepath = 'data/green_2006/non_moral'
     data = []
 
     with open(f'{filepath}.txt', 'r') as f:
@@ -61,6 +61,7 @@ def greene():
             temp_text = text.split(' ')
             
             text = " ".join([[w, w+' \n'][i==n] for i, w in enumerate(temp_text)])
+            text = re.sub(r'(?<=[.,])(?=[^\s])', r' ', text)
 
 
             data.append({'title': title, 'text': text, 'id': number})
@@ -144,4 +145,4 @@ def cushman():
 
 
 if __name__ == '__main__':
-    cushman()
+    greene()

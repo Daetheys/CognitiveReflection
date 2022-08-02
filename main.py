@@ -45,12 +45,12 @@ base_config = SafeDict(**{
 def main(args):
 
     # TODO: select config file/dataset and save path from ui
-    exp_name = 'items'
+    exp_name = 'impersonal_moral'
 
     param = base_config.copy()
     param["additional_questions"] = ['Why?']
     param["prefix"] = exp_name
-    param["data_path"] = f"data/cushman_2006/{exp_name}.json"
+    param["data_path"] = f"data/green_2006/{exp_name}_A_B.json"
 
     if args.gui:
         # bridge between ui and runner
@@ -63,6 +63,7 @@ def main(args):
         win = RunnerWindow(runner=runner, communicate=communicate)
         win.setGeometry(100, 200, 800, 1000)
         sys.exit(app.exec_())
+    
 
     # is executed when args.gui is False
     runner = Runner(

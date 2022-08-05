@@ -7,43 +7,43 @@ import pandas as pd
 
 from module import Module
 
-
 class UI:
-    def __init__(self, communicate):
-        self.communicate = communicate
+    def __init__(self, path) -> None:
+        self.path = path + '/web_logs.txt'
+        with open(self.path, 'a+') as f:
+            f.write('')
 
-    def display_question(self, q, i, color='black'):
-        self.communicate.update_logs.emit(
-            f'<b>QUESTION {q.id} | iteration = {i}:</b>', color)
-        self.communicate.update_logs.emit(str(q), color)
+    def append(self, str):
+        with open(self.path, 'a') as f:
+            f.write(str)
 
-    def display_additional_question(self, msg, color='blue'):
-        self.communicate.update_logs.emit(str(msg), color)
+    def display_question(self, q, i, color='white'):
+        self.append(
+            f'<b style="color: {color}">QUESTION {q.id} | iteration = {i}:</b>')
+        self.append(f'<p style="color: {color}"> {q}</p>')
 
-    def display_answer(self, a, color='green'):
-        self.communicate.update_logs.emit(str(a), color)
+    def display_additional_question(self, msg, color='#5294E2'):
+        self.append(
+            f'<p style="color: {color}"> {msg}</p>')
 
-    def update_progess_bar(self, x):
-        self.communicate.update_prog.emit(x)
-
-    def done(self):
-        self.communicate.done.emit()
+    def display_answer(self, a, color='#69BC95'):
+        self.append(
+            f'<p style="color: {color}"> {a}</p>')
 
 
-class Runner(Module, threading.Thread):
+class Runner(Module):
     def __init__(self, config, dataset, model, console_logger,
-                 json_logger, analyser, communicate=None):
+                 json_logger, analyser, progress_bar=None, logs=None):
         super().__init__(config)
-        threading.Thread.__init__(self)
+        # threading.Thread.__init__(self)
 
         if self.config['name'] is None:
-            data_file_name = self.config["data_path"].split(
-                '/')[-1].split('.')[0]
-            prefix = self.config["prefix"]
             now = datetime.now().strftime("%d_%m_%Y__%H:%M:%S")
-            self.config['name'] = f'{data_file_name}-{now}'
+            self.config['name'] = f'{self.config["dataset_filename"]}-{now}'
 
         self.save_path = os.path.join('TRAININGS', self.config['name'])
+
+        os.makedirs(self.save_path)
 
         self.dataset = dataset(self.config)
         self.model = model(self.config)
@@ -52,12 +52,13 @@ class Runner(Module, threading.Thread):
 
         self.analyser = analyser(self.config)
 
-        self.ui = UI(
-            communicate=communicate) if communicate is not None else communicate
-
+        self.ui = UI(self.save_path)
         self._stopped = False
 
+        self.progress_bar  = progress_bar
         self.future_df = []
+        
+        del self.config['file_as_string']
 
     @property
     def estimated_cost(self):
@@ -75,14 +76,16 @@ class Runner(Module, threading.Thread):
     @property
     def n_iter(self):
         return len(self.dataset)\
-            * ((self.config['question_mode'] == 'full') + 1)\
+            * [len(self.config['additional_questions'])+1, 1]\
+            [len(self.config['additional_questions'])==0]\
             * self.config['nb_run_per_question']
 
     def run(self):
 
-        os.makedirs(self.save_path)
 
         print('TRAINING STARTED : ', self.name)
+        print(self.n_iter)
+        print(len(self.config['additional_questions']))
 
         count_iter = 0
         # Prepare the logger
@@ -111,7 +114,6 @@ class Runner(Module, threading.Thread):
                     a, fa = self.model.ask_rec(qask)
 
                     if self.ui is not None:
-                        self.ui.update_progess_bar(count_iter/self.n_iter*100)
 
                         if qaski == 0:
                             self.ui.display_question(q, ti)
@@ -119,11 +121,20 @@ class Runner(Module, threading.Thread):
                             self.ui.display_additional_question(qask)
 
                         self.ui.display_answer(a)
+                    # if qaski == 0:
+                        # self.logs.markdown('test')
+                    # else:
+                        # pass
+                        # self.ui.display_additional_question(qask)
+
+                    # self.ui.display_answer(a)
 
                     self.prepare_dataframe(
                         qi=q.id, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
 
                     self.save_json(q.id, q, ti, qaski, qask, fa)
+                    
+                    self.progress_bar.progress(count_iter/self.n_iter)
 
                 self.save_buffer(q.id, ti)
                 self.save_dataframe()
@@ -143,12 +154,11 @@ class Runner(Module, threading.Thread):
         print('TRAINING FINISHED : ', self.name)
 
         self.save_config()
-        self.save_dataframe()
-
+        csv_data = self.save_dataframe()
+        json_data = self.json_logger.d.to_dict()
+        
+        return csv_data, json_data
         # just in case
-        if self.ui is not None:
-            self.ui.update_progess_bar(100)
-            self.ui.done()
 
     def save_buffer(self, qi, ti):
         with self.console_logger as console_logger:
@@ -185,6 +195,7 @@ class Runner(Module, threading.Thread):
     def save_dataframe(self):
         df = pd.DataFrame(self.future_df)
         df.to_csv(os.path.join(self.save_path, 'results.csv'))
+        return df
 
     def stop(self):
         self._stopped = True
@@ -193,7 +204,8 @@ class Runner(Module, threading.Thread):
         return self._stopped
 
     def is_stopped(self):
-        if self.ui is not None and self._stopped:
-            self.ui.display_additional_question('\n STOP', 'red')
-            return True
-        return False
+        # if  self._stopped:
+            # self.ui.display_additional_question('\n STOP', 'red')
+            # return True
+
+        return self.stopped()

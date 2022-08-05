@@ -11,6 +11,8 @@ class Dataset(Module):
         # List of questions
         self.questions = []
 
+        self.f = config['file_as_string']
+
         self.load()
 
     @property
@@ -23,40 +25,15 @@ class Dataset(Module):
             question = Question(stack[0], stack[1:])
             self.questions.append(question)
 
-        extension = self.config['data_path'].split('.')[-1]
-
-        if extension == 'txt':
-            stack = []
-            with open(self.path, 'r') as f:
-                while True:
-                    line = f.readline()
-                    # Empty -> end the process
-                    if len(line) == 0:
-                        break
-                    # End of question -> store the question
-                    if line == '\n':
-                        add_question(stack)
-                        stack = []
-                    else:
-                        stack.append(line[:-1])
-                # Store the last question being processed
-                if len(stack) != 0:
-                    add_question(stack)
-
-        elif extension == 'json':
-            with open(self.path, "r") as f:
-                questions = json.load(f)
-                for q in questions:
-                    self.questions.append(
-                        Question(
-                            prompt=q['text'],
-                            title=q['title'],
-                            id=q['id']
-                        )
-                    )
-
-        else:
-            raise Exception('Extension not supported')
+        questions = json.load(self.f)
+        for q in questions:
+            self.questions.append(
+                Question(
+                    prompt=q['text'],
+                    title=q['title'],
+                    id=q['id']
+                )
+            )
 
     def __iter__(self):
         return iter(self.questions)

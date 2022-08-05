@@ -28,4 +28,9 @@ xlsxwriter
 # no need to install it
 python-decouple
 uuid
-pyqt5
+streamlit
+seaborn
+pingouin
+matplotlib
+tkinter
+tk

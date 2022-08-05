@@ -97,8 +97,6 @@ def about():
 # -------------------------------------------------------------------------------------------------
 # Dataset upload
 # -------------------------------------------------------------------------------------------------
-
-
 def upload():
     st.markdown("")
     st.markdown("## 🗎 Upload dataset  ")
@@ -113,7 +111,7 @@ def upload():
 # tweak parameters
 # -------------------------------------------------------------------------------------------------
 def tweak_parameters():
-# Basic configuration
+    # Basic configuration
     base_config = {
         # Engine
         "engine": 'text-davinci-002',  # engine being used from the API
@@ -142,7 +140,7 @@ def tweak_parameters():
     with st.form(key="my_form"):
         #
         ce, c1, ce, c2, c3 = st.columns([0.07, 1, 0.07, 5, 0.07])
-        container = st.container();
+        container = st.container()
         with c1:
             engine = st.radio(
                 "Choose your model",
@@ -170,7 +168,7 @@ def tweak_parameters():
             )
 
             base_config['additional_questions'] = st.text_input(
-                label='Additional questions (separated by question marks)', 
+                label='Additional questions (separated by question marks)',
                 value=base_config['additional_questions'][0]
             )
 
@@ -222,8 +220,8 @@ def run(progress, json_data, base_config):
         param['additional_questions'] = []
 
     runner = Runner(
-       param, Dataset, GPTJ,
-       ConsoleLogger, JSONLogger, Analyser, progress_bar=progress, logs=None)
+        param, Dataset, GPTJ,
+        ConsoleLogger, JSONLogger, Analyser, progress_bar=progress, logs=None)
 
     href = runner.save_path + '/web_logs.txt'
     script = """
@@ -253,8 +251,8 @@ def run(progress, json_data, base_config):
 
     script = script.format(href)
 
-    html(script);
-        # with c2:
+    html(script)
+    # with c2:
     # st.button(label="Stop", on_click=runner.stop)
 
     csv, json = runner.run()
@@ -263,8 +261,10 @@ def run(progress, json_data, base_config):
 # -------------------------------------------------------------------------------------------------
 # Download results
 # -------------------------------------------------------------------------------------------------
+
+
 def download_results(csv, json):
-#
+    #
     st.markdown("## 🎈 Check & download results ")
 #
     st.header("")
@@ -284,17 +284,14 @@ if __name__ == '__main__':
     about()
 
     json_data = upload()
-    
+
     if json_data is not None:
-        submit_button, progress, json_data, base_config =  tweak_parameters()
-        
+        submit_button, progress, json_data, base_config = tweak_parameters()
+
         if submit_button:
             csv, json = run(progress, json_data, base_config)
-    
-            download_results(csv, json)
 
-    
-    
+            download_results(csv, json)
 
 
 # st.header("")

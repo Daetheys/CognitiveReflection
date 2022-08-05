@@ -1,0 +1,9 @@
+<b style="color: white">QUESTION 1 | iteration = 0:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+Picking more turnips is better than picking fewer turnips.</p><b style="color: white">QUESTION 2 | iteration = 0:</b><p style="color: white"> You are bringing home a number of plants from a store that is about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+</p><p style="color: #69BC95"> 
+Yes</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+I would make two trips home in order to avoid ruining the upholstery of my car. This is because the cost of replacing the upholstery would be much greater than the cost of making two trips.</p>

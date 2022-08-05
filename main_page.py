@@ -28,24 +28,58 @@ from streamlit.components.v1 import html
 
 openai.api_key = config('OPENAI_API_KEY')
 
+# -------------------------------------------------------------------------------------------------
+# password
+# -------------------------------------------------------------------------------------------------
+
+
+def check_password():
+    """Returns `True` if the user had the correct password."""
+
+    def password_entered():
+        """Checks whether a password entered by the user is correct."""
+        if st.session_state["password"] == st.secrets["password"]:
+            st.session_state["password_correct"] = True
+            del st.session_state["password"]  # don't store password
+        else:
+            st.session_state["password_correct"] = False
+
+    if "password_correct" not in st.session_state:
+        # First run, show input for password.
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        return False
+    elif not st.session_state["password_correct"]:
+        # Password not correct, show input + error.
+        st.text_input(
+            "Password", type="password", on_change=password_entered, key="password"
+        )
+        st.error("😕 Password incorrect")
+        return False
+    else:
+        # Password correct.
+        return True
 
 # -------------------------------------------------------------------------------------------------
 # Title and header config
 # -------------------------------------------------------------------------------------------------
+
+
 def init():
     st.set_page_config(
         page_title="HRL LLM Playground",
-        page_icon="🧠", layout="wide"
+        page_icon="🧠", layout="centered"
     )
     # st.sidebar.markdown("# Main 🧠")
 
     def _max_width_():
-        max_width_str = f"max-width: 1000px;"
-        min_width_str = f"min-width: 1000px;"
-        html(
+        max_width_str = f"max-width: 1200px; !important"
+        min_width_str = f"min-width: 900px; !important"
+        st.markdown(
             f"""
         <style>
-        .reportview-container .main .block-container{{
+        .block-container {{
             {max_width_str}
             {min_width_str}
         }}
@@ -55,7 +89,7 @@ def init():
             border-radius: 3px;
         }}
         </style>
-        """
+        """, unsafe_allow_html=True
         )
 
     _max_width_()
@@ -97,6 +131,8 @@ def about():
 # -------------------------------------------------------------------------------------------------
 # Dataset upload
 # -------------------------------------------------------------------------------------------------
+
+
 def upload():
     st.markdown("")
     st.markdown("## 🗎 Upload dataset  ")
@@ -110,6 +146,8 @@ def upload():
 # -------------------------------------------------------------------------------------------------
 # tweak parameters
 # -------------------------------------------------------------------------------------------------
+
+
 def tweak_parameters():
     # Basic configuration
     base_config = {
@@ -278,20 +316,21 @@ def download_results(csv, json):
 
 
 if __name__ == '__main__':
-
     init()
 
-    about()
+    if check_password():
 
-    json_data = upload()
+        about()
 
-    if json_data is not None:
-        submit_button, progress, json_data, base_config = tweak_parameters()
+        json_data = upload()
 
-        if submit_button:
-            csv, json = run(progress, json_data, base_config)
+        if json_data is not None:
+            submit_button, progress, json_data, base_config = tweak_parameters()
 
-            download_results(csv, json)
+            if submit_button:
+                csv, json = run(progress, json_data, base_config)
+
+                download_results(csv, json)
 
 
 # st.header("")

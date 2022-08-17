@@ -45,12 +45,12 @@ base_config = SafeDict(**{
 def main(args):
 
     # TODO: select config file/dataset and save path from ui
-    exp_name = 'impersonal_moral'
+    exp_name = 'items_scale_ending'
 
     param = base_config.copy()
     param["additional_questions"] = ['Why?']
     param["prefix"] = exp_name
-    param["data_path"] = f"data/green_2006/{exp_name}_A_B.json"
+    param["data_path"] = f"data/cushman_2006/{exp_name}.json"
 
     if args.gui:
         # bridge between ui and runner

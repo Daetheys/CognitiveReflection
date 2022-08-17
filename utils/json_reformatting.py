@@ -51,5 +51,22 @@ def greene():
             json.dump(data, f, indent=6, ensure_ascii=False)
 
 
+def cushman():
+    fp = 'data/cushman_2006/items_scale'
+
+    with open(f'{fp}.json', 'r') as f:
+        data = json.load(f)
+        for q in data[1:]:
+            scale = """
+            \n Answer from a scale  of 1 to 7 where 1 is labeled "Forbidden", 4 is labeled "Permissible", and 7 is labeled "Obligatory".
+            """
+            q['text'] = 'Question: ' + data[0]['text'] + scale + '\nAnswer: 4\n\n' + '\nQuestion:' + q['text']  + scale + '\n Answer:'
+
+    with open(f'{fp}_ending.json', 'w', encoding='utf8') as f:
+        json.dump(data, f, indent=6, ensure_ascii=False)
+
+
+
+
 if __name__ == '__main__':
-    greene()
+    cushman()

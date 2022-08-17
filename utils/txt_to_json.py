@@ -116,17 +116,16 @@ def cushman():
             # get the title (just before the first .)
             title = "".join([c for c in question.split('.')[1].split('\n')[0]]).replace(
                 '\t', '').replace('\n', '')
-            if title.startswith(' '):
-                title = title[1:]
-
+            title = title.strip()
             text = question.split(title)[1].replace('\n', '').replace('\t', '')
             
             # change the question 
-            question = text.split('.')[-1]
-            question2 = question.lower().replace('is…', '')
-            new = ' Is' + question2 + ' the right thing to do?'
-            text = text.replace(question, new)
-            text = ' '.join(text.split())
+
+            #question = text.split('.')[-1]
+            #question2 = question.lower().replace('is…', '')
+            #new = ' Is' + question2 + ' the right thing to do?'
+            #text = text.replace(question, new)
+            #text = ' '.join(text.split())
 
             # break the line after 12 words
             n = 12
@@ -138,11 +137,11 @@ def cushman():
 
             data.append({'title': title, 'text': text, 'id': number})
 
-    with open(f'{filepath}.json', 'w', encoding='utf8') as f:
+    with open(f'{filepath}_scale.json', 'w', encoding='utf8') as f:
         json.dump(data, f, indent=6, ensure_ascii=False)
 
 
 
 
 if __name__ == '__main__':
-    greene()
+    cushman()

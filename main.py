@@ -13,8 +13,9 @@ from analyser import Analyser
 
 from configs import *
 #Define the config for the experiment
-config = cf_test3.copy()
-config["data_path"] = "data/billlight.json"
+config = crt_cot.copy()
+config['nb_run_per_question'] = 100
+config["data_path"] = "data/new_crt_cot.json"
 
 runner = Runner(config,Dataset,GPTJ,ConsoleLogger,JSONLogger,Analyser)
 

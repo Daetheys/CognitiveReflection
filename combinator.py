@@ -222,8 +222,10 @@ class Combinator:
                 d[str(i)]['question'] = data[i][0][0]
                 d[str(i)]['answers'] = data[i][0][1:]
                 d[str(i)]['info'] = data[i][1]
-                d[str(i)]['keywords']['first'] = []
-                d[str(i)]['keywords']['second'] = []
+                options = '(?=.*\b'+d[str(i)]['info']['work 1'][1]+'\b)(?!.*\b'+d[str(i)]['info']['hobby 2'][1]+'\b)','(?=.*\b'+d[str(i)]['info']['work 1'][1]+'\b)(?=.*\b'+d[str(i)]['info']['hobby 2'][1]+'\b)'
+                order = d[str(i)]['info']['order']
+                d[str(i)]['keywords']['first'] = ['first',options[1-order]]
+                d[str(i)]['keywords']['second'] = ['second',options[order]]
         else:
             for i in range(nb):
                 d[str(i)]['question'],d[str(i)]['info'] = self.generate()

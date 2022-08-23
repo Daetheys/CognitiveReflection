@@ -7,6 +7,7 @@ from queue import PriorityQueue
 import tensorflow as tf
 import tensorflow_hub as hub
 import seaborn as sns
+import re
 
 from module import Module
 from dataset import Dataset
@@ -60,12 +61,14 @@ class Analyser(Module):
             return self.compute_scores_completion_soft(save=save)
         elif mode == "accuracy":
             return self.compute_accuracy_score(save=save)
+        elif mode == "accuracy_last":
+            return self.compute_accuracy_score(last=True,save=save)
         elif mode == "cf":
             return self.compute_scores_cf(save=save)
         elif mode == 'qprobs':
             return self.compute_qprobs(save=save)
 
-    def compute_accuracy_score(self,save=False):
+    def compute_accuracy_score(self,last=False,save=False):
         width = 1+len(self.config['additional_questions'])
         keys_dict = [{} for i in range(len(self.data.keys()))]
         questions = Dataset(self.config).questions
@@ -76,8 +79,12 @@ class Analyser(Module):
             #Iter through all trials
             for trialid in self.data[qindex]['list']:
                 #Get completed text
-                results = self.data[qindex]['list'][trialid]['sequence']['0']
+                idx = '0'
+                if last:
+                    idx = '1'
+                results = self.data[qindex]['list'][trialid]['sequence'][idx]
                 completed_text = results['answer']['choices'][0]['text']
+                completed_text = completed_text.split('\n')[-1] #Added recently
                 completed_text = completed_text.split('.')
                 if len(completed_text)>1:
                     completed_text = completed_text[-2]
@@ -87,8 +94,9 @@ class Analyser(Module):
                 keywords_found = {}
                 for key in questions[int(qindex)].keywords:
                     for keyword in questions[int(qindex)].keywords[key]:
-                        if completed_text.find(keyword) != -1:
+                        if re.match('.*'+keyword+'.*',completed_text):#completed_text.find(keyword) != -1:
                             keywords_found[key] = True
+                
                 if len(keywords_found.keys()) == 1:
                     try:
                         keys_dict[int(qindex)][list(keywords_found.keys())[0]] += 1

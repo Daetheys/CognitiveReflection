@@ -143,12 +143,12 @@ class Runner(Module):
         self.save_dataframe()
 
         # Save the .xlsx file
-        self.analyser.load()
-        self.analyser.print_to_xlsx()
+        # self.analyser.load()
+        # self.analyser.print_to_xlsx()
 
         # Save all the scores
-        for score in self.config['analyses']:
-            self.analyser.compute_scores(score, save=True)
+        # for score in self.config['analyses']:
+            # self.analyser.compute_scores(score, save=True)
 
         # Print the finish statement
         print('TRAINING FINISHED : ', self.name)

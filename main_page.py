@@ -115,7 +115,7 @@ def about():
                 Here is an [example dataset](https://raw.githubusercontent.com/Daetheys/CognitiveReflection/2b373eb9e672e09fee510d677cfc45129355974b/data/non_moral.json).
                 Add as much items as you wish.
 
-            *  Tune parameters and click run. If you want to stop the process, you should have a stop button visible in the top-right corner of this webpage.
+            *  Tune parameters and click run. If you want to stop the process, you should have a stop button visible in the top-right corner of this page.
 
             *  Enjoy talking to an AI (but beware of the Blake Lemoine syndrome).
 

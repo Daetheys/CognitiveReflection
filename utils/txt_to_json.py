@@ -69,6 +69,7 @@ def greene():
     with open(f'{filepath}.json', 'w', encoding='utf8') as f:
         json.dump(data, f, indent=6, ensure_ascii=False)
 
+
 def cushman():
     """
     converts a txt file to a json one

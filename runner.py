@@ -33,7 +33,7 @@ class UI:
 
 class Runner(Module):
     def __init__(self, config, dataset, model, console_logger,
-                 json_logger, analyser, progress_bar=None, logs=None):
+                 json_logger, progress_bar=None, logs=None):
         super().__init__(config)
         # threading.Thread.__init__(self)
 
@@ -50,7 +50,7 @@ class Runner(Module):
         self.console_logger = console_logger(self.config)
         self.json_logger = json_logger(self.config)
 
-        self.analyser = analyser(self.config)
+        # self.analyser = analyser(self.config)
 
         self.ui = UI(self.save_path)
         self._stopped = False

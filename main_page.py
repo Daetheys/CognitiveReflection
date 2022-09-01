@@ -14,7 +14,7 @@ import sys
 import argparse
 
 from runner import Runner
-from analyser import Analyser
+# from analyser import Analyser
 from model import GPTJ
 from dataset import Dataset
 from utils.safedict import SafeDict
@@ -258,7 +258,7 @@ def run(progress, json_data, base_config):
 
     runner = Runner(
         param, Dataset, GPTJ,
-        ConsoleLogger, JSONLogger, Analyser, progress_bar=progress, logs=None)
+        ConsoleLogger, JSONLogger, progress_bar=progress, logs=None)
 
     href = runner.save_path + '/web_logs.txt'
     script = """
@@ -314,19 +314,19 @@ def download_results(csv, json):
 if __name__ == '__main__':
     init()
 
-    # if check_password():
+    if check_password():
 
-    about()
+        about()
 
-    json_data = upload()
+        json_data = upload()
 
-    if json_data is not None:
-        submit_button, progress, json_data, base_config = tweak_parameters()
+        if json_data is not None:
+            submit_button, progress, json_data, base_config = tweak_parameters()
 
-        if submit_button:
-            csv, json = run(progress, json_data, base_config)
+            if submit_button:
+                csv, json = run(progress, json_data, base_config)
 
-            download_results(csv, json)
+                download_results(csv, json)
 
 
 # st.header("")

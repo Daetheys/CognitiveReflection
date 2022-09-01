@@ -31,8 +31,6 @@ openai.api_key = config('OPENAI_API_KEY')
 # -------------------------------------------------------------------------------------------------
 # password
 # -------------------------------------------------------------------------------------------------
-
-
 def check_password():
     """Returns `True` if the user had the correct password."""
 
@@ -40,7 +38,7 @@ def check_password():
         """Checks whether a password entered by the user is correct."""
         if st.session_state["password"] == st.secrets["password"]:
             st.session_state["password_correct"] = True
-            del st.session_state["password"]  # don't store password
+            # del st.session_state["password"]  # don't store password
         else:
             st.session_state["password_correct"] = False
 
@@ -64,8 +62,6 @@ def check_password():
 # -------------------------------------------------------------------------------------------------
 # Title and header config
 # -------------------------------------------------------------------------------------------------
-
-
 def init():
     st.set_page_config(
         page_title="HRL LLM Playground",
@@ -99,7 +95,7 @@ def init():
 
     with c30:
         # st.image("logo.png", width=400)
-        st.title("🧠  HRL LLM Playground")
+        st.title("🧠  HRL GPT3 Playground")
 
 
 # -------------------------------------------------------------------------------------------------
@@ -131,13 +127,29 @@ def about():
 # -------------------------------------------------------------------------------------------------
 # Dataset upload
 # -------------------------------------------------------------------------------------------------
-
-
 def upload():
     st.markdown("")
     st.markdown("## 🗎 Upload dataset  ")
 
-    json_data = st.file_uploader(label="", type=['json'])
+    upload = st.empty()
+    json_data = upload.file_uploader(label="", type=['json'])
+    use_example = st.checkbox('Use example file?')
+    
+    if use_example:
+        upload.file_uploader(label="", type=['json'], disabled=True, key=35654645)
+        
+        with open('data/example.json', 'rb') as f:
+            data = f.read()
+            class Data:
+                name = 'example.json'
+                data = None
+                
+                def __init__(self, data) -> None:
+                    self.data = data
+                
+                def getvalue(self):
+                    return self.data
+            json_data = Data(data)
 
     st.markdown("")
     st.markdown("")
@@ -146,8 +158,6 @@ def upload():
 # -------------------------------------------------------------------------------------------------
 # tweak parameters
 # -------------------------------------------------------------------------------------------------
-
-
 def tweak_parameters():
     # Basic configuration
     base_config = {
@@ -213,9 +223,10 @@ def tweak_parameters():
 #
         with c2:
             txt = """
-            <div contenteditable="true"
+            <div 
              style="width: 100%; height: 450px; background-color: #262730;
-               overflow-y: scroll; white-space: pre-wrap;overflow-wrap: break-word; color:white;  border: none;"
+               overflow-y: scroll; white-space: pre-wrap;overflow-wrap: break-word;
+               padding: 12px; color:white;  border: none; border-radius: .25rem;"
               id="output">
             </div>
             """
@@ -225,17 +236,6 @@ def tweak_parameters():
             st.markdown('')
 
             progress = st.progress(0)
-            # st.markdown(
-            #    "Logs of the conversation",
-            # )
-
-            # logs = st.empty()
-            # logs.markdown("""
-            # ```
-            #    empty
-            # ```
-            # """)
-#
             submit_button = st.form_submit_button(label="✨ Run!")
 
             return submit_button, progress, json_data, base_config
@@ -274,9 +274,8 @@ def run(progress, json_data, base_config):
                 xmlHttp.send( null );
                 return xmlHttp.responseText;
             }}
-            var base_url = window.parent.location.href.replace('8501', '8000');
+            var base_url = window.parent.location.href.replace('8501', '7000');
             var full_url = base_url + '{0}';
-            console.log(full_url);
             var hasToScroll = output.scrollTop == output.scrollHeight - output.offsetHeight;
             output.innerHTML = httpGet(full_url);
             if (hasToScroll) {{
@@ -299,8 +298,6 @@ def run(progress, json_data, base_config):
 # -------------------------------------------------------------------------------------------------
 # Download results
 # -------------------------------------------------------------------------------------------------
-
-
 def download_results(csv, json):
     #
     st.markdown("## 🎈 Check & download results ")
@@ -318,19 +315,19 @@ def download_results(csv, json):
 if __name__ == '__main__':
     init()
 
-    if check_password():
+    # if check_password():
 
-        about()
+    about()
 
-        json_data = upload()
+    json_data = upload()
 
-        if json_data is not None:
-            submit_button, progress, json_data, base_config = tweak_parameters()
+    if json_data is not None:
+        submit_button, progress, json_data, base_config = tweak_parameters()
 
-            if submit_button:
-                csv, json = run(progress, json_data, base_config)
+        if submit_button:
+            csv, json = run(progress, json_data, base_config)
 
-                download_results(csv, json)
+            download_results(csv, json)
 
 
 # st.header("")

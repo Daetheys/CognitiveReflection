@@ -1,4 +1,3 @@
-from flask import g
 import streamlit as st
 import numpy as np
 from pandas import DataFrame
@@ -26,7 +25,7 @@ from streamlit_func import *
 from streamlit.components.v1 import html
 
 
-openai.api_key = config('OPENAI_API_KEY')
+# openai.api_key = config('OPENAI_API_KEY')
 
 # -------------------------------------------------------------------------------------------------
 # password

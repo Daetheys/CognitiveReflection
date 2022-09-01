@@ -288,7 +288,7 @@ def run(progress, json_data, base_config):
         </script>
         """
 
-    script = script.format(server, href)
+    script = script.format(server, href.replace('TRAININGS/', ''))
 
     html(script)
     # with c2:

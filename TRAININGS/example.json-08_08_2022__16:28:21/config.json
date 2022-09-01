@@ -1,0 +1,1 @@
+{"engine": "text-davinci-002", "temperature": 0.7, "max_tokens": 256, "question_mode": "full", "nb_answers": 0, "additional_questions": ["Why?"], "nb_run_per_question": 1, "name": "example.json-08_08_2022__16:28:21", "prefix": "", "data_path": null, "dataset_filename": "example.json", "analyses": []}

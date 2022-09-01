@@ -1,0 +1,36 @@
+------> 1 0 : 3.125 % 
+
+Adam is driving his motorboat when he notices five swimmers drowning in the 
+ distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers. If Adam does not accelerate quickly, the five swimmers will drown. Is accelerating quickly the right thing to do?
+
+Yes, accelerating quickly is the right thing to do.
+Why?
+
+Because if Adam does not drive toward the drowning swimmers at top speed, he will not arrive in time and they will all die. 
+------> 2 0 : 6.25 % 
+
+Ben sees that an empty runaway boxcar is headed down a track. There 
+ is nobody on the track. There is one person working on a side track. If Ben flips the switch, the boxcar will turn onto the side track and hit the one person. If Ben does not flip the switch, the boxcar will continue on the track, and nobody will be hit. Is flipping the switch the right thing to do?
+
+No, flipping the switch would cause the boxcar to hit the one person on the side track.
+Why?
+
+The right thing to do would be to leave the switch in the current position, so that the boxcar will continue on the track and nobody will be hit. 
+------> 3 0 : 9.375 % 
+
+Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck. The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod. Without oxygen, the five visitors will soon die. If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die. If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live. Is pushing the one visitor the right thing to do?
+
+Yes
+Why?
+
+The right thing to do is to save the lives of the five people in the pod, even if it means sacrificing the life of the one visitor. 
+------> 4 0 : 12.5 % 
+
+Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck. The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod. Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die. If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live. Is pulling the supply line the right thing to do?
+
+Yes, pulling the supply line is the right thing to do.
+Why?
+
+The one visitor who is still alive can be safely evacuated by medics, so there is no need to try to save this one person at the expense of the five others. By pulling the supply line out from under the one visitor, the five visitors in the pod will have their oxygen restored and will be able to live. 

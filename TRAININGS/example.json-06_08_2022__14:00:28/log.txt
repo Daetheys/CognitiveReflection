@@ -1,0 +1,72 @@
+------> 1 0 : 50.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn the turnip-picking machine to the right.
+Why?
+
+The extra ten bushels of turnips would be worth the effort of turning the machine. 
+------> 1 1 : 51.92307692307693 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my machine to the right in order to harvest twenty bushels of turnips.
+Why?
+
+The reason is simple: more turnips means more money. By choosing the path on the right, I can double my earnings. 
+------> 1 2 : 53.84615384615385 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn the machine to the right to harvest twenty bushels of turnips.
+Why?
+
+The extra ten bushels of turnips would be worth the effort of turning the machine. 
+------> 1 3 : 55.769230769230774 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes.
+Why?
+
+Picking more turnips is better than picking fewer turnips. 
+------> 1 4 : 57.692307692307686 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.
+Why? 
+
+The reason is simple: more turnips means more income, and thus more money to reinvest in the farm or spend on other things. Therefore, it is always in the best interest of the farm worker to choose the path that will result in the greatest yield. 
+------> 1 5 : 59.61538461538461 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right to harvest twenty bushels of turnips instead of ten.
+Why?
+
+The reason is simple: more turnips equals more money. If I can harvest twice as many turnips by taking the right path, then I will earn twice as much money. Therefore, it makes financial sense to turn to the right and harvest twenty bushels of turnips instead of ten. 
+------> 1 6 : 61.53846153846154 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips.
+Why?
+
+The reason is simple: more turnips means more money. With ten bushels of turnips, I might be able to sell them for $100. But with twenty bushels of turnips, I could sell them for $200. So, the choice is clear: turn to the right and get twice as many turnips (and twice the money). 
+------> 1 7 : 63.46153846153846 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes.
+Why?
+
+Picking twenty bushels of turnips is better than picking ten bushels of turnips. 
+------> 1 8 : 65.38461538461539 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.
+Why?
+
+The reason is simple: more is better. In this case, twice as many turnips is better than just ten. 

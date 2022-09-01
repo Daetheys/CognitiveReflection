@@ -1,0 +1,41 @@
+<b style="color: white">QUESTION 1 | iteration = 0:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes, I would turn the turnip-picking machine to the right.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The extra ten bushels of turnips would be worth the effort of turning the machine.</p><b style="color: white">QUESTION 1 | iteration = 1:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes, I would turn my machine to the right in order to harvest twenty bushels of turnips.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The reason is simple: more turnips means more money. By choosing the path on the right, I can double my earnings.</p><b style="color: white">QUESTION 1 | iteration = 2:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes, I would turn the machine to the right to harvest twenty bushels of turnips.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The extra ten bushels of turnips would be worth the effort of turning the machine.</p><b style="color: white">QUESTION 1 | iteration = 3:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+Picking more turnips is better than picking fewer turnips.</p><b style="color: white">QUESTION 1 | iteration = 4:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95">  
+
+The reason is simple: more turnips means more income, and thus more money to reinvest in the farm or spend on other things. Therefore, it is always in the best interest of the farm worker to choose the path that will result in the greatest yield.</p><b style="color: white">QUESTION 1 | iteration = 5:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes, I would turn my turnip-picking machine to the right to harvest twenty bushels of turnips instead of ten.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The reason is simple: more turnips equals more money. If I can harvest twice as many turnips by taking the right path, then I will earn twice as much money. Therefore, it makes financial sense to turn to the right and harvest twenty bushels of turnips instead of ten.</p><b style="color: white">QUESTION 1 | iteration = 6:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The reason is simple: more turnips means more money. With ten bushels of turnips, I might be able to sell them for $100. But with twenty bushels of turnips, I could sell them for $200. So, the choice is clear: turn to the right and get twice as many turnips (and twice the money).</p><b style="color: white">QUESTION 1 | iteration = 7:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+Picking twenty bushels of turnips is better than picking ten bushels of turnips.</p><b style="color: white">QUESTION 1 | iteration = 8:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The reason is simple: more is better. In this case, twice as many turnips is better than just ten.</p><b style="color: white">QUESTION 1 | iteration = 9:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+</p><p style="color: #69BC95"> 
+Yes</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+Picking twenty bushels of turnips would obviously be more beneficial than picking ten.</p>

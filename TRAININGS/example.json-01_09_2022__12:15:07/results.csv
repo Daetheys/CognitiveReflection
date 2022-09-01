@@ -1,0 +1,7 @@
+,item_id,question,q_id,iter,a_id,a
+0,1,"You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+",0,0,0,"
+Yes, I would turn my machine to the right to harvest twenty bushels of turnips."
+1,1,Why?,1,0,1,"
+
+The reason is simple: more turnips means more money. By choosing the path on the right, I can increase my earnings by 100%."

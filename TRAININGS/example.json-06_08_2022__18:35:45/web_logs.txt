@@ -1,0 +1,9 @@
+<b style="color: white">QUESTION 1 | iteration = 0:</b><p style="color: white"> You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you</p><p style="color: #69BC95">  will harvest five bushels of turnips.
+
+You should take the path on the right.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The path on the right will lead to five bushels of turnips, while the path on the left will only lead to ten bushels of turnips.</p><b style="color: white">QUESTION 2 | iteration = 0:</b><p style="color: white"> You are bringing home a number of plants from a store that is about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would</p><p style="color: #69BC95">  be stressful on the plants and on your car’s suspension. You decide to make two trips. You pack the heaviest plants in the trunk of your car and the lighter plants in the back seat. You’re very careful not to bump the plants and you drive slowly to avoid shaking them. You’ve done everything you can to prevent your plants from being stressed by the car trip.
+
+You’ve reduced stress on your plants by making two trips.</p><p style="color: #5294E2"> Why?</p><p style="color: #69BC95"> 
+
+The plants in the trunk are less likely to be damaged because they are supported by the car's suspension. The plants in the back seat are more likely to be damaged because they are not supported by the car's suspension.</p>

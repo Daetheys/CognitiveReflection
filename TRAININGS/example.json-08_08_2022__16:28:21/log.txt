@@ -1,0 +1,16 @@
+------> 1 0 : 50.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two diverging paths.By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the leftWould you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my machine to the right in order to harvest more turnips.
+Why?
+
+It would be more efficient to harvest more turnips in a shorter amount of time, and I would be able to get more work done overall. 
+------> 2 0 : 100.0 % 
+
+You are bringing home a number of plants from a store that is about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+No
+Why?
+
+I would not make two trips home in order to avoid ruining the upholstery of my car. I would either put all the plants in the trunk or put some in the trunk and some in the back seat. 

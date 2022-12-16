@@ -1,0 +1,187 @@
+1. Hardware
+A hardware store has been selling snow shovels for $15. The morning after a large snowstorm, the store raises the price to $20. 
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+2. Photocopy
+A small photocopying shop has one employee who has worked in the shop for six months and earns $9 per hour. Business continues to be satisfactory, but a factory in the area has closed and unemployment has increased. Other small shops have now hired reliable workers at $7 an hour to perform jobs similar to those done by the
+photocopy shop employee. The owner of the photocopying shop reduces the employee's
+wage to $7. 
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+
+/**/
+
+2. Photocopy 2
+A small photocopying shop has one employee who has worked in the shop for six months and earns $9 per hour. Business continues to be satisfactory, but a factory in the area has closed and unemployment has increased. Other small shops have now hired reliable workers at $7 an hour to perform jobs similar to those done by the
+photocopy shop employee. The owner of the photocopying shop reduces the employee's
+wage to $7. The current employee leaves, and the owner decides to pay a replacement $7 an hour.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+3. Painter
+A house painter employs two assistants and pays them $9 per hour. The painter decides to quit house painting and go into the business of providing landscape services, where the going wage is lower. He reduces the workers' wages to $7 per hourfor the landscaping work.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+
+/**/ 
+
+4. Community company
+A company is making a small profit. It is located in a community experiencing a recession with substantial unemployment but no inflation. There are many workers anxious to work at the company. The company decides to decrease wages and
+salaries 7% this year.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+5. Community company 2 
+A company is making a small profit. It is located in a community experiencing a recession with substantial unemployment abd inflation of 12%. There are many workers anxious to work at the company. The company decides to increase salaries only  5% this year.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+6. Automobile
+A shortage has developed for a popular model of automobile, and customers must now wait two months for delivery. A
+dealer has been selling these cars at list price. Now the dealer prices this model at $200 above list price.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+7. Automobile 2
+A shortage has developed for a popular model of automobile, and customers must now wait two months for delivery. A dealer has been selling these cars at a discount of $200 below list price. Now the dealer sells this model only at
+list price.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+8. Company reduce
+A small company employs several people. The workers' incomes have been about average for the community. In recent months, business for the company has not increased as it had before. The owners reduce the workers' wages by 10 percent for the next year.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+9. Company reduce 2 
+A small company employs several people. The workers have been receiving a 10 percent annual bonus each year
+and their total incomes have been about average for the community. In recent months, business for the company has not increased as it had before. The owners eliminate the workers' bonus for the year.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+10. Lettuce
+Suppose that, due to a transportation mixup, there is a local shortage of lettuce and the wholesale price has increased. A local grocer has bought the usual quantity of lettuce at a price that is 30 cents per head higher than normal. The grocer raises the price of lettuce to customers by 30 cents per head.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+11. Landlord
+A landlord owns and rents out a single small house to a tenant who is living on a fixed income. A higher rent would mean the tenant would have to move. Other small rental houses are available. The landlord's costs have increased substantially over the past year and the landlord raises the rent to cover the cost increases when the tenant's
+lease is due for renewal.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+12.  Company reduce 3
+A small company employs several workers and has been paying them average wages. There is severe unemployment in the area and the company could easily replace its current employees with good workers at a lower wage. The company has been making money. The owners reduce the current workers' wages by 5 percent.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+13.  Company reduce 4
+A small company employs several workers and has been paying them average wages. There is severe unemployment in the area and the company could easily replace its current employees with good workers at a lower wage. The company has been making money. The owners reduce the current workers' wages by 5 percent.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/ 
+
+14. Grocery
+A grocery store has several months supply of peanut butter in stock which it has on the shelves and in the storeroom. The owner hears that the wholesale price of peanut butter has increased and immediately raises the price on the current
+stock of peanut butter.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/ 
+
+15. Factory
+A small factory produces tables and sells all that it can make at $200 each. Because of changes in the price of
+materials, the cost of making each table has recently decreased by $40. The factory reduces its price for the tables by $20.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/ 
+
+15. Factory 2 
+A small factory produces tables and sells all that it can make at $200 each. Because of changes in the price of
+materials, the cost of making each table has recently decreased by $40. The factory reduces its price for the tables by $20.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+16. Apples
+
+A severe shortage of Red Delicious apples has developed in a community
+and none of the grocery stores or produce markets have any of this type of apple on
+their shelves. Other varieties of apples are plentiful in all of the stores. One grocer
+receives a single shipment of Red Delicious apples at the regular wholesale cost and raises
+the retail price of these Red Delicious apples by 25% over the regular price.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+16. Grocery 2
+
+A grocery chain has stores in many communities. Most of them face competition from other groceries. In one com-
+munity the chain has no competition. Although its costs and volume of sales are the
+same there as elsewhere, the chain sets prices that average 5 percent higher than in other
+communities.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+17. Landlord 2
+
+A landlord rents out a small house. When the lease is due for renewal, the landlord learns that the tenant has taken a
+job very close to the house and is therefore unlikely to move. The landlord raises the rent $40 per month more than he was planning to do.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+18. Doll
+
+A store has been sold out of the popular Cabbage Patch dolls for a month. A week before Christmas a single doll is discovered in a storeroom. The managers know that many customers would like to buy the doll. They announce over the store's public address system that the doll will be sold by auction to the customer who offers to pay
+the most.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+/**/
+
+19. Most qualified
+A business in a community with high unemployment needs to hire a new
+computer operator. Four candidates are judged to be completely qualified for the job.
+The manager asks the candidates to state the lowest salary they would be willing to accept, and then hires the one who demands the lowest salary.
+Please rate this action as:
+Completely Fair, Acceptable, Unfair, Very Unfair.
+
+
+
+
+
+
+

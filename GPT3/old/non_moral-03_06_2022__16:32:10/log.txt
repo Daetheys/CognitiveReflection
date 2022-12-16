@@ -1,0 +1,1798 @@
+------> 0 0 : 0.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.
+Why?
+
+The reason is simple: more turnips. By choosing the path on the right, I will be able to harvest twice as many turnips as if I had chosen the path on the left. This extra amount of turnips would be beneficial, especially if I were running a turnip farm. 
+------> 0 1 : 0.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips.
+Why?
+
+It would be more beneficial to turn to the right and harvest twenty bushels of turnips instead of ten. 
+------> 0 2 : 1.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes.
+Why?
+
+The reason is simple: more turnips. 
+------> 0 3 : 1.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my machine to the right in order to harvest more turnips.
+Why?
+
+Picking more turnips would allow me to sell more turnips and make more money. 
+------> 0 4 : 2.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.
+Why?
+
+The reason is simple: more turnips means more money. By choosing the path on the right, I can double my earnings. 
+------> 0 5 : 2.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.
+Why?
+
+It would be more efficient to harvest twenty bushels of turnips in one go than to have to go back and forth between the two paths. 
+------> 0 6 : 3.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips.
+Why?
+
+The farm worker is motivated by the prospect of harvesting more turnips, so they will choose the path that leads to the greater yield. 
+------> 0 7 : 3.5000000000000004 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips.
+Why?
+
+The simple answer is that more is better - twenty bushels of turnips is better than ten. But there may be other factors at play, such as how long each path takes to harvest or whether one path is more likely to result in a higher yield overall. 
+------> 0 8 : 4.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes, I would turn my turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten.
+Why? 
+
+The reason is simple: more turnips equals more money. By choosing the path on the right, I will be able to harvest twice as many turnips as if I had chosen the path on the left. This will result in a higher profit, which is always the goal. 
+------> 0 9 : 4.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths. By choosing the path on the left you will harvest ten bushels of turnips. By choosing the path on the right you will harvest twenty bushels of turnips. If you do nothing your turnip-harvesting machine will turn to the left. Would you turn your turnip-picking machine to the right in order to harvest twenty bushels of turnips instead of ten?
+
+Yes.
+Why?
+
+It would be more beneficial to harvest twenty bushels of turnips rather than ten. 
+------> 1 0 : 5.0 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home to avoid ruining the upholstery of my car.
+Why?
+
+The cost of replacing the upholstery would be much greater than the cost of making an extra trip to the store. 
+------> 1 1 : 5.5 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home in order to avoid ruining the upholstery of my car.
+Why?
+
+The cost of replacing the upholstery on my car would be much greater than the cost of making an extra trip to the store. Therefore, it makes financial sense to make two trips in order to avoid having to replace the upholstery. 
+------> 1 2 : 6.0 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home in order to avoid ruining the upholstery of my car.
+Why?
+
+The cost of replacing the upholstery would be much greater than the cost of making two trips. Plus, it would be easier to transport the plants if they were spread out between the trunk and the back seat. 
+------> 1 3 : 6.5 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home to avoid ruining the upholstery of my car.
+Why?
+
+The upholstery in my car is expensive, and it would be costly to replace it. By making two trips, I can avoid damaging it. 
+------> 1 4 : 7.000000000000001 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+If I had a car with fine leather upholstery, I would make two trips home in order to avoid ruining it.
+Why?
+
+Leather upholstery is expensive to replace, so it makes sense to avoid damaging it if possible. Making two trips home would be the best way to ensure that the plants don't damage the upholstery. 
+------> 1 5 : 7.5 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home to avoid ruining the upholstery of my car.
+Why?
+
+The primary purpose of a car is to get you from one place to another. While it may be nice to have leather upholstery, it is not essential to the function of the car. In contrast, ruining the upholstery would have a significant negative impact on the car's value. Therefore, it makes more sense to take two trips and preserve the upholstery than to risk damaging it. 
+------> 1 6 : 8.0 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home in order to avoid ruining the upholstery of my car.
+Why?
+
+It would be worth it to me to make two trips home in order to avoid ruining the upholstery of my car. The cost of replacing the upholstery would be much higher than the cost of making an extra trip. 
+------> 1 7 : 8.5 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home in order to avoid ruining the upholstery of my car.
+Why?
+
+The cost of replacing the upholstery on my car would be much greater than the cost of making an extra trip to the store. Therefore, it makes financial sense to make two trips in order to protect my car. 
+------> 1 8 : 9.0 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+If I had to choose between two options, I would choose to make two trips home in order to avoid ruining the upholstery of my car.
+Why?
+
+The cost of replacing the upholstery on my car would be much greater than the cost of making an extra trip to the store. Therefore, it makes financial sense to make two trips in order to avoid having to replace the upholstery. 
+------> 1 9 : 9.5 % 
+
+You are bringing home a number of plants from a store that is 
+ about two miles from your home. The trunk of your car, which you’ve lined with plastic to catch the mud from the plants, will hold most of the plants you’ve purchased.You could bring all the plants home in one trip, but this would require putting some of the plants in the back seat as well as in the trunk. By putting some of the plants in the back seat you will ruin your fine leather upholstery which would cost thousands of dollars to replace.Would you make two trips home in order to avoid ruining the upholstery of your car?
+
+Yes, I would make two trips home in order to avoid ruining the upholstery of my car.
+Why?
+
+The cost of replacing the upholstery on my car would be much higher than the cost of making an extra trip to the store. Therefore, it makes financial sense to make two trips in order to protect my car's upholstery. 
+------> 2 0 : 10.0 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+No, I would not schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday.
+Why?
+
+Scheduling Mr. Morris for 3:00 PM would mean that Mrs. Santiago would have to wait until Monday to have her appointment, and her schedule is less flexible. 
+------> 2 1 : 10.5 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+If Mr. Morris is willing to be scheduled for 3:00 PM, then yes, I would schedule him for that time so that both he and Mrs. Santiago can have their appointments next Monday.
+Why?
+
+This would be the most accommodating option for both parties, and would allow both Mr. Morris and Mrs. Santiago to have their appointments as scheduled. 
+------> 2 2 : 11.0 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes.
+Why?
+
+Both Mr. Morris and Mrs. Santiago can have their appointments next Monday if Mr. Morris is scheduled for 3:00 PM. 
+------> 2 3 : 11.5 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes, I would schedule Mr. Morris for 3:00 PM so that Mrs. Santiago can have her appointment at 10:00 AM.
+Why?
+
+Since Mrs. Santiago's schedule is less flexible, it would be best to accommodate her by giving her the 10:00 AM appointment. This way, both Mr. Morris and Mrs. Santiago can have their appointments next Monday. 
+------> 2 4 : 12.0 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes, I would schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday.
+Why?
+
+Because Mr. Morris is more flexible with his schedule and can come in at either 10:00 AM or 3:00 PM, it would make more sense to schedule him for the later appointment so that Mrs. Santiago can have her appointment at 10:00 AM. This would work better for both patients and would be the most fair solution. 
+------> 2 5 : 12.5 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes, I would schedule Mr. Morris for the 3:00 PM appointment slot.
+Why?
+
+Since Mrs. Santiago's schedule is less flexible, it would make more sense to allow her to have the 10:00 AM appointment slot, while Mr. Morris can be scheduled for the later 3:00 PM slot. This would accommodate both patients' schedules while still allowing them to have their appointments on the same day. 
+------> 2 6 : 13.0 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes, I would schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday.
+Why?
+
+Because Mrs. Santiago's schedule is less flexible and she can only have her appointment at 10:00 AM, it would make sense to schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments on the same day. 
+------> 2 7 : 13.5 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes, I would schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday.
+Why?
+
+This would be the most accommodating option for both patients. 
+------> 2 8 : 14.000000000000002 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes, I would schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday.
+Why?
+
+Since Mrs. Santiago can only have her appointment at 10:00 AM, it would make the most sense to schedule Mr. Morris for 3:00 PM so that both patients can be accommodated. 
+------> 2 9 : 14.499999999999998 % 
+
+You are in charge of scheduling appointments in a dentist’s office. Two people, 
+ Mr. Morris and Mrs. Santiago have called to make appointments for next Monday. The only available times for next Monday are at 10:00 AM and at 3:00 PM.Mr. Morris’s schedule is rather flexible. He can have his appointment either at 10:00 AM or at 3:00 PM. Mrs. Santiago’s schedule is less flexible. She can only have her appointment at 10:00 AM.Would you schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday?
+
+Yes, I would schedule Mr. Morris for 3:00 PM so that both he and Mrs. Santiago can have their appointments next Monday.
+Why?
+
+Because it is the only time that Mrs. Santiago can have her appointment and Mr. Morris has said that his schedule is flexible. 
+------> 3 0 : 15.0 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand instead of searching further for the name-brand product.
+Why?
+
+The pharmacist is a trusted source of information, and if he says that the generic product is "exactly the same" as the name-brand product, then I believe him. In addition, it is often the case that generic products are less expensive than name-brand products, so switching to the generic product would save me money. 
+------> 3 1 : 15.5 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand instead of searching further for the name-brand product.
+Why?
+
+The pharmacist is a trusted source of information, and he has told me that the generic brand is "exactly the same" as the name-brand product I was looking for. Therefore, I see no reason to search further for the name-brand product. 
+------> 3 2 : 16.0 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+It is likely that I would purchase the generic brand if the pharmacist told me it was "exactly the same." I trust the pharmacist's judgement and if he says it is the same, then I believe him.
+Why?
+
+I would purchase the generic brand because it is likely that the pharmacist's judgement is accurate and the generic brand is probably just as good as the name-brand product. 
+------> 3 3 : 16.5 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes
+Why?
+The pharmacist is a trusted source and if they say the generic brand is exactly the same, then I believe them. 
+------> 3 4 : 17.0 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand.
+Why?
+
+The simple answer is that I trust my pharmacist. He is a professional who has my best interests at heart, and if he says that the generic product is just as good as the name-brand product, then I believe him.
+
+There are other considerations as well. Name-brand products can be significantly more expensive than generic products, so if the generic product is just as good, then it makes sense to save money and go with the generic. Additionally, if the pharmacy is out of the name-brand product, it's likely that other pharmacies in the area are also out, so it may be difficult to find what I'm looking for. In that case, again, it makes more sense to just go with the generic product. 
+------> 3 5 : 17.5 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand if the pharmacist said it was exactly the same.
+Why?
+
+The pharmacist is someone I trust and if they say the generic brand is exactly the same, then I believe them. I would rather purchase the generic brand then search further for the name-brand product because it would be more convenient. 
+------> 3 6 : 18.0 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand.
+Why?
+
+The pharmacist is someone I trust and he says the generic brand is exactly the same, so I believe him. Plus, it's probably cheaper. 
+------> 3 7 : 18.5 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand.
+Why?
+
+The pharmacist is a trusted source of information, and if he says that the generic brand is the same as the name-brand product, then I believe him. I would rather purchase the generic brand and save money than search for the name-brand product and spend more money. 
+------> 3 8 : 19.0 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand.
+Why?
+
+There are a few reasons why I would purchase the generic brand. First, I know and trust the pharmacist, so if he says the generic product is exactly the same, then I believe him. Second, even if the generic product is not exactly the same, it is likely to be close enough that it will still be effective in treating my headache. And finally, the generic product is likely to be much cheaper than the name-brand product, so it makes financial sense to purchase the generic. 
+------> 3 9 : 19.5 % 
+
+You have a headache. You go to the pharmacy with the intention of 
+ buying a particular name-brand headache medicine. When you get there you discover that the pharmacy is out of the brand you were looking for.The pharmacist, whom you’ve known for a long time and in whom you have a great deal of trust, tells you that he has in stock a generic product which is, in his words, “exactly the same” as the product you had originally intended to buy. Would you purchase the generic brand instead of searching further for the name-brand product you were looking for?
+
+Yes, I would purchase the generic brand.
+Why?
+
+The pharmacist is someone I trust and he says the generic brand is exactly the same, so I believe him. Plus, it's cheaper and I need relief from my headache as soon as possible. 
+------> 4 0 : 20.0 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts in order to avoid eating walnuts.
+Why? 
+
+I don't like the taste of walnuts. 
+------> 4 1 : 20.5 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts.
+Why? 
+I don't like walnuts, but I do like macadamia nuts. 
+------> 4 2 : 21.0 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts in order to avoid eating walnuts.
+Why? 
+
+I would substitute macadamia nuts for walnuts in order to avoid eating walnuts because I don't like the taste of walnuts. 
+------> 4 3 : 21.5 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts in order to avoid eating walnuts.
+Why? 
+I don't like walnuts. 
+------> 4 4 : 22.0 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts.
+Why? 
+
+I would substitute macadamia nuts for walnuts because I don't like walnuts. 
+------> 4 5 : 22.5 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes
+Why?
+
+I would substitute macadamia nuts for walnuts in order to avoid eating walnuts because I don't like the taste of walnuts. 
+------> 4 6 : 23.0 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts in order to avoid eating walnuts.
+Why?
+
+I don't like the taste of walnuts, but I do like macadamia nuts. If I had both kinds of nuts available to me, I would rather use the macadamia nuts in my brownies. 
+------> 4 7 : 23.5 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts in order to avoid eating walnuts.
+Why? 
+
+I do not like the taste or texture of walnuts, but I do like macadamia nuts. Therefore, I would rather have macadamia nuts in my brownies instead of walnuts. 
+------> 4 8 : 24.0 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts.
+Why?
+
+I would substitute macadamia nuts for walnuts because I do not like walnuts. 
+------> 4 9 : 24.5 % 
+
+You have decided to make a batch of brownies for yourself. You open 
+ your recipe book and find a recipe for brownies.The recipe calls for a cup of chopped walnuts. You don’t like walnuts, but you do like macadamia nuts. As it happens, you have both kinds of nuts available to you.Would you substitute macadamia nuts for walnuts in order to avoid eating walnuts?
+
+Yes, I would substitute macadamia nuts for walnuts to avoid eating walnuts.
+Why?
+I don't like walnuts. 
+------> 5 0 : 25.0 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+Yes, I would take the train to ensure that I am not late for my meeting.
+Why? 
+
+The bus is scheduled to arrive an hour before the meeting, but the bus is occasionally several hours late because of traffic. I would rather take the train and arrive just in time for my meeting, than take the bus and risk being late. 
+------> 5 1 : 25.5 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+Yes, I would take the train instead of the bus in order to ensure that I am not late for my meeting.
+Why? 
+The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late. 
+------> 5 2 : 26.0 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+Yes, I would take the train instead of the bus in order to ensure my not being late for my meeting.
+Why?
+
+The train will get you there just in time for your meeting no matter what, but the bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. 
+------> 5 3 : 26.5 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+I would take the train instead of the bus to ensure I'm not late for my meeting.
+Why?
+
+The train will get you there just in time for your meeting no matter what, whereas the bus is scheduled to arrive an hour before your meeting but is occasionally several hours late because of traffic. 
+------> 5 4 : 27.0 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+Yes, I would take the train instead of the bus in order to ensure that I am not late for my meeting.
+Why? 
+
+The train will get you there just in time for your meeting no matter what, but the bus is occasionally several hours late because of traffic. Having an extra hour before the meeting is nice, but being late is not an option. 
+------> 5 5 : 27.500000000000004 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+It would be best to take the train instead of the bus in order to ensure that you are not late for your meeting.
+Why? 
+The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late. 
+------> 5 6 : 28.000000000000004 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+Yes, I would take the train.
+Why? 
+
+The train is scheduled to arrive just in time for your meeting, whereas the bus is occasionally several hours late. 
+------> 5 7 : 28.499999999999996 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+Yes.
+Why?
+
+The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late. 
+------> 5 8 : 28.999999999999996 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+I would take the train instead of the bus in order to ensure my not being late for my meeting.
+Why?
+
+The train will always get you to your destination on time, while the bus is often delayed due to traffic. An extra hour before the meeting would be nice, but being late is not an option. 
+------> 5 9 : 29.5 % 
+
+You need to travel from New York to Boston in order to attend 
+ a meeting that starts at 2:00 PM. You can take either the train or the bus.The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. It would be nice to have an extra hour before the meeting, but you cannot afford to be late.Would you take the train instead of the bus in order to ensure your not being late for your meeting?
+
+Yes, I would take the train instead of the bus.
+Why?
+The train will get you there just in time for your meeting no matter what. The bus is scheduled to arrive an hour before your meeting, but the bus is occasionally several hours late because of traffic. 
+------> 6 0 : 30.0 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes, I would use my old computer for a few more weeks in order to save $500 on the purchase of a new computer.
+Why?
+
+The simple answer is that $500 is a lot of money, and saving it would be worth the inconvenience of using an older computer for a few more weeks. Additionally, if the new computer is not absolutely necessary, then it may make more sense to wait and save up the money rather than taking on additional debt or using credit to finance the purchase. 
+------> 6 1 : 30.5 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes, I would use my old computer for a few more weeks in order to save $500 on the purchase of a new computer.
+Why?
+
+The simple reason is that $500 is a lot of money, and I would rather have that money in my pocket than spend it on a new computer. Plus, my old computer will still be able to do everything I need it to do during that time. 
+------> 6 2 : 31.0 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+The answer to this question depends on the needs of the individual. Some people may need a new computer right away and cannot wait, while others may be able to get by with their old computer for a little while longer.
+Why?
+
+Some people may need a new computer right away because their old one is not functioning properly. In this case, it would not make sense to wait because the individual would need to use their old computer for a few weeks longer than they would like to. On the other hand, if someone's old computer is still functioning well, they may be able to get by with it for a little while longer and wait to buy a new one. 
+------> 6 3 : 31.5 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes, I would use my old computer for a few more weeks to save $500 on the purchase of a new computer.
+Why?
+
+The $500 savings would be worth the inconvenience of using an old computer for a few more weeks. Plus, I could use the savings to put towards other computer-related expenses, like a new monitor or printer. 
+------> 6 4 : 32.0 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes
+Why?
+
+Because saving $500 is a significant amount of money, and the inconvenience of using an old computer for a few more weeks is relatively minor. 
+------> 6 5 : 32.5 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes, I would use my old computer for a few more weeks in order to save $500 on the purchase of a new computer.
+Why?
+
+The main reason is that $500 is a lot of money and I would rather save it than spend it. Additionally, my old computer is still usable so it is not as if I would be without a computer during that time. 
+------> 6 6 : 33.0 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes, I would use my old computer for a few more weeks in order to save $500 on the purchase of a new computer.
+Why?
+
+The main reason is that $500 is a lot of money. Half the price of the new computer is a significant savings that is worth waiting a few weeks for. Additionally, if I can still use my old computer for everything I need to do during that time, it is not a major inconvenience to wait a few weeks. 
+------> 6 7 : 33.5 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes, I would use my old computer for a few more weeks in order to save $500 on the purchase of a new computer.
+Why? 
+
+The simple answer is that $500 is a lot of money, and saving that much on a purchase would be worth the inconvenience of using an old computer for a bit longer. Additionally, if the friend who told me about the price drop is reliable, then I can be confident that the price will actually drop next month, so there is little risk involved in waiting. 
+------> 6 8 : 34.0 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes, I would wait to buy the new computer to save $500.
+Why?
+
+The simple answer is that $500 is a lot of money, and waiting a few weeks to get the new computer is not a big deal. I would rather have the extra $500 in my pocket than spend it on a new computer that I can wait a few weeks to get. 
+------> 6 9 : 34.5 % 
+
+You are looking to buy a new computer. At the moment the computer 
+ that you want costs $1000. A friend who knows the computer industry has told you that this computer’s price will drop to $500 next month.If you wait until next month to buy your new computer you will have to use your old computer for a few weeks longer than you would like to. Nevertheless you will be able to do everything you need to do using your old computer during that time.Would you use your old computer for a few more weeks in order to save $500 on the purchase of a new computer?
+
+Yes
+Why?
+
+It would be foolish not to wait a month to save $500 on the purchase of a new computer. 
+------> 7 0 : 35.0 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+Yes.
+Why?
+
+The amount of money being offered is significant, and interrupting dinner for half an hour is not a long time. Plus, the survey could be interesting and provide insights into current trends. 
+------> 7 1 : 35.5 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+I would not interrupt my dinner in order to earn $200.
+Why?
+
+I believe that my time is worth more than $200, and so I would not want to spend a half hour of my time answering questions for that amount of money. Additionally, I value my privacy and so I would not want to answer personal questions for a stranger. 
+------> 7 2 : 36.0 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+Yes, I would interrupt my dinner to earn $200.
+Why?
+
+The amount of money being offered is significant, and I would be able to use that money for a variety of purposes. Additionally, half an hour is not a significant amount of time, and I would be able to continue my dinner after the survey is completed. 
+------> 7 3 : 36.5 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+No
+Why?
+
+I would not interrupt my dinner in order to earn $200 because I value my peace and quiet. I would also be suspicious of the motives of the survey organization and wonder if they were trying to take advantage of me. 
+------> 7 4 : 37.0 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+Yes, I would interrupt my dinner to earn $200.
+Why?
+
+The amount of money being offered is significant, and I would be able to use that money to improve my life in some way. Additionally, half an hour is not a long time, so the inconvenience would be minimal. 
+------> 7 5 : 37.5 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+Yes, I would interrupt my dinner in order to earn $200.
+Why?
+
+The amount of money offered is significant, and I would be curious to know what the survey is about. Additionally, since I would be doing the survey from my own home, it would be relatively convenient. 
+------> 7 6 : 38.0 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+The answer to this question would depend on the person. Some people might be willing to interrupt their dinner in order to earn $200, while others might not be willing to do so.
+Why?
+Some people might be willing to interrupt their dinner in order to earn $200 because they might view it as an opportunity to make some extra money. Other people might not be willing to interrupt their dinner in order to earn $200 because they might view it as an inconvenience. 
+------> 7 7 : 38.5 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+No
+Why?
+
+The amount of money being offered is not worth interrupting my dinner for. I would rather finish my dinner in peace and then maybe do something else with my time. 
+------> 7 8 : 39.0 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+Yes, I would interrupt my dinner to earn $200.
+Why?
+
+I would interrupt my dinner to earn $200 because it is a lot of money for a relatively short amount of time. Plus, I would be interested in the survey topics and it would be a chance to learn more about what other people think about various issues. 
+------> 7 9 : 39.5 % 
+
+ A representative of a reputable, national survey organization calls you at your 
+ home while you are having a quiet dinner by yourself.The representative explains that if you are willing to spend a half an hour answering questions about a variety of topics her organization will send you a check for $200.Would you interrupt your dinner in order to earn $200?
+
+Yes, I would interrupt my dinner to earn $200.
+Why?
+
+The amount of money being offered is significant, and I would be able to use that money for a variety of purposes. Additionally, half an hour is not a significant amount of time, and I would be able to answer the questions during that time frame. 
+------> 8 0 : 40.0 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+No, I would not use the 30%-off coupon for my present purchase so that I will have another coupon to use during the coming year.
+Why?
+
+The 30%-off coupon gives me a bigger discount on my purchase, so I would use that one. I would save $15 with the 30%-off coupon, whereas I would only save $12.50 with the 25%-off coupon. 
+------> 8 1 : 40.5 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+No, I would not use the 30%-off coupon for my present purchase so that I will have another coupon to use during the coming year.
+Why?
+
+The 30%-off coupon expires tomorrow, so if I were to use it today, I would not be able to use it again in the future. The 25%-off coupon does not expire for another year, so I would be able to use it again in the future if I don't use it today. Therefore, it makes more sense to use the 25%-off coupon today and save the 30%-off coupon for another purchase in the future. 
+------> 8 2 : 41.0 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+No, I would not use the 30%-off coupon for my present purchase so that I will have another coupon to use during the coming year.
+Why?
+
+The 30% off coupon is a better deal, so I would use that one now and save the 25% off coupon for later. 
+------> 8 3 : 41.5 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+No, I would not use the 30%-off coupon for my present purchase so that I will have another coupon to use during the coming year.
+Why?
+
+I would use the 25% off coupon because it does not expire for another year. 
+------> 8 4 : 42.0 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+No, I would not use the 30%-off coupon for my present purchase.
+Why?
+
+The 30%-off coupon expires tomorrow, so if I used it today, I would not be able to use it again next year. The 25%-off coupon does not expire for another year, so I would use that one instead. 
+------> 8 5 : 42.5 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+I would use the 30%-off coupon for my present purchase.
+Why? 
+
+The 30%-off coupon gives me a greater discount on my purchase price than the 25%-off coupon. I can use the 25%-off coupon during the coming year. 
+------> 8 6 : 43.0 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+Yes, I would use the 30%-off coupon for my present purchase so that I will have another coupon to use during the coming year.
+Why? 
+
+The 30% off coupon is a better deal than the 25% off coupon, so it makes sense to use it now and then save the other coupon for later. This way, you can get the most discount possible on your purchase. 
+------> 8 7 : 43.5 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+No, I would not use the 30%-off coupon for my present purchase so that I will have another coupon to use during the coming year.
+Why?
+
+The 25% off coupon provides greater savings, so I would use that one instead. 
+------> 8 8 : 44.0 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+No, I would not.
+Why?
+
+The 30% off coupon is only good for today, so if I used it now, I would not have it to use later. The 25% off coupon does not expire for another year, so I would use that one instead. 
+------> 8 9 : 44.5 % 
+
+You have gone to a bookstore to buy $50 worth of books. You 
+ have with you two coupons.One of these coupons gives you 30% off of your purchase price. This coupon expires tomorrow. The other coupon gives you 25% off your purchase price, and this coupon does not expire for another year. Would you use the 30%-off coupon for your present purchase so that you will have another coupon to use during the coming year?
+
+It depends on the price of the books.
+Why?
+
+If the books are expensive, then it might be worth it to use the 30%-off coupon and save the 25%-off coupon for next year. If the books are relatively cheap, then it might be better to use the 25%-off coupon and not worry about the 30%-off coupon expiring. 
+------> 9 0 : 45.0 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route in order to observe the beautiful scenery.
+Why?
+
+The reason I would take the coastal route is because I value the experience of seeing beautiful scenery more than I value saving 15 minutes on my drive. Even though the highway is faster, the coastal road is more enjoyable and memorable, so it is worth taking the slightly longer route. 
+------> 9 1 : 45.5 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route.
+Why?
+
+I love seeing new scenery, and the coastal route sounds like it would be very pretty. Plus, an extra 15 minutes isn't that big of a deal. 
+------> 9 2 : 46.0 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route in order to observe the beautiful scenery as I drive.
+Why?
+
+The coastal route will take slightly longer, but the scenery along the way is much better. I would rather spend an extra 15 minutes driving and enjoy the view than spend 3 hours driving on a boring highway. 
+------> 9 3 : 46.5 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+If I had the time, I would definitely take the coastal route in order to observe the beautiful scenery.
+Why?
+
+The coastal route will take you along the coast, which typically has beautiful scenery. The highway might get you to your destination slightly faster, but it will be a much less enjoyable drive. 
+------> 9 4 : 47.0 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route.
+Why?
+
+I would take the coastal route because I would rather spend the extra 15 minutes enjoying the beautiful scenery than sitting in the car on the highway with nothing to look at. 
+------> 9 5 : 47.5 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route in order to observe the beautiful scenery as I drive.
+Why? 
+
+The coastal route would provide a more enjoyable experience, and the extra 15 minutes is not a significant amount of time. 
+------> 9 6 : 48.0 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route in order to observe the beautiful scenery as I drive.
+Why?
+
+The main reason I would take the coastal route is because of the scenery. I think it would be really enjoyable to be able to look out at the beautiful coastline as I drive. Additionally, the extra 15 minutes it would take to get to my friend's house is not a significant amount of time, so I would be willing to trade that for the better view. 
+------> 9 7 : 48.5 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route in order to observe the beautiful scenery as I drive.
+Why?
+
+The main reason would be because of the scenery. The coastal route would offer a much more enjoyable drive with beautiful scenery, while the highway would be much more boring. Even if it takes a little longer, I would much prefer to take the coastal route. 
+------> 9 8 : 49.0 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes.
+Why?
+
+Taking the coastal route would allow me to experience the beautiful scenery as I drive, which is something that I would enjoy. 
+------> 9 9 : 49.5 % 
+
+An old friend has invited you to spend the weekend with him at 
+ his summer home some ways up the coast from where you are. You intend to travel there by car, and there are two routes that you can take: the highway and the coastal road.The highway will get you to your friend’s house in about three hours, but the scenery along the highway is very boring. The coastal route will get you to your friend’s house in about three hours and fifteen minutes, and the scenery along the coastal road is breathtakingly beautiful.Would you take the coastal route in order to observe the beautiful scenery as you drive?
+
+Yes, I would take the coastal route.
+Why?
+
+I would take the coastal route because I would enjoy the scenery along the way. The extra 15 minutes is not a significant amount of time, and I would much rather spend my drive enjoying the view of the coast. 
+------> 10 0 : 50.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+Yes.
+Why?
+
+The path on the right will lead to a smaller yield of turnips, but it will also require less time and effort to harvest them. This is the more efficient option, and it will allow the farm worker to complete their task more quickly. 
+------> 10 1 : 50.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+No
+Why?
+
+It is not worth the effort to turn the machine to the right when you could harvest twice as many turnips by going straight. 
+------> 10 2 : 51.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+Yes
+Why?
+
+The answer is yes because fifteen is greater than zero and thirty is greater than fifteen. 
+------> 10 3 : 51.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+Yes
+Why?
+
+There could be many reasons why the farm worker would choose to harvest fifteen bushels of turnips instead of thirty. Perhaps the farm worker is tired and wants to take a break, or maybe the fifteen bushels of turnips are of a higher quality than the thirty bushels of turnips. 
+------> 10 4 : 52.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+No
+Why?
+
+The correct answer is no. Although fifteen bushels of turnips is less than thirty bushels of turnips, the path on the right is the more difficult path and the path on the left is the easier path. Therefore, it is more efficient to turn the machine to the left in order to harvest thirty bushels of turnips. 
+------> 10 5 : 52.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+Yes, I would turn my turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty.
+Why? 
+
+The reason I would turn my turnip-harvesting machine to the right is because I would rather have fifteen bushels of turnips than no bushels of turnips. 
+------> 10 6 : 53.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+No
+Why?
+
+The correct answer is no. Although you would only harvest half as many turnips by choosing the path on the right, it is still more beneficial to do so because you would avoid running into a ditch and damaging your turnip-harvesting machine. 
+------> 10 7 : 53.5 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+Yes.
+Why?
+
+Because fifteen is greater than zero and thirty is greater than fifteen. 
+------> 10 8 : 54.0 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+Yes
+Why?
+
+You would harvest fifteen bushels of turnips instead of thirty. 
+------> 10 9 : 54.50000000000001 % 
+
+You are a farm worker driving a turnip-harvesting machine. You are approaching two 
+ diverging paths.By choosing the path on the left you will harvest thirty bushels of turnips. By choosing the path on the right you will harvest fifteen bushels of turnips. If you do nothing your turnip-picking machine will turn to the left. Would you turn your turnip-harvesting machine to the right in order to harvest fifteen bushels of turnips instead of thirty?
+
+It depends on the value of the turnips.
+Why?
+
+If the turnips are worth more than twice as much per bushel on the left path as on the right path, then it makes sense to turn to the left. Otherwise, it makes more sense to turn to the right and harvest fewer turnips. 
+------> 11 0 : 55.00000000000001 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not.
+Why?
+
+This particular mutual fund has not performed well over the past few years, and based on what I know, there is no reason to think that it will perform any better in the future. I would not invest a thousand dollars in this mutual fund in order to make money. 
+------> 11 1 : 55.50000000000001 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not invest a thousand dollars in this mutual fund in order to make money.
+Why?
+
+The mutual fund has not performed well over the past few years, so there is no reason to think that it will perform any better in the future. 
+------> 11 2 : 56.00000000000001 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not.
+Why?
+
+There is no reason to believe that this mutual fund will perform any better in the future than it has in the past. Therefore, investing in it would be a speculative gamble, rather than a sound investment. 
+------> 11 3 : 56.49999999999999 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not.
+Why?
+
+The mutual fund in question has not performed well over the past few years, and there is no reason to believe that it will perform any better in the future. Therefore, investing in it would be a waste of money. 
+------> 11 4 : 56.99999999999999 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not invest a thousand dollars in this mutual fund in order to make money.
+Why?
+
+There are a few reasons why I would not invest in this mutual fund. First, the fund has not performed well in recent years, so there is no reason to think that it will perform any better in the future. Second, I am familiar with the fund and know that it is not a good investment. Finally, I would not invest in a fund that I do not believe will make me money. 
+------> 11 5 : 57.49999999999999 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not.
+Why?
+
+The mutual fund in question has not performed well in recent years, and there is no reason to expect it to perform any better in the future. Therefore, investing in it would be a poor decision. 
+------> 11 6 : 57.99999999999999 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not.
+Why?
+
+I would not invest in this mutual fund because it has not performed well in the past and there is no reason to think that it will perform any better in the future. 
+------> 11 7 : 58.5 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not invest a thousand dollars in this particular mutual fund in order to make money.
+Why?
+
+This mutual fund has not performed well over the past few years, and based on what I know, there is no reason to think that it will perform any better in the future. 
+------> 11 8 : 59.0 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not.
+Why?
+
+There is no reason to believe that the fund will perform any better in the future, so investing in it would be a waste of money. 
+------> 11 9 : 59.5 % 
+
+You are at home one day when the mail arrives. You receive a 
+ letter from a reputable corporation that provides financial services. They have invited you to invest in a mutual fund, beginning with an initial investment of one thousand dollars.As it happens, you are familiar with this particular mutual fund. It has not performed very well over the past few years, and, based on what you know, there is no reason to think that it will perform any better in the future.Would you invest a thousand dollars in this mutual fund in order to make money?
+
+No, I would not invest a thousand dollars in this mutual fund in order to make money.
+Why?
+The fund has not performed well in the past, and based on what I know, there is no reason to think that it will perform any better in the future. 
+------> 12 0 : 60.0 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+No, I would not have my old VCR fixed in order to avoid spending money on a new one.
+Why?
+
+There are a few reasons why I would not have my old VCR fixed in this scenario. Firstly, $100 is a lot of money to spend on repairing an old VCR when you can buy a new one for the same price. Secondly, the new VCR is likely to be a better quality than the old one, so it makes more sense to invest in the new one. Finally, even if the old VCR is repaired, it is likely to break again in the future and you will have to spend more money to repair it, so it is better to just buy a new one. 
+------> 12 1 : 60.5 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+No, I would not have my old VCR fixed in order to avoid spending money on a new one.
+Why?
+
+The new VCR is a better model, and it would be more cost effective in the long run to just buy the new one. 
+------> 12 2 : 61.0 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+No, I would probably buy the new one on sale.
+Why?
+
+It would be more cost effective in the long run to just buy the new one on sale. Even though it would cost money upfront, it would probably be cheaper in the long run than having to continuously pay for repairs on the old one. 
+------> 12 3 : 61.5 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+No, I would not have my old VCR fixed.
+Why?
+
+There are a few reasons why I would not have my old VCR fixed. First, $100 is a lot of money to spend on repairing an old VCR. Second, the VCR that is on sale at the electronics shop next door is slightly better than my old one, so it would make more sense to just buy the new one. Finally, even if I did have my old VCR fixed, it is likely that it would break again soon and I would have to spend more money to have it fixed again. Therefore, it is better to just buy a new VCR. 
+------> 12 4 : 62.0 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+I would have my old VCR fixed.
+Why?
+
+There are several reasons why I would have my old VCR fixed rather than buying a new one. First of all, I am familiar with my old VCR and know how to use it. Buying a new VCR would mean that I would have to spend time reading the manual and learning how to use the new features. Secondly, even though the new VCR may be slightly better than my old one, it is not worth spending an extra $100 just for a few new features that I may not even use. Finally, repairing my old VCR is likely to be cheaper than buying a new one, especially if the repair shop offers a warranty on their work. 
+------> 12 5 : 62.5 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+Yes, I would have my old VCR fixed in order to avoid spending money on a new one.
+Why? 
+
+There are a few reasons why I would have my old VCR fixed in this scenario. First, $100 is a significant amount of money, and I may not have the extra cash on hand to purchase a new VCR. Second, even though the new VCR may be slightly better than my old one, it may not be worth spending the money to upgrade when my old VCR still works fine. Finally, I may be attached to my old VCR for sentimental reasons and would rather not get rid of it. 
+------> 12 6 : 63.0 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+Yes, I would have my old VCR fixed in order to avoid spending money on a new one.
+Why? 
+
+The reason is simple – it would be more expensive to buy a new VCR than to have my old one fixed. In addition, the new VCR might not be as good as my old one, so it would be better to stick with what I know works. 
+------> 12 7 : 63.5 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+Yes, I would have my old VCR fixed in order to avoid spending money on a new one.
+Why?
+
+There are a few reasons why I would make this choice. First, I am familiar with my old VCR and know how to use it. If I bought a new one, I would have to take the time to learn how to use it and figure out all of its features. Second, even though the new VCR may be slightly better than my old one, it is not worth spending an extra $100 on it when my old one can be fixed for the same price. Finally, I may be able to get a discount on the repair if I am a regular customer at the shop. 
+------> 12 8 : 64.0 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+No, I would not have my old VCR fixed in order to avoid spending money on a new one.
+Why?
+
+There are a few reasons why I wouldn't have my old VCR fixed. First, $100 is a lot of money to spend on repairing an old VCR. Second, the VCR that is on sale at the electronics shop next door is slightly better than my old one, so it makes more sense to just buy the new one. Finally, even if I did repair my old VCR, it is likely that it would break again soon, so it would probably be more cost-effective in the long run to just buy the new one. 
+------> 12 9 : 64.5 % 
+
+You have brought your broken VCR to the local repair shop. The woman 
+ working at the shop tells you that it will cost you about $100 to have it fixed.You noticed in the paper that morning that the electronics shop next door is having a sale on VCR’s and that a certain new VCR which is slightly better than your old one is on sale for $100.Would you have your old VCR fixed in order to avoid spending money on a new one?
+
+It depends on the extent of the damage to the VCR. If it is a simple fix, then it may be worth it to have it repaired. However, if the damage is extensive, then it may be better to invest in a new VCR.
+Why? 
+
+The reason is that if the damage to the VCR is extensive, then it is likely that it will require more repairs in the future. These repairs can end up costing more than a new VCR, so it is better to invest in a new one from the start. 
+------> 13 0 : 65.0 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+Yes, I would take the history class during the fall term in order to help me fulfill my graduation requirements.
+Why?
+
+The history class is a required course for my major, and it is only offered during the fall term. If I want to graduate on time, I need to take the class during the fall term. 
+------> 13 1 : 65.5 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+I would take the history class during the fall term and the science class during the spring term.
+Why?
+
+I would take the history class during the fall term in order to help me fulfill my graduation requirements. 
+------> 13 2 : 66.0 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+Yes, I would take the history class during the fall term in order to help me fulfill my graduation requirements.
+Why?
+
+I would take the history class during the fall term in order to help me fulfill my graduation requirements because I need to take a history class and a science class by the end of the year. By taking the history class during the fall term, I can fulfill my requirement for the history class and still have time to take the science class during the spring term. 
+------> 13 3 : 66.5 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+ Yes, I would take the history class during the fall term in order to help me fulfill my graduation requirements.
+Why?
+
+I would take the history class during the fall term because it is a required course for my degree and it is only offered during that term. I would take the science class during the spring term because it is not a required course and it is not offered during that term. 
+------> 13 4 : 67.0 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+Yes, I would take the history class during the fall term in order to help me fulfill my graduation requirements.
+Why?
+
+It is important to fulfill all graduation requirements in order to graduate on time. Taking the history class during the fall term would allow me to take the science class during the spring term. 
+------> 13 5 : 67.5 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+No
+Why?
+
+I would not take the history class during the fall term in order to help me fulfill my graduation requirements because I would not be able to take the science class I need to take. 
+------> 13 6 : 68.0 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+I would take the history class during the fall term.
+Why?
+
+The history class is scheduled at the same time as the science class I want to take. 
+------> 13 7 : 68.5 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+Yes, I would take the history class during the fall term in order to help me fulfill my graduation requirements.
+Why? 
+
+I would take the history class during the fall term in order to help me fulfill my graduation requirements because it would allow me to take the science class I need during the spring term. 
+------> 13 8 : 69.0 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+Yes, I would take the history class during the fall term in order to help me fulfill my graduation requirements.
+Why?
+
+I would take the history class during the fall term in order to help me fulfill my graduation requirements because I need to take a history class and a science class by the end of the year. 
+------> 13 9 : 69.5 % 
+
+You are beginning your senior year of college. In order to fulfill your 
+ graduation requirements you need to take a history class and a science class by the end of the year.During the fall term, the history class you want to take is scheduled at the same time as the science class you want to take. During the spring term the same history class is offered, but the science class is not.Would you take the history class during the fall term in order to help you fulfill your graduation requirements?
+
+Yes, I would take the history class during the fall term in order to help me fulfill my graduation requirements.
+Why?
+
+The history class is a required course for graduation, and it is only offered during the fall term. Therefore, I would need to take the class during the fall term in order to fulfill my graduation requirements. 
+------> 14 0 : 70.0 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle in order to win a car. I would only buy a ticket for the Car A raffle.
+Why?
+
+The reason is that, despite the fact that Car B may be just as good as Car A, the fact that more people have bought tickets for the Car B raffle means that my chances of winning are better in the Car A raffle. 
+------> 14 1 : 70.5 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle in order to win a car.
+Why?
+
+The reason I would not buy a ticket for the Car B raffle in order to win a car is because the odds of winning are better in the Car A raffle. Even though Car B may be a better car, if more people have chosen to buy tickets for the Car B raffle, then my chances of winning are better in the Car A raffle. 
+------> 14 2 : 71.0 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle. I would only buy a ticket for the Car A raffle.
+Why?
+
+Since more people have bought tickets for the Car B raffle, my chances of winning are better in the Car A raffle than in the Car B raffle. 
+------> 14 3 : 71.5 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle in order to win a car.
+Why?
+
+The reason is that, despite the fact that more people have bought tickets for the Car B raffle, my chances of winning are actually better in the Car A raffle. This is because the number of tickets sold for the Car A raffle is smaller, so there are fewer people competing for the prize. 
+------> 14 4 : 72.0 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle.
+Why?
+
+The answer is because expected value. The expected value of a lottery is the sum of the probabilities of all the possible outcomes, multiplied by their corresponding payouts. In this case, the expected value of the Car A raffle is higher than the expected value of the Car B raffle. This is because the probability of winning the Car A raffle is higher, and the payout (the car) is the same.
+
+Thus, buying a ticket for the Car B raffle would be a poor decision, from a purely expected value perspective. 
+------> 14 5 : 72.5 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle in order to win a car.
+Why?
+
+The reason is that the odds of winning are better in the Car A raffle than in the Car B raffle. 
+------> 14 6 : 73.0 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No.
+Why?
+
+Your chances of winning are better in the Car A raffle. 
+------> 14 7 : 73.5 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle in order to win a car. I would only buy a ticket for the Car A raffle.
+Why?
+
+The reason is that, while both cars may be equally good, the Car A raffle will have fewer people competing for the prize. Therefore, my chances of winning the car are better in the Car A raffle than in the Car B raffle. 
+------> 14 8 : 74.0 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle in order to win a car.
+Why?
+
+The reason is that the Car A raffle has better odds of winning. Even though I may be interested in Car B, it makes more sense to put my money towards the raffle with the better chance of winning. 
+------> 14 9 : 74.5 % 
+
+You’ve decided to buy a raffle ticket to support a local charity. They 
+ are separately raffling off two different cars: Car A and Car B. You have decided to buy one raffle ticket. You are a serious and knowledgeable car enthusiast, and you think that these two cars are equally good.Because there have been a lot of adds for Car B on TV recently, many more people have chosen to buy tickets for the Car B raffle. Since more people have bought tickets for the Car B raffle, your chances of winning are better in the Car A raffle than in the Car B raffle.Would you buy a ticket for the Car B raffle in order to win a car?
+
+No, I would not buy a ticket for the Car B raffle in order to win a car. I would only buy a ticket for the Car A raffle.
+Why?
+
+My reasoning is as follows:
+
+The two cars are equally good, so I am not biased towards either car.
+The Car A raffle has fewer people participating, so my chances of winning are higher.
+Therefore, it makes more sense to buy a ticket for the Car A raffle than the Car B raffle. 
+------> 15 0 : 75.0 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+Yes.
+Why?
+
+I would do my paperwork now because I would rather get it done before I go for a jog. I don't care what the weather is like while I do paperwork, but I would prefer to avoid jogging in the rain. 
+------> 15 1 : 75.5 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+Yes, I would do my paperwork now and plan to jog in a couple of hours.
+Why?
+
+Because I would prefer to get my work done before I exercise, and the weather forecast says that it will start to rain in a couple of hours. 
+------> 15 2 : 76.0 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+Yes, I would do my paperwork now with the intention of jogging in a couple of hours in order to get my work done before I exercise.
+Why?
+
+I would do my paperwork now so that I can get it out of the way before I go for my jog. I don't mind what the weather is like while I do paperwork, but I would prefer to jog in good weather. 
+------> 15 3 : 76.5 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+No, I would not do my paperwork now with the intention of jogging in a couple of hours in order to get my work done before I exercise.
+Why?
+
+Jogging in the rain is not something I enjoy, so if the weather forecast says it will rain in a couple of hours, I would rather do my paperwork now and go for a jog later when the weather is nicer. 
+------> 15 4 : 77.0 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+No, I would not.
+Why?
+
+I would not do my paperwork now with the intention of jogging in a couple of hours because I would prefer to get my work done before I exercise. 
+------> 15 5 : 77.5 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+Yes, I would do my paperwork now with the intention of jogging in a couple of hours in order to get my work done before I exercise.
+Why?
+
+I would do my paperwork now because I prefer to get my work done before I exercise, and the weather forecast says that it will start to rain in a couple of hours. I would still go for a jog in a couple of hours, despite the rain, because I don't care what the weather is like while I do paperwork. 
+------> 15 6 : 78.0 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+Yes, I would do my paperwork now with the intention of jogging in a couple of hours in order to get my work done before I exercise.
+Why? 
+
+I would do my paperwork now because I would rather get my work done before I exercise. I would jog in a couple of hours because the weather is nice at the moment, but I don't want to jog in the rain. 
+------> 15 7 : 78.5 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+No, I would not do my paperwork now with the intention of jogging in a couple of hours in order to get my work done before I exercise.
+Why? 
+
+I would not do my paperwork now because I would prefer to exercise first. I would rather get my work done after I exercise. 
+------> 15 8 : 79.0 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+Yes, I would do my paperwork now with the intention of jogging in a couple of hours in order to get my work done before I exercise.
+Why? 
+
+I would do my paperwork now because it is something that I can control and I know that I will get it done before the rain starts. Jogging in the rain is something that I cannot control, so I would rather do it after I have accomplished something that I can control. 
+------> 15 9 : 79.5 % 
+
+You intend to accomplish two things this afternoon: going for a jog and 
+ doing some paperwork. In general you prefer to get your work done before you exercise.The weather is nice at the moment, but the weather forecast says that in a couple of hours it will start to rain. You very much dislike jogging in the rain, but you don’t care what the weather is like while you do paperwork.Would you do your paperwork now with the intention of jogging in a couple of hours in order to get your work done before you exercise?
+
+No, I would not do my paperwork now with the intention of jogging in a couple of hours in order to get my work done before I exercise.
+Why? 
+
+I don't think it would be possible to complete both tasks in the time frame given. 
+------> 16 0 : 80.0 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+Yes, I would cut the vegetables first and then start the water boiling.
+Why?
+
+In this case, it would be faster to cut the vegetables first and then start the water boiling. By the time the water is boiling, the vegetables would be ready to be cooked. 
+------> 16 1 : 80.5 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+No, I would not cut the vegetables first and then start the water boiling in order to satisfy my slight urge to cut vegetables.
+Why?
+
+Because it would take longer overall, and I'm in a hurry. 
+------> 16 2 : 81.0 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+No, I would not cut the vegetables first and then start the water boiling in order to satisfy my slight urge to cut vegetables.
+Why?
+
+There are a few reasons why this wouldn't make sense. First, if you are in a big hurry, boiling the water first will get you done in half the time. Second, cutting the vegetables first may make them more difficult to cook evenly, as they will have more surface area exposed to the heat. Third, if you are using fresh vegetables, they are likely to be more fragile and delicate before they are cut, so cutting them first may make them more difficult to work with. 
+------> 16 3 : 81.5 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+No
+Why?
+
+It would be more efficient to start the water boiling first and then cut the vegetables. 
+------> 16 4 : 82.0 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+No
+Why?
+
+I would not cut the vegetables first and then start the water boiling in order to satisfy my slight urge to cut vegetables because it would take me twice as long to finish the dish. 
+------> 16 5 : 82.5 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+Yes, I would cut the vegetables first and then start the water boiling in order to satisfy my slight urge to cut vegetables.
+Why?
+
+There are a few reasons why this would be the best option. First, it would allow me to get the cutting out of the way so that I can focus on boiling the water and cooking the pasta. Second, it would help me to save time overall since I would be able to get the vegetables prepped and ready to go before starting the water. Finally, it would allow me to satisfy my slight urge to cut vegetables without having to stop what I'm doing to do it. 
+------> 16 6 : 83.0 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+No, I would not cut the vegetables first and then start the water boiling.
+Why?
+
+Because I would rather have the pasta sooner than the vegetables. 
+------> 16 7 : 83.5 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+Yes, I would cut the vegetables first and then start the water boiling.
+Why?
+
+Cutting the vegetables first will help to satisfy my slight urge to cut vegetables. By starting the water boiling afterwards, I can still complete the dish within a reasonable amount of time. 
+------> 16 8 : 84.0 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+Yes, I would cut the vegetables first and then start the water boiling.
+Why?
+
+Because it would take me less time overall to complete the dish if I satisfied my urge to cut vegetables first. Cutting vegetables would take 20 minutes, and then boiling the water would take an additional 20 minutes. This would total 40 minutes, which is the same amount of time it would take me to cut the vegetables and then start the water boiling. 
+------> 16 9 : 84.5 % 
+
+You are preparing pasta with fresh vegetables, and you are deciding on the 
+ order in which you will do the various things you need to do. You are in a big hurry.At the moment you have a slight urge to cut vegetables. If you first start the water boiling and then cut the vegetables you will be done in twenty minutes. If you cut the vegetables and then start the water boiling you will be done in forty minutes.Would you cut the vegetables first and then start the water boiling in order to satisfy your slight urge to cut vegetables?
+
+No
+Why?
+
+It would be more efficient to start the water boiling first, and then use that time to cut the vegetables. This way, the pasta will be done in twenty minutes instead of forty minutes. 
+------> 17 0 : 85.0 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+Yes, I would shower before doing my yard work in order to enjoy a shower now.
+Why?
+
+Showering before doing yard work would allow me to enjoy a shower now and avoid having to shower again before the luncheon. This would help me save water by showering no more than once a day. 
+------> 17 1 : 85.5 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+No
+Why?
+
+Because if I shower before doing my yard work, I'll have to shower again before the luncheon. 
+------> 17 2 : 86.0 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+No
+Why?
+
+I would not shower before doing my yard work because I would have to take another shower before the luncheon and I would rather enjoy taking a shower at the present time. 
+------> 17 3 : 86.5 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+Yes, I would take a shower now so that I could enjoy it and not have to worry about showering again before the luncheon.
+Why?
+
+Lowering my water bill and showering no more than once a day are both important to me, but enjoying a shower now is more important. 
+------> 17 4 : 87.0 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+Yes, I would shower before doing my yard work.
+Why?
+
+I would shower before doing my yard work because I would like to take a shower now. I have a strong commitment to lowering my water bill and to showering no more than once a day, but at the present time I could enjoy taking a shower. 
+------> 17 5 : 87.5 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+No
+Why?
+
+I would not shower before doing my yard work because I have a commitment to showering no more than once a day. 
+------> 17 6 : 88.0 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+I would not shower before doing my yard work in order to enjoy a shower now.
+Why?
+
+Showering twice in one day would be a waste of water and increase my water bill, so I would rather wait and enjoy my shower after I finish my yard work. 
+------> 17 7 : 88.5 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+No, I would not shower before doing my yard work in order to enjoy a shower now.
+Why?
+
+I am committed to lowering my water bill and showering no more than once a day. Although I could enjoy taking a shower now, it would mean that I would have to take another shower before the luncheon. 
+------> 17 8 : 89.0 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+No
+Why?
+
+I would not shower before doing my yard work in order to enjoy a shower now because I have a strong commitment to lowering my water bill and to showering no more than once a day. 
+------> 17 9 : 89.5 % 
+
+You are planning to attend a luncheon this afternoon, and before you go 
+ you will need to take a shower. You have some yard work that you would like to do before then, and doing this yard will cause you to perspire a fair amount.If you shower before you do your yard work you will have to take another shower before the luncheon. At the present time you could enjoy taking a shower. At the same time, you have a very strong commitment to lowering your water bill and to showering no more than once a day.Would you shower before doing your yard work in order to enjoy a shower now?
+
+Yes.
+Why?
+
+It would be more enjoyable to shower now, before doing yard work, than to wait until after yard work and then shower again before the luncheon. This would also help to lower my water bill by showering only once today. 
+------> 18 0 : 90.0 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate to go to the camera shop in the morning in order to do most of your errands in the morning. You should go to the camera shop at the same time as the furniture store so that you can minimize your driving.
+Why?
+
+Since the camera shop is near the furniture store, it would make more sense to go to both places at the same time instead of making a separate trip just for the camera shop. This would save you time and gas. 
+------> 18 1 : 90.5 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate. You should go to the camera shop in the afternoon, when you go to the furniture store. This will minimize the amount of driving you have to do.
+Why?
+
+The camera shop is near the furniture store and far from the bakery. As a result, you will have to do less driving if you go to the camera shop in the afternoon, when you go to the furniture store. 
+------> 18 2 : 91.0 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate to go to the camera shop in the morning in order to do most of your errands in the morning.
+Why?
+
+The camera shop is near the furniture store and far from the bakery, so going to the camera shop in the morning would mean doing more driving than necessary. It would be more efficient to wait and go to the camera shop in the afternoon when you're already in the area for the furniture store. 
+------> 18 3 : 91.5 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning. You should go to the camera shop at the same time as the furniture store so that you can minimize your driving.
+Why?
+
+The reason is that going to the camera shop in the morning would require you to do more driving overall, since the camera shop is far from the bakery. It would be more efficient to go to the camera shop in the afternoon, when you are already going to the furniture store. This would minimize your driving and save you time. 
+------> 18 4 : 92.0 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+It is appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning.
+Why?
+
+The camera shop is near the furniture store and far from the bakery, so you will have to do less driving if you go to the camera shop in the morning when you go to the furniture store. 
+------> 18 5 : 92.5 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate. You would be doing unnecessary driving if you went to the camera shop in the morning.
+Why?
+
+The camera shop is close to the furniture store and far from the bakery. Therefore, it would make more sense to go to the camera shop in the afternoon, when you are already going to be in the vicinity of the store. By doing so, you would minimize the amount of driving you would have to do. 
+------> 18 6 : 93.0 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning. You should go to the camera shop at the same time as the furniture store so that you can minimize your driving.
+Why?
+
+The main reason is that it doesn't make sense to do unnecessary driving. If the camera shop is near the furniture store, then it makes more sense to go to the camera shop when you are already going to the furniture store. This way, you can minimize the amount of driving you have to do. 
+------> 18 7 : 93.5 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate to go to the camera shop in the morning in order to do most of your errands in the morning.
+Why?
+Because you would have to do more driving if you went to the camera shop in the morning. 
+------> 18 8 : 94.0 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning. You would have to do more driving if you went to the camera shop in the morning, and you very much dislike doing unnecessary driving. It would be better for you to go to the camera shop in the afternoon when you go to the furniture store.
+Why?
+
+The main reason is that going to the camera shop in the morning would require more driving. The camera shop is located near the furniture store and far from the bakery. As a result, going to the camera shop in the morning would require more driving than if you went in the afternoon. 
+------> 18 9 : 94.5 % 
+
+You need to go to the bakery in the morning and the furniture 
+ store in the afternoon. You also need to go to the camera shop at some point. You prefer to do most of your errands in the morning, but you very much dislike doing unnecessary driving.The camera shop is near the furniture store and far from the bak-ery. As a result you will have to do less driving if you go to the camera shop in the afternoon when you go to the furniture store.Is it appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning?
+
+No, it is not appropriate for you to go to the camera shop in the morning in order to do most of your errands in the morning. You should go to the camera shop at the same time as the furniture store so that you can minimize your driving.
+Why?
+
+It is not necessary for you to go to the camera shop in the morning in order to do your errands. You can go to the camera shop at the same time as the furniture store, which will minimize your driving. 
+------> 19 0 : 95.0 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+No, it is not appropriate to take Firm B's offer in order to have two more days of vacation per year.
+Why?
+
+The two firms and the two positions are otherwise very similar, so the deciding factor should not be the number of vacation days. Two more vacation days per year is not worth half the salary. 
+------> 19 1 : 95.5 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+There is no right or wrong answer to this question, as it depends on the individual's preferences. Some people may feel that the extra two days of vacation are worth the trade-off of a lower salary, while others may prefer the higher salary and fewer vacation days. Ultimately, the decision comes down to what the individual values most.
+Why?
+
+The reason why this is appropriate is because it is a personal decision that depends on the individual's preferences. Some people may feel that the extra two days of vacation are worth the trade-off of a lower salary, while others may prefer the higher salary and fewer vacation days. Ultimately, the decision comes down to what the individual values most. 
+------> 19 2 : 96.0 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+No, it is not appropriate for you to take Firm B's offer in order to have two more days of vacation per year.
+Why? 
+
+The reason is that the two firms and the two positions are otherwise very similar. Therefore, it would not make sense to take Firm B's offer just for the sake of having two more days of vacation per year. 
+------> 19 3 : 96.5 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+There is no right answer to this question, as it depends on the individual's priorities. Some people might prefer the extra vacation days and feel that the lower salary is worth it, while others might prefer the higher salary and feel that the extra vacation days are not worth the pay cut. Ultimately, the decision comes down to what the individual values more.
+Why?
+
+The two firms and the two positions are otherwise very similar, so the individual's decision will come down to what they value more: a higher salary or more vacation days. If the individual values a higher salary more, then they will probably choose to accept Firm A's offer. If the individual values more vacation days more, then they will probably choose to accept Firm B's offer. 
+------> 19 4 : 97.0 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+There is no right or wrong answer to this question, as it depends on the individual's priorities. Some people might prefer to have the extra two days of vacation per year, while others might prefer the higher salary.
+Why?
+
+The main reason why someone might prefer Firm B's offer is because they place a higher value on having extra time off. This might be because they have a young family and want to spend more time with them, or because they enjoy traveling and want to have more time to explore. Other factors, such as the cost of living in the area where the two firms are located, could also play a role in the decision. 
+------> 19 5 : 97.5 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+There is no right or wrong answer to this question, as it depends on the individual's priorities. Some people might prefer to have the extra two days of vacation, while others might prefer the higher salary.
+Why?
+
+Some people might prefer the extra two days of vacation because it would allow them more time to relax or travel. Others might prefer the higher salary because it would give them more financial security. 
+------> 19 6 : 98.0 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+It is appropriate for you to take Firm B's offer in order to have two more days of vacation per year.
+Why?
+
+The two firms and the two positions are otherwise very similar, so the deciding factor in this case is the amount of vacation time. Two more days of vacation per year is a significant difference, and it may be worth taking a lower salary in order to have that extra time off. 
+------> 19 7 : 98.5 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+No, it is not appropriate to take Firm B's offer in order to have two more days of vacation per year. The two firms and the two positions are otherwise very similar, so the appropriate decision would be to take Firm A's offer.
+Why?
+
+The appropriate decision would be to take Firm A's offer because the salary is much higher. The two firms and the two positions are otherwise very similar, so the extra two days of vacation per year offered by Firm B would not be worth the significant difference in salary. 
+------> 19 8 : 99.0 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+There is no right or wrong answer to this question, as it depends on the individual's preferences. Some people might prefer to have more vacation days, while others might prefer to have a higher salary.
+Why?
+
+Some people might prefer to have more vacation days because it would allow them to have more time off work to relax or travel. Others might prefer to have a higher salary because it would give them more financial security or allow them to purchase more expensive items. Ultimately, it is up to the individual to decide which offer is more attractive to them. 
+------> 19 9 : 99.5 % 
+
+You have been offered employment by two different firms, and you are 
+ trying to decide which offer to accept.Firm A has offered you an annual salary of $100,000 and fourteen days of vacation per year. Firm B has offered you an annual salary of $50,000 and sixteen days of vacation per year. The two firms and the two positions are otherwise very similar.Is it appropriate for you to take Firm B’s offer in order to have two more days of vacation per year?
+
+There is no right answer to this question, as it depends on the individual's priorities. Some people might prefer to have more vacation days, while others might prefer a higher salary. Ultimately, the decision comes down to what is most important to the individual.
+Why?
+
+The reason is that there is no right or wrong answer to this question, as it depends on the individual's priorities. Some people might prefer to have more vacation days, while others might prefer a higher salary. Ultimately, the decision comes down to what is most important to the individual. 

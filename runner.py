@@ -4,6 +4,7 @@ import threading
 from datetime import datetime
 import json
 import pandas as pd
+import tqdm
 
 from module import Module
 
@@ -31,7 +32,7 @@ class UI:
 
 
 class Runner(Module, threading.Thread):
-    def __init__(self, config, dataset, model, console_logger,
+    def __init__(self, config, dataset, model, 
                  json_logger, analyser, communicate=None):
         super().__init__(config)
         threading.Thread.__init__(self)
@@ -43,11 +44,10 @@ class Runner(Module, threading.Thread):
             now = datetime.now().strftime("%d_%m_%Y__%H:%M:%S")
             self.config['name'] = f'{data_file_name}-{now}'
 
-        self.save_path = os.path.join('TRAININGS', self.config['name'])
+        self.save_path = os.path.join('GPT3', self.config['exp'], self.config['name'])
 
         self.dataset = dataset(self.config)
         self.model = model(self.config)
-        self.console_logger = console_logger(self.config)
         self.json_logger = json_logger(self.config)
 
         self.analyser = analyser(self.config)
@@ -85,7 +85,9 @@ class Runner(Module, threading.Thread):
         print('TRAINING STARTED : ', self.name)
 
         count_iter = 0
-        # Prepare the logger
+        # Prepare the console progress bar
+        pbar = tqdm.tqdm(total=self.n_iter, desc='Processing')
+
         # Iterate over the dataset
         for qi, q in enumerate(self.dataset):
             if self.is_stopped():
@@ -112,6 +114,7 @@ class Runner(Module, threading.Thread):
 
                     if self.ui is not None:
                         self.ui.update_progess_bar(count_iter/self.n_iter*100)
+                        pbar.update(1)
 
                         if qaski == 0:
                             self.ui.display_question(q, ti)
@@ -121,24 +124,25 @@ class Runner(Module, threading.Thread):
                         self.ui.display_answer(a)
 
                     self.prepare_dataframe(
-                        qi=q.id, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
+                        qi=q.id, title=q.title, q=qask, q_id=qaski, i=ti, a_id=qaski, a=a)
 
                     self.save_json(q.id, q, ti, qaski, qask, fa)
 
-                self.save_buffer(q.id, ti)
+                pbar.set_description('Saving everything...')
                 self.save_dataframe()
+                self.save_config()
 
         # saves a panda dataframe
         self.save_dataframe()
 
         # Save the .xlsx file
-        self.analyser.load()
-        self.analyser.print_to_xlsx()
+ #       self.analyser.load()
+ #       self.analyser.print_to_xlsx()
 
-        # Save all the scores
-        for score in self.config['analyses']:
-            self.analyser.compute_scores(score, save=True)
-
+ #       # Save all the scores
+ #       for score in self.config['analyses']:
+ #           self.analyser.compute_scores(score, save=True)
+## 
         # Print the finish statement
         print('TRAINING FINISHED : ', self.name)
 
@@ -149,15 +153,6 @@ class Runner(Module, threading.Thread):
         if self.ui is not None:
             self.ui.update_progess_bar(100)
             self.ui.done()
-
-    def save_buffer(self, qi, ti):
-        with self.console_logger as console_logger:
-           # Print results
-            console_logger.log(
-                '------>', qi, ti, ':', (ti+qi*self.config['nb_run_per_question'])/(
-                    len(self.dataset)*self.config['nb_run_per_question'])*100, '%')
-            # save buffer
-            console_logger.log(self.model.rec_buffer)
 
     def save_json(self, qi, q, ti, qaski, qask, fa):
         """
@@ -178,9 +173,9 @@ class Runner(Module, threading.Thread):
         f = open(os.path.join(self.save_path, 'config.json'), 'w')
         json.dump(self.config, f)
 
-    def prepare_dataframe(self, qi, q, q_id, i, a_id, a):
+    def prepare_dataframe(self, title, qi, q, q_id, i, a_id, a):
         self.future_df.append(
-            {'item_id': qi, 'question': q,  'q_id': q_id, 'iter': i, 'a_id': a_id, 'a': a})
+            {'item_id': qi, 'question': q,  'title': title, 'q_id': q_id, 'iter': i, 'a_id': a_id, 'a': a})
 
     def save_dataframe(self):
         df = pd.DataFrame(self.future_df)

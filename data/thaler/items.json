@@ -1,0 +1,112 @@
+[
+      {
+            "title": "Hardware",
+            "text": "A hardware store has been selling snow shovels for $15. The morning after \n a large snowstorm, the store raises the price to $20. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 1
+      },
+      {
+            "title": "Photocopy",
+            "text": "A small photocopying shop has one employee who has worked in the shop \n for six months and earns $9 per hour. Business continues to be satisfactory, but a factory in the area has closed and unemployment has increased. Other small shops have now hired reliable workers at $7 an hour to perform jobs similar to those done by thephotocopy shop employee. The owner of the photocopying shop reduces the employee'swage to $7. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 2
+      },
+      {
+            "title": "Photocopy 2",
+            "text": "A small photocopying shop has one employee who has worked in the shop \n for six months and earns $9 per hour. Business continues to be satisfactory, but a factory in the area has closed and unemployment has increased. Other small shops have now hired reliable workers at $7 an hour to perform jobs similar to those done by thephotocopy shop employee. The owner of the photocopying shop reduces the employee'swage to $7. The current employee leaves, and the owner decides to pay a replacement $7 an hour. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 2
+      },
+      {
+            "title": "Painter",
+            "text": "A house painter employs two assistants and pays them $9 per hour. The \n painter decides to quit house painting and go into the business of providing landscape services, where the going wage is lower. He reduces the workers' wages to $7 per hourfor the landscaping work. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 3
+      },
+      {
+            "title": "Community company",
+            "text": "A company is making a small profit. It is located in a community \n experiencing a recession with substantial unemployment but no inflation. There are many workers anxious to work at the company. The company decides to decrease wages andsalaries 7% this year. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 4
+      },
+      {
+            "title": "Community company 2 ",
+            "text": "A company is making a small profit. It is located in a community \n experiencing a recession with substantial unemployment abd inflation of 12%. There are many workers anxious to work at the company. The company decides to increase salaries only  5% this year. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 5
+      },
+      {
+            "title": "Automobile",
+            "text": "A shortage has developed for a popular model of automobile, and customers must \n now wait two months for delivery. Adealer has been selling these cars at list price. Now the dealer prices this model at $200 above list price. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 6
+      },
+      {
+            "title": "Automobile 2",
+            "text": "A shortage has developed for a popular model of automobile, and customers must \n now wait two months for delivery. A dealer has been selling these cars at a discount of $200 below list price. Now the dealer sells this model only atlist price. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 7
+      },
+      {
+            "title": "Company reduce",
+            "text": "A small company employs several people. The workers' incomes have been about average \n for the community. In recent months, business for the company has not increased as it had before. The owners reduce the workers' wages by 10 percent for the next year. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 8
+      },
+      {
+            "title": "Company reduce 2 ",
+            "text": "A small company employs several people. The workers have been receiving a 10 \n percent annual bonus each yearand their total incomes have been about average for the community. In recent months, business for the company has not increased as it had before. The owners eliminate the workers' bonus for the year. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 9
+      },
+      {
+            "title": "Lettuce",
+            "text": "Suppose that, due to a transportation mixup, there is a local shortage of \n lettuce and the wholesale price has increased. A local grocer has bought the usual quantity of lettuce at a price that is 30 cents per head higher than normal. The grocer raises the price of lettuce to customers by 30 cents per head. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 10
+      },
+      {
+            "title": "Landlord",
+            "text": "A landlord owns and rents out a single small house to a tenant \n who is living on a fixed income. A higher rent would mean the tenant would have to move. Other small rental houses are available. The landlord's costs have increased substantially over the past year and the landlord raises the rent to cover the cost increases when the tenant'slease is due for renewal. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 11
+      },
+      {
+            "title": " Company reduce 3",
+            "text": "A small company employs several workers and has been paying them average wages. \n There is severe unemployment in the area and the company could easily replace its current employees with good workers at a lower wage. The company has been making money. The owners reduce the current workers' wages by 5 percent. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 12
+      },
+      {
+            "title": " Company reduce 4",
+            "text": "A small company employs several workers and has been paying them average wages. \n There is severe unemployment in the area and the company could easily replace its current employees with good workers at a lower wage. The company has been making money. The owners reduce the current workers' wages by 5 percent. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 13
+      },
+      {
+            "title": "Grocery",
+            "text": "A grocery store has several months supply of peanut butter in stock which \n it has on the shelves and in the storeroom. The owner hears that the wholesale price of peanut butter has increased and immediately raises the price on the currentstock of peanut butter. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 14
+      },
+      {
+            "title": "Factory",
+            "text": "A small factory produces tables and sells all that it can make at \n $200 each. Because of changes in the price of materials, the cost of making each table has recently decreased by $40. The factory reduces its price for the tables by $20. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 15
+      },
+      {
+            "title": "Factory 2 ",
+            "text": "A small factory produces tables and sells all that it can make at \n $200 each. Because of changes in the price of materials, the cost of making each table has recently decreased by $40. The factory reduces its price for the tables by $20. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 15
+      },
+      {
+            "title": "Apples",
+            "text": "A severe shortage of Red Delicious apples has developed in a communityand none \n of the grocery stores or produce markets have any of this type of apple ontheir shelves. Other varieties of apples are plentiful in all of the stores. One grocerreceives a single shipment of Red Delicious apples at the regular wholesale cost and raises the retail price of these Red Delicious apples by 25% over the regular price. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 16
+      },
+      {
+            "title": "Grocery 2",
+            "text": "A grocery chain has stores in many communities. Most of them face competition \n from other groceries. In one com-munity the chain has no competition. Although its costs and volume of sales are thesame there as elsewhere, the chain sets prices that average 5 percent higher than in othercommunities. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 16
+      },
+      {
+            "title": "Landlord 2",
+            "text": "A landlord rents out a small house. When the lease is due for \n renewal, the landlord learns that the tenant has taken ajob very close to the house and is therefore unlikely to move. The landlord raises the rent $40 per month more than he was planning to do. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 17
+      },
+      {
+            "title": "Doll",
+            "text": "A store has been sold out of the popular Cabbage Patch dolls for \n a month. A week before Christmas a single doll is discovered in a storeroom. The managers know that many customers would like to buy the doll. They announce over the store's public address system that the doll will be sold by auction to the customer who offers to paythe most. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 18
+      },
+      {
+            "title": "Most qualified",
+            "text": "A business in a community with high unemployment needs to hire a newcomputer \n operator. Four candidates are judged to be completely qualified for the job. The manager asks the candidates to state the lowest salary they would be willing to accept, and then hires the one who demands the lowest salary. Please rate this action as:\nCompletely Fair, Acceptable, Unfair, Very Unfair.",
+            "id": 19
+      }
+]

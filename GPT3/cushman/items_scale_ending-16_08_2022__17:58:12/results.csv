@@ -1,0 +1,387 @@
+,item_id,question,q_id,iter,a_id,a
+0,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,0,0,"
+5"
+1,3,Why?,1,0,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod. Connor may lose one life, but he will save five."
+2,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,1,0,"
+5"
+3,3,Why?,1,1,1,"
+
+Pushing the one visitor off of the oxygen supply line is the only way to save the five other visitors in the pod. Although the one visitor will die, Connor's actions will result in the greatest number of people surviving."
+4,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,2,0,"
+5"
+5,3,Why?,1,2,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod."
+6,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,3,0,"
+The morally correct thing to do would be to push the one visitor off the supply line so that the five visitors in the pod can have their oxygen restored and will live."
+7,3,Why?,1,3,1," 
+
+The answer is utilitarian in nature. It is based on the principle of the greatest good for the greatest number of people. In this case, the greatest good is saving the lives of the five visitors in the pod, even if it means sacrificing the life of the one visitor."
+8,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,4,0,"
+5"
+9,3,Why?,1,4,1,"
+
+Pushing the one visitor is the only way to save the five other visitors. Connor may lose one life, but he will save five others."
+10,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,5,0,"
+5"
+11,3,Why?,1,5,1,"
+
+Pushing the one visitor is the only way to restore oxygen to the five visitors in the pod, and thus the only way to save their lives."
+12,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,6,0,"
+5"
+13,3,Why?,1,6,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod."
+14,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,7,0,"
+5"
+15,3,Why?,1,7,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod. Although the one visitor will die, Connor will be saving five lives."
+16,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,8,0,"
+5"
+17,3,Why?,1,8,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod. Connor cannot do both."
+18,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,9,0,"
+5"
+19,3,Why?,1,9,1,"
+
+Because by doing so, he will be saving the lives of the five other people in the pod."
+20,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,10,0,"
+5"
+21,3,Why?,1,10,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod."
+22,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,11,0,"
+3"
+23,3,Why?,1,11,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod."
+24,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,12,0,"
+5"
+25,3,Why?,1,12,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod."
+26,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,13,0,"
+5"
+27,3,Why?,1,13,1,"
+
+Pushing the one visitor is the only way to save the five visitors in the pod."
+28,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,14,0,"
+The morally correct course of action would be to push the one visitor off the oxygen supply line so that the five other visitors can be saved."
+29,3,Why?,1,14,1,"
+
+The one visitor has already broken his neck and is not going to survive regardless of whether he is moved or not. On the other hand, the five other visitors will die if they do not receive oxygen. Therefore, saving the five other visitors is more important than saving the one visitor."
+30,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,15,0,"
+5"
+31,3,Why?,1,15,1,"
+
+Pushing the one visitor off the supply line will save the lives of the five visitors in the pod."
+32,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,16,0,"
+The correct answer is ""the morally right thing to do."""
+33,3,Why?,1,16,1," Because, as the question states, if Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die. If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live. Therefore, Connor's actions will result in more lives being saved, which is the morally right thing to do."
+34,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,17,0,"
+5"
+35,3,Why?,1,17,1,"
+
+By pushing the one visitor off the supply line, Connor will save the lives of the five visitors in the pod."
+36,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,18,0,"
+5"
+37,3,Why?,1,18,1,"
+
+Pushing the one visitor is the only way to save the five other visitors in the pod."
+38,3,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Connor is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die.  If Connor does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Connor pushes the one visitor off the supply line this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pushing the one visitor is…  
+ Answer:
+",0,19,0,"
+5"
+39,3,Why?,1,19,1,"
+
+Pushing the one visitor off the supply line is the only way to save the five other visitors."
+40,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,0,0,"
+5"
+41,4,Why?,1,0,1,"
+
+Pulling the supply line is the only way to save the five visitors in the pod. Although it will result in the death of the one visitor, this is the lesser of two evils."
+42,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,1,0,"
+5"
+43,4,Why?,1,1,1,"
+
+Because it will save the lives of the five people in the pod, even though it will result in the death of the one visitor."
+44,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,2,0,"
+5"
+45,4,Why?,1,2,1,"
+
+Pulling the supply line is the best option, as it will save the lives of the five visitors in the pod. Although this will result in the death of the one visitor, this is the best option as it will result in the most overall lives saved."
+46,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,3,0,"
+5"
+47,4,Why?,1,3,1,"
+
+Pulling the supply line is the only way to save the five visitors in the pod. Even though it will result in the death of the one visitor, it is the only way to save the others."
+48,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,4,0,"
+5"
+49,4,Why?,1,4,1, Because it will result in the greatest number of people surviving.
+50,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,5,0,"
+5"
+51,4,Why?,1,5,1,"
+
+Because it will save the lives of the five visitors in the pod, even though it will result in the death of the one visitor who is not in the pod."
+52,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,6,0,"
+5"
+53,4,Why?,1,6,1,"
+
+Pulling the supply line is the only way to save the five visitors in the pod. While it will result in the death of the one visitor on the floor, this is the lesser of two evils."
+54,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,7,0,"
+5"
+55,4,Why?,1,7,1,"
+
+Because it will save the lives of the five visitors in the pod, even though it will result in the death of the one visitor who is not in the pod."
+56,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,8,0,"
+5"
+57,4,Why?,1,8,1,"
+
+Pulling the supply line is the best option because it will save the lives of the five visitors in the pod. Although one visitor will die as a result, this is the best option because it will result in the greatest number of lives saved."
+58,4,"Question:  Adam is driving his motorboat when he notices five swimmers drowning in 
+ the distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers.  If Adam does not accelerate quickly, the five swimmers will drown. Accelerating quickly is…
+Answer: 4
+
+
+Question:Mike is at a new aquarium exhibit when he sees a visitor slip 
+ on a wet floor, fall down, and break his neck.  The visitor is still alive and can be safely evacuated by medics so long as he is not moved. He has fallen, however, on top of the oxygen supply line servicing five other visitors in an underwater observation pod.  Without oxygen, the five visitors will soon die. If Mike does nothing the one visitor will be safely evacuated, but the five visitors in the pod will die.  If Mike pulls the supply line out from under the one visitor this one visitor will die, but the five visitors in the pod will have their oxygen restored and will live.  Pulling the supply line is…   
+ Answer:
+",0,9,0,"
+5"
+59,4,Why?,1,9,1,"
+
+Because it will save the lives of the five visitors in the pod, even though it will result in the death of the one visitor who is falling on top of it."

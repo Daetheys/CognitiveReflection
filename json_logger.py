@@ -47,7 +47,7 @@ class JSONLogger(Module):
 
     @property
     def path(self):
-        return os.path.join('TRAININGS',self.name)
+        return os.path.join('GPT3',self.exp, self.name)
         
     @property
     def log(self):

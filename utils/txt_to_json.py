@@ -34,7 +34,7 @@ def greene():
 
     """
 
-    filepath = 'data/green_2006/non_moral'
+    filepath = 'data/green_2006/impersonal_moral'
     data = []
 
     with open(f'{filepath}.txt', 'r') as f:
@@ -141,8 +141,43 @@ def cushman():
     with open(f'{filepath}_scale.json', 'w', encoding='utf8') as f:
         json.dump(data, f, indent=6, ensure_ascii=False)
 
+def thaler():
+    filepath = 'data/thaler/items'
+    data = []
 
+    with open(f'{filepath}.txt', 'r') as f:
+        txt = f.read()
+        txt = txt.split('/**/')
+        for question in txt:
+            
+            # get the number just before the title
+            number = int(
+                "".join([c for c in question.split('.')[0] if c.isdigit()])
+            )
+
+            # get the title (just before the first .)
+            title = "".join([c for c in question.split('.')[1].split('\n')[0]]).replace(
+                '\t', '').replace('\n', '')
+            if title.startswith(' '):
+                title = title[1:]
+
+            text = question.split(title)[1].replace('\n', '').replace('\t', '')
+            
+            # break the line after 12 words
+            n = 12
+            
+            temp_text = text.split(' ')
+            
+            text = " ".join([[w, w+' \n'][i==n] for i, w in enumerate(temp_text)])
+            text = re.sub(r'(?<=[.,])(?=[^\s])', r' ', text)
+            text = text.replace(':', ':\n')
+
+
+            data.append({'title': title, 'text': text, 'id': number})
+
+    with open(f'{filepath}.json', 'w', encoding='utf8') as f:
+        json.dump(data, f, indent=6, ensure_ascii=False)
 
 
 if __name__ == '__main__':
-    cushman()
+    thaler()

@@ -1,0 +1,1 @@
+{"engine": "text-davinci-002", "temperature": 0.7, "max_tokens": 256, "question_mode": "full", "nb_answers": 0, "additional_questions": ["Why?"], "nb_run_per_question": 20, "name": "items_scale_ending-16_08_2022__17:58:12", "prefix": "items_scale_ending", "data_path": "data/cushman_2006/items_scale_ending.json", "analyses": []}

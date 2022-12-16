@@ -1,0 +1,15 @@
+,item_id,question,q_id,iter,a_id,a
+0,1,"Adam is driving his motorboat when he notices five swimmers drowning in the 
+ distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers. If Adam does not accelerate quickly, the five swimmers will drown. Is accelerating quickly the right thing to do?
+",0,0,0,"
+Yes, accelerating quickly is the right thing to do."
+1,1,Why?,1,0,1,"
+
+Because if Adam does not drive toward them at top speed, he will not arrive in time, and all five will die."
+2,1,"Adam is driving his motorboat when he notices five swimmers drowning in the 
+ distance. If Adam does not drive toward them at top speed he will not arrive in time, and all five will die. In order to drive at top speed, Adam must accelerate quickly. If Adam accelerates quickly, he will save the five drowning swimmers. If Adam does not accelerate quickly, the five swimmers will drown. Is accelerating quickly the right thing to do?
+",0,1,0,"
+Yes, accelerating quickly is the right thing to do in this situation."
+3,1,Why?,1,1,1,"
+
+Because if Adam doesn't drive toward the swimmers at top speed, they will all drown."

@@ -11,8 +11,11 @@ class Question:
 
     def setup(self, prompt_mode='full', nb_answers=4):
 
+        # check prompt_mode is a valid value
         assert prompt_mode in ['full', 'half']
+        # set prompt_mode as a class variable
         self.prompt_mode = prompt_mode
+        # set nb_answers as a class variable
         self.nb_answers = nb_answers
 
     def serialize(self):

@@ -29,11 +29,13 @@ class GPTJ(Model):
             # Extract the text from the answer
             out_text = answer.get('choices')[0].get('text')
             return out_text, answer
-        except openai.error.APIError:  # Due to the internet network errors may occur and a new request can be sent
+        except (openai.error.APIError, openai.error.ServiceUnavailableError,
+         openai.error.RateLimitError) as error:  
             self.error_count += 1
+            print('Error: ', error)
             if self.error_count > self.error_count_max:
                 print('Too many errors')
-                assert False  # Too many errors in communicating with the server -> The process will stop to avoid spending too much money in bugs
+                # assert False  # Too many errors in communicating with the server -> The process will stop to avoid spending too much money in bugs
             print('Bad GateWay -- retrying in 1sec')
             time.sleep(1)  # Wait a bit before sending another request
             return self.ask(prompt)

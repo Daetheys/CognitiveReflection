@@ -1,1 +1,0 @@
-{"engine": "text-davinci-003", "temperature": 0.7, "max_tokens": 256, "question_mode": "full", "nb_answers": 0, "additional_questions": ["Why?"], "nb_run_per_question": 30, "name": "personal_moral-16_12_2022__17:44:08", "prefix": "greene", "data_path": "data/greene/personal_moral.json", "analyses": [], "exp": "greene"}

@@ -19,7 +19,7 @@ openai.api_key = config('OPENAI_API_KEY')
 # Basic configuration
 base_config = SafeDict(**{
     # Engine
-    "engine": 'text-davinci-003',  # engine being used from the API
+    "engine": 'text-davinci-002',  # engine being used from the API
     "temperature": 0.7,  # Temperature of the softmax sampling for the engine
     "max_tokens": 256,  # Max nb of tokens that will be processed by the engine
 
@@ -46,8 +46,8 @@ base_config = SafeDict(**{
 def main(args):
 
     # TODO: select config file/dataset and save path from ui
-    exp_name = 'greene'
-    items_filename = 'personal_moral'
+    exp_name = 'cushman'
+    items_filename = 'items'
 
     param = base_config.copy()
     param["additional_questions"] = ['Why?']

@@ -46,8 +46,8 @@ base_config = SafeDict(**{
 def main(args):
 
     # TODO: select config file/dataset and save path from ui
-    exp_name = 'cushman'
-    items_filename = 'items'
+    exp_name = 'greene'
+    items_filename = 'personal_moral'
 
     param = base_config.copy()
     param["additional_questions"] = ['Why?']

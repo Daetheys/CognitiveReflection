@@ -1,7 +1,7 @@
 [
       {
             "title": "Standard Trolley",
-            "text": "You are at the wheel of a runaway trolley quickly approaching a fork \n in the tracks. On the tracks extending to the left is a group of fi ve railway workmen. On the tracks extending to the right is a single railway workman. If you do nothing the trolley will proceed to the left, causing the deaths of the five workmen. The only way to avoid the deaths of these workmen is to hit a switch on your dashboard that will cause the trolley to proceed to the right, causing the death of the single workman. Is it appropriate for you to hit the switch in order to avoid the deaths of the five workmen?",
+            "text": "You are at the wheel of a runaway trolley quickly approaching a fork \n in the tracks. On the tracks extending to the left is a group of five railway workmen. On the tracks extending to the right is a single railway workman. If you do nothing the trolley will proceed to the left, causing the deaths of the five workmen. The only way to avoid the deaths of these workmen is to hit a switch on your dashboard that will cause the trolley to proceed to the right, causing the death of the single workman. Is it appropriate for you to hit the switch in order to avoid the deaths of the five workmen?",
             "id": 1
       },
       {

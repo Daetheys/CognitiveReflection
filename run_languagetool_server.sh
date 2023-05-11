@@ -1,0 +1,1 @@
+java -cp utils/LanguageTool-6.0/languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 --allow-origins

@@ -2,10 +2,8 @@ class Question:
     def __init__(self, prompt, answers=None, id=None, title=None):
         self.prompt = prompt
         self.answers = answers
-        
         self.title = title
         self.id = id 
-
         self.prompt_mode = 'full'
         self.nb_answers = 4
 

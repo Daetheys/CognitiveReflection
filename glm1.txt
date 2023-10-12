@@ -4,7 +4,7 @@ Dep. Variable:                p_human   No. Observations:                10596
 Model:                          Logit   Df Residuals:                    10584
 Method:                           MLE   Df Model:                           11
 Date:                Thu, 28 Sep 2023   Pseudo R-squ.:                 0.06413
-Time:                        01:00:39   Log-Likelihood:                -6589.5
+Time:                        17:29:24   Log-Likelihood:                -6589.5
 converged:                       True   LL-Null:                       -7041.1
 Covariance Type:            nonrobust   LLR p-value:                1.308e-186
 =====================================================================================================
